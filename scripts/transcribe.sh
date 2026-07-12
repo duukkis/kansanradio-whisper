@@ -1,0 +1,79 @@
+#!/bin/zsh
+
+set -euo pipefail
+
+source "$(dirname "$0")/config.sh"
+
+if [[ ! -f "$AUDIO_FILE" ]]; then
+    echo "Audio file not found: $AUDIO_FILE" >&2
+    exit 1
+fi
+
+if [[ ! -s "$LAST_EPISODE_FILE" || ! -s "$CURRENT_DATE_FILE" ]]; then
+    echo "Episode ID or publication date is missing." >&2
+    exit 1
+fi
+
+PROGRAM_ID="$(<"$LAST_EPISODE_FILE")"
+PUBLISHED="$(<"$CURRENT_DATE_FILE")"
+
+if [[ ! "$PROGRAM_ID" =~ '^[A-Za-z0-9._-]+$' || ! "$PUBLISHED" =~ '^[0-9]{4}-[0-9]{2}-[0-9]{2}$' ]]; then
+    echo "Invalid episode ID or publication date." >&2
+    exit 1
+fi
+
+mkdir -p "$TRANSCRIPT_DIR"
+
+OUTPUT_BASENAME="${PUBLISHED}-${PROGRAM_ID}"
+OUTPUT_BASE="$TRANSCRIPT_DIR/$OUTPUT_BASENAME"
+TRANSCRIPT_FILE="${OUTPUT_BASE}.txt"
+TRANSCRIPT_METADATA_FILE="${OUTPUT_BASE}.json"
+LOCK_DIR="$DATA_DIR/transcribe.lock"
+
+release_lock() {
+    rm -f -- "$LOCK_DIR/pid"
+    rmdir "$LOCK_DIR" 2>/dev/null || true
+}
+
+if ! mkdir "$LOCK_DIR" 2>/dev/null; then
+    LOCK_PID=""
+    if [[ -f "$LOCK_DIR/pid" ]]; then
+        read -r LOCK_PID < "$LOCK_DIR/pid"
+    fi
+
+    if [[ "$LOCK_PID" == <-> ]] && ! kill -0 "$LOCK_PID" 2>/dev/null; then
+        echo "Removing stale transcription lock from process $LOCK_PID."
+        release_lock
+        mkdir "$LOCK_DIR"
+    else
+        echo "A transcription is already running; skipping this invocation."
+        exit 10
+    fi
+fi
+
+print -r -- "$$" > "$LOCK_DIR/pid"
+trap release_lock EXIT
+
+echo "Transcribing $PROGRAM_ID ($PUBLISHED)..."
+"$WHISPER" \
+    -m "$WHISPER_MODEL" \
+    -l fi \
+    -f "$AUDIO_FILE" \
+    -otxt \
+    -of "$OUTPUT_BASE"
+
+if [[ ! -s "$TRANSCRIPT_FILE" ]]; then
+    echo "Whisper completed without creating a transcript: $TRANSCRIPT_FILE" >&2
+    exit 1
+fi
+
+python3 "$SCRIPT_DIR/write_transcript_metadata.py" \
+    "$METADATA_FILE" \
+    "$PROGRAM_ID" \
+    "$TRANSCRIPT_METADATA_FILE" \
+    "$WHISPER_MODEL" \
+    "$AUDIO_FILE" \
+    "$TRANSCRIPT_FILE"
+
+echo "Transcript written to: $TRANSCRIPT_FILE"
+echo "Metadata written to: $TRANSCRIPT_METADATA_FILE"

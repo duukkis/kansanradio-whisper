@@ -1,0 +1,20 @@
+#!/bin/zsh
+
+YLE_URL="https://areena.yle.fi/audio/1-2143312"
+
+ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+SCRIPT_DIR="$ROOT_DIR/scripts"
+
+DATA_DIR="$ROOT_DIR/data"
+AUDIO_FILE="$DATA_DIR/episode.mp3"
+METADATA_FILE="$DATA_DIR/latest.json"
+TRANSCRIPT_DIR="$DATA_DIR/transcripts"
+LOG_DIR="$DATA_DIR/logs"
+
+WHISPER_MODEL="$ROOT_DIR/models/ggml-model-fi-medium.bin"
+
+YLE_DL="$HOME/Library/Python/3.9/bin/yle-dl"
+WHISPER="/opt/homebrew/bin/whisper-cli"
+
+LAST_EPISODE_FILE="$DATA_DIR/last_episode_id.txt"
+CURRENT_DATE_FILE="$DATA_DIR/current_episode_date.txt"
