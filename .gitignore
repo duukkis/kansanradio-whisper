@@ -1,2 +1,7 @@
 # Local Whisper model files
 models/*.bin
+
+# Transient downloaded episode files
+data/current_episode_date.txt
+data/episode.mp3
+data/latest.json
