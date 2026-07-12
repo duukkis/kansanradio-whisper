@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78129415",
+    "webpage": "https://areena.yle.fi/1-78129415",
+    "title": "Kansanradio: Kävelkää kesällä paljain jaloin: 2026-07-10T21:00",
+    "episode_title": "Kansanradio: Kävelkää kesällä paljain jaloin",
+    "description": "Arkipäivän aiheiden lisäksi Kansanradiossa ollaan myös kiinni päivän politiikassa. Eikö areenoita ole jo tarpeeksi? Lisäksi kansanedustajille ehdotetaan tasokoetta. Suuri mysteeri paljastuu: miksi moppaajat eivät enää peruuta.\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Kävelkää kesällä paljain jaloin: 2026-07-10T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-947b5fddc3b54347a793428c314574a7/audio-1783527880702.mp3?hdnts=exp=1783926422~acl=/aod/world/78-947b5fddc3b54347a793428c314574a7/*~hmac=69ca6ff1d22e3f88cf595a0419fea204306352e83311343be40b8f4d294421c6"
+      }
+    ],
+    "duration_seconds": 1999,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-07-10T21:00:00+03:00"
+  }
+]
