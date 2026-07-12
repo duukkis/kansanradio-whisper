@@ -3,17 +3,17 @@
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$SCRIPT_DIR"
 
-./download.sh
+zsh ./download.sh
 STATUS=$?
 
 case $STATUS in
     0)
-        ./transcribe.sh
+        zsh ./transcribe.sh
         STATUS=$?
         case $STATUS in
             0)
-                ./publish.sh || exit 1
-                ./cleanup.sh || exit 1
+                zsh ./publish.sh || exit 1
+                zsh ./cleanup.sh || exit 1
                 ;;
             10)
                 echo "Transcription is already running."

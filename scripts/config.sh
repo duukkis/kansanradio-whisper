@@ -9,6 +9,7 @@ DATA_DIR="$ROOT_DIR/data"
 AUDIO_FILE="$DATA_DIR/episode.mp3"
 METADATA_FILE="$DATA_DIR/latest.json"
 TRANSCRIPT_DIR="$DATA_DIR/transcripts"
+TRANSCRIPT_METADATA_DIR="$DATA_DIR/metadata"
 LOG_DIR="$DATA_DIR/logs"
 
 WHISPER_MODEL="$ROOT_DIR/models/ggml-model-fi-medium.bin"

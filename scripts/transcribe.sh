@@ -22,12 +22,10 @@ if [[ ! "$PROGRAM_ID" =~ '^[A-Za-z0-9._-]+$' || ! "$PUBLISHED" =~ '^[0-9]{4}-[0-
     exit 1
 fi
 
-mkdir -p "$TRANSCRIPT_DIR"
-
 OUTPUT_BASENAME="${PUBLISHED}-${PROGRAM_ID}"
 OUTPUT_BASE="$TRANSCRIPT_DIR/$OUTPUT_BASENAME"
-TRANSCRIPT_FILE="${OUTPUT_BASE}.txt"
-TRANSCRIPT_METADATA_FILE="${OUTPUT_BASE}.json"
+TRANSCRIPT_FILE="${OUTPUT_BASE}.srt"
+TRANSCRIPT_METADATA_FILE="$TRANSCRIPT_METADATA_DIR/${OUTPUT_BASENAME}.json"
 LOCK_DIR="$DATA_DIR/transcribe.lock"
 
 release_lock() {
@@ -59,7 +57,7 @@ echo "Transcribing $PROGRAM_ID ($PUBLISHED)..."
     -m "$WHISPER_MODEL" \
     -l fi \
     -f "$AUDIO_FILE" \
-    -otxt \
+    -osrt \
     -of "$OUTPUT_BASE"
 
 if [[ ! -s "$TRANSCRIPT_FILE" ]]; then
@@ -67,13 +65,7 @@ if [[ ! -s "$TRANSCRIPT_FILE" ]]; then
     exit 1
 fi
 
-python3 "$SCRIPT_DIR/write_transcript_metadata.py" \
-    "$METADATA_FILE" \
-    "$PROGRAM_ID" \
-    "$TRANSCRIPT_METADATA_FILE" \
-    "$WHISPER_MODEL" \
-    "$AUDIO_FILE" \
-    "$TRANSCRIPT_FILE"
+cp "$METADATA_FILE" "$TRANSCRIPT_METADATA_FILE"
 
 echo "Transcript written to: $TRANSCRIPT_FILE"
 echo "Metadata written to: $TRANSCRIPT_METADATA_FILE"
