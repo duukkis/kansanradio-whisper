@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-77948497",
+    "webpage": "https://areena.yle.fi/audio/1-77948497",
+    "title": "Kansanradio: Suvivirsi vahingoittaa Suomea enemmän kuin rikollisuus: 2026-06-05T21:00",
+    "episode_title": "Kansanradio: Suvivirsi vahingoittaa Suomea enemmän kuin rikollisuus",
+    "description": "Useampaakin soittajaa ihmetyttää, että miten yhdestä laulusta voi nousta niin suuri kohu. Kun se laulu, josta kohun pitäisi nousta, on se Wiskarin jossa kiroillaan.\nTämänkertaisessa Kansanradiossa myös kysytään, miksi televisiossa näytetään reseptiä perunoiden keittämiseen ja miksi suomalainen hakee uuden takapuolen Brasiliasta.\n\nToimittajana Lasse Olkinuora",
+    "filename": "Kansanradio: Suvivirsi vahingoittaa Suomea enemmän kuin rikollisuus: 2026-06-05T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-d828615c15a74eb194367712e0438d04/audio-1780685269492.mp3?hdnts=exp=1783998306~acl=/aod/world/78-d828615c15a74eb194367712e0438d04/*~hmac=d83ffbd49204f68900f36ac2665042256d2f1ed4a84bae73bd8577cfaf15a8be"
+      }
+    ],
+    "duration_seconds": 1931,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-06-05T21:00:00+03:00"
+  }
+]
