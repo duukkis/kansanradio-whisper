@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-77853994",
+    "webpage": "https://areena.yle.fi/audio/1-77853994",
+    "title": "Kansanradio: Loiko Jumala Peten?: 2026-05-22T21:00",
+    "episode_title": "Kansanradio: Loiko Jumala Peten?",
+    "description": "Menneet Euroviisut herättävät reaktioita suuntaan ja toiseen. Tämän viikon Kansanradiossa kysytään myös, mihin menee MasterChefin hukkaruoka? Entä kielletäänkö hernerokka tulevaisuudessa?\n\nToimittajana Lasse Olkinuora.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.",
+    "filename": "Kansanradio: Loiko Jumala Peten?: 2026-05-22T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-c7dbd29cb86e4b50bdcdb5baf9a311d7/audio-1779366427031.mp3?hdnts=exp=1784001941~acl=/aod/world/78-c7dbd29cb86e4b50bdcdb5baf9a311d7/*~hmac=9479807207e4234e200b6329ae95a2fd28428a6bec7a28e57d5d92933ffa0aca"
+      }
+    ],
+    "duration_seconds": 2017,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-05-22T21:00:00+03:00"
+  }
+]
