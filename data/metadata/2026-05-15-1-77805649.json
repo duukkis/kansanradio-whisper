@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-77805649",
+    "webpage": "https://areena.yle.fi/audio/1-77805649",
+    "title": "Kansanradio: Lisää hanurimusiikkia Lappeenrantaan: 2026-05-15T21:00",
+    "episode_title": "Kansanradio: Lisää hanurimusiikkia Lappeenrantaan",
+    "description": "Etelä-Karjalan keskukseen ovat helsinkiläiset hipit tuoneet epäilyttävää musiikkia, miksei voi olla vain humppaa. Tämän viikon Kansanradiossa ehdotetaan, että Tunnin juna pitäisi korvata lentävillä autoilla. Ja Jumala varjele meitä euroviisuvoitolta!\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Lisää hanurimusiikkia Lappeenrantaan: 2026-05-15T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-862ec1d0c25843d59fd2f61add9f2bde/audio-1778579419024.mp3?hdnts=exp=1784003570~acl=/aod/world/78-862ec1d0c25843d59fd2f61add9f2bde/*~hmac=9bfa4b7ff04607e4fc682da8b39f999dcf0bbb0a4ef625decb7040ed2ed32503"
+      }
+    ],
+    "duration_seconds": 1999,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-05-15T21:00:00+03:00"
+  }
+]
