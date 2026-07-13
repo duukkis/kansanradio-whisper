@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78041898",
+    "webpage": "https://areena.yle.fi/audio/1-78041898",
+    "title": "Kansanradio: Ei pidä mettässä morjestella!: 2026-06-19T21:00",
+    "episode_title": "Kansanradio: Ei pidä mettässä morjestella!",
+    "description": "Tällä kertaa Kansanradiossa on tarjolla kierrätystavaraa, kun ääneen pääsevät aiemmin kuullut puhelut, mutta järjestys on tietenkin uusi. Yhden kansalaisen mukaan Valkoisessa talossa asuu narri. Toinen on valmis julistamaan oman tonttinsa ydinaseettomaksi. Ja saako sokea tehdä laillisesti pontikkaa.\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Ei pidä mettässä morjestella!: 2026-06-19T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-b0f937847e05430698fde0639ee17020/audio-1781702978311.mp3?hdnts=exp=1783992148~acl=/aod/world/78-b0f937847e05430698fde0639ee17020/*~hmac=8121d6dd21371dbcb79346a46b38d831cfc9285bbc60076e7adfdf3f41a1eb0c"
+      }
+    ],
+    "duration_seconds": 1996,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-06-19T21:00:00+03:00"
+  }
+]
