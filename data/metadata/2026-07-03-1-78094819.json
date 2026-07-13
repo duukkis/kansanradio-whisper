@@ -12,7 +12,7 @@
         "backends": [
           "wget"
         ],
-        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-f40a4f96a59d4c1790f3681c23721760/audio-1782990744423.mp3?hdnts=exp=1783988154~acl=/aod/world/78-f40a4f96a59d4c1790f3681c23721760/*~hmac=d0d8740697be42c69a90e7a724df306a0f65c4341a9176f06dbe0a7752af598d"
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-f40a4f96a59d4c1790f3681c23721760/audio-1782990744423.mp3?hdnts=exp=1783999648~acl=/aod/world/78-f40a4f96a59d4c1790f3681c23721760/*~hmac=6909753ac3c38edb2c9884fc9381e98c5ef45737b0675293b5e7aa4787ea0e1d"
       }
     ],
     "duration_seconds": 1999,

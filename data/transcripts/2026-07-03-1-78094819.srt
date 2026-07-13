@@ -1,320 +1,336 @@
 1
-00:00:00,000 --> 00:00:04,000
- (musiikkia)
+00:00:00,000 --> 00:00:04,100
+ [musiikki soi]
 
 2
-00:00:04,000 --> 00:00:17,000
- (musiikkia)
+00:00:04,100 --> 00:00:17,560
+ [musiikkia]
 
 3
-00:00:17,000 --> 00:00:28,000
- No terve, tämmönen uusi, ilmeisesti uusi, uudehko. Niin urheilutermi kuin nälkäinen. Sillä ilmeisesti tarkoitetaan sitä, että haluaa voittaa.
+00:00:17,560 --> 00:00:27,160
+ - Eläinystävä tässä mui. Minä vaan ihmettelen, mitä varten näitä nurmikoita leikataan aina, kun ne vähän kivhihertää ja joku pieni kukkanen siellä työttää.
 
 4
-00:00:28,000 --> 00:00:51,000
- Ja minne on häipynyt semmoinen sana kuin voitontahto? Ja että on voimakas voitontahto. Minne semmoinen on häipynyt? Nälkäinen on kyse siitä, että laitetaan jotain tonne nenään alle olevaan reikään. Syödään jotain. Jos on nälkä, niin silloin syödään. Urheilusta pois tämmönen nälkäinen. Voitonta tilalle, kiitos.
+00:00:27,160 --> 00:00:38,160
+ - Onnistaan näkyville niin ei kun leikkuri tulee, Jyre ja Taason. Ihan ruskena kaikki nurmikot, että enpä ole moneen vuoteen nähnyt edes perhosen perhosta meidän käpialla.
 
 5
-00:00:58,000 --> 00:01:27,000
-Jälleen on aika toivottaa perinteisti, eli tervetuloa mukaan ja matkaan. Puoli tuntissa on luvassa ainakin asiaa liikenteestä, työstä ja musiikista. Tällä kertaa ohjelman osaset on laskenut kohdilleen Koiviston Lauri. Yksi kanslainen kehottaa laittamaan terveyspolitiikalle suitset. Toisen mielestä työttömien pitäisi mennä poimimaan marjoja. Ja kaivataanpa myös vanhoja autoja takaisin.
+00:00:38,160 --> 00:00:47,120
+ Etä antakaa nyt ihmeessä niitten nurmikoiden kasvaku. Ei toi ruskea ruohikko ole minkään näköinen. Ajatekaa vähän itse.
 
 6
-00:01:27,000 --> 00:01:30,000
- Nyt lähdetään kävelylle!
+00:00:47,120 --> 00:01:13,120
+ Tämän kerran Kansan Radio aloitettiin luontotunnelmissa. Kiitos ensimmäiselle soittajalle. Taasen totean tutusti eli tervetuloa mukaan ja matkaan. Jaksossa on tarjolla esimerkiksi alkoholia, maitopurkin korkkeja ja siivouskysymyksiä. Tämän heinäkuisen matkan mielipiteiden joella on koonnut Koiviston Lauri.
 
 7
-00:01:57,000 --> 00:02:10,000
- Me menemme nyt liikenneasioita kohti. Kävelyn lisäksi muitakin kulkemistapoja on luvassa.
+00:01:13,120 --> 00:01:31,120
+ Eräs soittaja kaipaa enemmän suomalaisia hoivakoteihin. Toinen kansalainen haluaisi kauppoihin lisää penkkejä. Ja kysytäänpä myös, miksi lapset ei voisi jäädä kesäksi kouluun. Nyt on aika eläinasian.
 
 8
-00:02:10,000 --> 00:02:39,000
- No terve! Näistä HSL:n hinnoista olisi vähän kerrottavaa. Terve terve, kerro vaan. Se on kun nyt on myös tuo nuorisotyöttömyys on iso puheenaihe tällä hetkellä, niin itse en ole työtön vielä ainakaan, mutta että yksi kolmasosa palkasta menee siihen kuukausilippuun. Se on siis ihan hävyttömän kalli. AB-lippu, että pääsemme kulkemaan kahdeksan kilometriä töihin joka päivä. Mikä olisi sitten hyvä hinta? No kyllä se siinä viidenkympipaikkeilla varmaan menee, että kyllä nyt vähintään alle kahden kuukauden.
+00:01:43,120 --> 00:02:05,120
+ Koskaan ei ole kuullut semmoista kuinka paljon nii koirat saastuttaa. Ja sitten vielä saastuttamisesta pitää sanoa, että totukoitsijatko heittää natsoja, niin suurin osa vissii niistä valuu vesistöihin, että se siitä saastuttamisesta.
 
 9
-00:02:40,000 --> 00:03:09,000
- 25-vuotiaille pitäisi olla joku alennettu hinta. Niin eli tässä oli selkeä ehdotus, että alle 25-vuotiaille oma hinnasto. Kyllä. Kiitoksia paljon tästä ehdotuksesta. No niin, kiitoksia. Heippa! No Anja täällä, hei! Hei hei! Aattelin, että pirautanpa nyt se kerran minäkin Sinikansa Radio, kun asun täällä etelä-Suomessa ja meillä on mökki tuolla keski-Suomessa, elikkä meillä on mökki matkaa 300 kilometriä. Joka ikinen kerta joudutaan pysähtämään.
+00:02:13,120 --> 00:02:42,120
+ Hei, täälläpä mumma. No nythan vasta Konkelo tuli. Onkos näitten viinaa uskaavien uupereilla? Onko niillä poliisivartio? Eihän näitä uskalla päästä tonne. Niitähän kiristetään ettei ryöstetä ja tehään vaikka mitä. Tää on aivan järkyttävän laki, muttakaan no herra Jumala tämä äkkiä, että kaikki asiat sopketaan viimeisen päälle ja luullaan, että siistihti mukaan viedään ja kauniisti ihmiset ottaa vastaan. Tämä ei mene näin. Tää on semmoinen.
 
 10
-00:03:10,000 --> 00:03:39,000
- Kun meillä on vanha koira jossain tämmöisellä taukopaikalla ja täytyy sanoa, että ne on siistiytynyt hirveesti. Mutta se mikä ärsyttää on noitten rekkojen rengasrepaleet siellä tiepuolissa ja jopa ajoradalla. Elikkä me olemme kerran ajaneet Lahden Harttallinmäessä sillä tavalla, että ne rekarrepaleet olivat keskellä tietä poikki ajoradaa ja jouduttiin viemään auto korjaamalla. Että eikö tämmöiseen löytyisi minkäännäköistä neuvoa, että millä rekka kuskella olisi vaikka panostettu?.
+00:02:43,120 --> 00:02:59,120
+ Tuli kyllä semmoinen selvitettävä asia, että tätä ei sitten taas tuomarit pohtii kymmenen vuotta oikeudesta. Tehtiinkö oikein vai väärin, kun joku ihminen tapetaan ja kiristetään? On kyllä kauhea juttu tämä. Voi olkaa.
 
 11
-00:03:40,000 --> 00:04:09,000
-Mustat muovisakin mihin ne kerääs ne repaleensa, ettei ne jää sinne hankaloittamaan liikennettä tai sitten tienvarsiin. - Onko näitä paljonkin tällaisia rekkarirreportteja?. - Niitä on aika paljon. Niitä on, jos ajat 300 kilometriä, niin niitä on useammassa paikkaa. Näinhän eivät välttämättä suomalaisia rekkoja, koska nekin repaleet mihinkä me ajettiin oli puolalaisista rekastajaa ja se oli vaihtamassa rengasta sitten jonkun matkan päässä tossa Lahden alapuolella. - Onko nämä lisääntyneet viime ajan?.
+00:03:13,120 --> 00:03:43,120
+En näe, tää on pelkkää juoppuutta ja pahuutta täynnä. Aina vaan mennään alemmas. Tää on kohta kun sodoma, että kyllä ne jumalanrangaistukset tulee vähemmälläkin. Entä tarvitsisi vetää ihan tahalla omaan niskaansa, että kansanedustajien pitäisi olla semmoinen moraali vahti täällä maassa, missä me asumme. Nyt kun ajatellaan, että jos on tuo musliminusko, siellä ei ole ketään, kuka siellä pystyy, jossakin ravintolassa voidaan olla turisteille antaa, lähde jotain juomistaan, mutta siellä ei ole yhtään viinaa eikä niitä.
 
 12
-00:04:10,000 --> 00:04:39,000
-No mun mielestä niitä on ollut koko ajan, että en mä nyt tiedä. Kyllähän niille niitä vahinkoja sattuu, että rengas hajoaa, mutta se, että miksi ne jätetään sinne sitten muun liikenteen haitaksi ja jonkunhan ne pitää kuitenkin korjata, että tää on vähän niin kuin kysymys, että kuka sulla kotona siivoo, jos sä sotket ympäristön kodin ulkopuolella ja syntyy vaaratilanteita, että se siinä on nyt sitten loppujen lopuksi se suurin ongelma, jos ei tätä luonnontuhomista ajatella, koska ei se tule.
+00:03:43,120 --> 00:03:52,420
+oluttakaan ei saa olla. Siellä pidetään semmoinen huoli, että jos tänne Suomeen tulisi tämmöinen uskomus, niin tällähän olisi kamala juttu, kun kaikki viinakaupat pantaisiin kiinni.
 
 13
-00:04:40,000 --> 00:05:09,000
-Kuhisintemmin mitenkään tuo luonto on sulaa eikä häviä. - Kiitos kun toi tämän asian esille. Hyvä asia, mutta jatko. - Kuin myös. Hei. - Hei täällä Irja. Repaleisin rinkaiden poistoon on Saksassa keksitty konsti, tai siis se on aivan pätevä toiminta. Siellä poliisi tulee omalla autollaan ja sitten ne kysättää liikenteen ja ajaa sitten sen pätkän siitä tiestä, missä on ilmoitettu, että olisi renkaan repaleita.
+00:03:52,420 --> 00:04:06,420
+ Että pitäisi ajatella sitä, että nyt nämä kaikki suvivirret ja muut, ne on niin myrkkyä kans, että ei vaan saa mainita, että Jeesus pelastaa tai jotain vastata. Kyllä tämä viina ei kyllä pelasta, se vaan hukuttaa. Ne hukkuu viinaa, ihmiset.
 
 14
-00:05:10,000 --> 00:05:39,000
- Ja he keräävät ne sitten pois ja sitten kun asia on valmis niin liikenne saa taas jatkaa menoa sillä tavalla. - Anni on rengasavoitustani ariskavaitakseni. Aikoinaan koulukyyttiä jettiin. Kyylissä ottiin ylätaksini. Roudas mäitä, ees takaisin. Kouluja koulusta vekni. Yhden päivänä keväälläni olin siinä etuumiehen penkille kato, että ei eräänäänkään.
+00:04:06,420 --> 00:04:32,820
+ Minä olen itsekin nauttinut, siis sulkesin nauttinut tästä viinasta ja meinasin paljautua yhtenä talvina. Silloin minä tein Jeesuksen kanssa sopimuksen, että jos minut otetaan tämä viinahimo pois, niin en mennä viinakauppaa jo siitä yli kolmekymmentä vuotta. Ei tippaakaan sen jälkeen. Että tämmöinen on minun kohtaloni ja minä suosittelen toisillekin, että ilo on viinaa parempi kuin sen kanssa. Sen kanssa se on tehyskentelyllä. Kiitos kovasti.
 
 15
-00:05:39,000 --> 00:05:53,000
- Kuka menneoi. Ja taksistani eturengas oli eronut ja se oritti saakelillaksi erti ja meni. Vähän se könätti siihen tien vierrettä. Silloin kehti renkat mutta eivät kysyneet paikalla.
+00:04:32,820 --> 00:04:51,260
+On päätetty, että kotikuljetus alkaa, että jos ihminen on selvä, sanottiin uutisissa niin, että voi tilata sinne alkoholia, mutta oven takana voi olla avaamassa oven vaikka lapsi, muistisairas vanhus tai kaatokännissä oleva henkilö.
 
 16
-00:06:09,000 --> 00:06:36,000
- Pyheiden ripustuslenkit. Aloitamme käsittelyn napakalla sähköpostiviestillä. Verhokiinnikkeellä saa pyheliinan koukkuun. Näin lukee sähköpostissa, jonka meillä oli lähetysnimenki kr ja viestissä oli mukana myös valokuva tästä verhokiinnikkeellä roikkuvasta pyheestä. Kansanradion sähköpostiosoite on kansan.radio.at/yle.fi.
+00:05:02,820 --> 00:05:20,260
+Aivan tolkutonta touhua. Joskus pitää ihmisten saada olla vaan rauhoittua omiin oloihinsa. Ja kun ulkomailta tilataan alkoholit, niin sinne menee nekin verorahat. Sitääkö tässä haetaan? Ei muuta, mummeli.
 
 17
-00:06:39,000 --> 00:07:08,000
-Tuli vaan mieleen sellainen hyvä apuväline. Muistatko sellaisen kulkkoneula, elikkä hakaneula? - Hakaneula kyllä on tuttu. - Niin. Mä olen ainakin joutunut joskus laittamaan apuvälineeksi, että mä olen sen saanut tuohon nallakkoon. Niin käännät sitä pyheiliinan tai minkä tahansa reunaa kaksin kerran ja painat sen piikin siitä läpitte ja ei mitään muuta kuin paikalle. - Niin kun nyt oli kansanradio tästä pyhede, että niistä pyhenee. - Niin.
+00:05:32,820 --> 00:05:47,260
+On näköjään suosinut niitä viinamäärämiä, kun ei ole mitään meteliä pitäneet äänestä. Älkää ikinä äänestäkö turistillisdemokraateja. No niin onnettomia puoluetakoja ne mitä saa aikaan vaan istuvat suurella palkalla silviisi hei.
 
 18
-00:07:09,000 --> 00:07:25,500
--Joo, ja minulla on just sellainen ongelma, että minulla on niin heikko näkö, että minä en näe enää oikeastaan neulonsilmäelläänkaan laittaa, niin se on ihan hyvä apu, että lukko neulaa, että sillä lailla.
+00:06:02,820 --> 00:06:15,860
+On kerta kaikkiaan käännetty multa nyt tuolta maan pohjalta tänne päällepuolelle ja mitä lie pantui sinne alapuolelle? Heippa.
 
 19
-00:07:25,500 --> 00:07:38,500
- -Kiitoksia, kuule tästä vinkistä. -Joo, ja kyllä minä luulen, että aika moni sen on jo älinnytti ja ainakin mitä nyt vattiisiin tulee, niin ei muuta kuin hyvät jatkossakin.
+00:06:32,820 --> 00:06:50,060
+Kuulit vastauksen sama tilanne. Eduskunnan alkoholipolitiikassa nyt ruvetaan viinaa kantamaan kotiin ja sillä kysytään, että eikö se ole haitallista se viina, joten ei ole. Ei viina on niin viisasta juomaa ja kansaa pidetään kumminkin tyhmänä. No miten tyhmä kansa voi olla viisas?
 
 20
-00:07:39,000 --> 00:07:42,500
- -Sitä samaa. Hei hei. -Voi voi.
+00:07:02,820 --> 00:07:19,060
+Kattoa kohti ja perheet kärsii eikä tarvitse maksaa eläkettä sen jälkeen. Aattelepa itse. Minä ajattelen nyt niin, että on aika vaihtaa alkoholimaitoon tai ainakin sen purkin korkkiin.
 
 21
-00:07:42,500 --> 00:08:08,500
- -No Eeva täällä, hei. -Hei hei. -Tuota minä haluaisin antaa neuvon tälle rouvalle, joka valitteli, että pyhkeissä ei ole enää näitä niin kuin kannattimia. -Ripustus, joo. -Joo, että tuota kaupasta saa kanttinauha ja ennen vanhaakaan ei niissä pyhkeissä harvemmin ole näitä kannattimia valmiina. Mä muistan äitini ja isoäitini, neulonen niitä kanttinauhasta ja kanttinauha.
+00:07:21,060 --> 00:07:50,980
+Perä täältä saastamalla ytimestä hei. Puhun esiin semmoisesta, kuka älypää on keksinyt mehu- ja maitotöökkeihin tämän korkkisisteen, niin kun tyhmässä alkoholipullossa minä ymmärrän sen, että se korkki pitää säilytä tällaisen, mutta kun melkein se on hankala, kun se korkki jää lepsottamaan, jos yhtäkään veiessä kaataan, niin kyllä eihän maitotöökkit, se on kiernistä varaa muuten. Siinä se muovi roskaa kun mäleikkaa, se kyllä aina poies sitten, kun niissä on se ylimääräinen muovi. Ja tämmöinen kukahan älypäin ihmiset.
 
 22
-00:08:09,000 --> 00:08:38,500
- Eri väri sinäkin. Ja jos ei niitä halua sitten, on liian työlästä, niin on myöskin olemassa tämmösiä nipsuja, joissa on semmoinen lenkki, muovin lenkki, nipsu, jonka voi laittaa pyhkeen sitten mihin kohtaan haluaa ja sillä saa sitten sinne työkkoukkuun nää pyhkeet, että tällasiakin on olemassa kauppaan. -Eli mielestäni tässä ei ole tapahtunut mitään muutosta vai? -Ei, ei ole tapahtunut mitään muutosta. Mä muistan ihan selvästi, sanotaanko nyt.
+00:07:51,060 --> 00:08:21,060
+Sen keksii sen korkkisysteem. - Niin kaipaatko sitä vanhaa, jossa se avattiin semmoinen kolmio? - No kyllä se nyt on kätevämpi. Minun mielestäni on ollut tölkkeihin, koska se on helppo pistää sisäkkään sitä tölkkejä silloin kun on kierritysin intoillinen suorastaan, niin vaikka kierrätään nyt töltit kaikkia, pystytään sisäkkään niitä yleensäkin. No aina ylimäärävä vaiva kun elikkä on se muovin siitä pohjassa. Ihan turhan viritys se maito tölkkeihin on ja merkytölkkeihin semmoinen. - Sanoin nyt vielä, että mikä sinä erityisesti ärsyttäen on? Se on tää kierrätysnäkök
 
 23
-00:08:39,000 --> 00:09:09,000
- neljäkymmentä, viiskyt vuotta, kuuskyt vuotta taakse päin. Itse päin seitsemänkymppinen niin minä muistan aivan selvästi äitini ja iso äitinikin ommelleen pyhkeisiin näitä kanttinauhan lenksuja niihin. Ehkä niitä on ollut jossain vaiheessa ja minullakin on pyhkeitä jo joissa on tullut jo valmiina se lenksu mutta jos ei ole pyhkeistä ja haluaa ostaa pyhkeä niin ei se ole koste eikä mikään ostaa kanttinauhaa tai sitten jos ei halua tai osaa ostaa pyhkeä.
+00:08:21,060 --> 00:08:28,620
+Minkä takia maito- ja mehutölkkeiden tarvitsee olla semmoinen muovikorkki, kun se kulmasta kätevästi aukesi ja tullaan se maatonokkaki.
 
 24
-00:09:09,000 --> 00:09:17,000
-niin niksuja saa. - Kiitoksia tästä puhelusta ja oikein hyvää asunnon jatkoa. - Siitä samaa, kiitoksia. Hei.
+00:08:28,620 --> 00:08:36,580
+ Se on pieni ärsytys, mutta se ärsyttää mua enankin, kun väkisin tulee joskus semmoisia eteemis- tämä ylimäärän kort turhanpäite.
 
 25
-00:09:39,000 --> 00:10:00,000
- ...heikkoja viinilitkuja. Ne ainoastaan vievät tilaa elintarvikkeilta. Viinin pitäisi olla viisasten juoma. Typerintä on se, että liian monet pysyvät eduskunnassa tästä jatkuvasti metelöimällä. Seppe Liini nimimerkki, oli lähettänyt tämän tekstin Kansanradion verkkosivujen lomakkeella.
+00:08:36,580 --> 00:08:40,660
+ - Eli tässä oli jossa palataisiin sinun mielestäsi vanhaan, niin se olisi hyvä.
 
 26
-00:10:09,000 --> 00:10:38,000
- Katsotteko se on sanonut mieltäänkö se mies, että kalloriäkkää sitä, jotta niitä tyhjiä alastettaa eikä niitä kalata. Tai aika oteta. Kyllähän ne on syötäväksi tarkoitettu, jos niitä piilette. Minä en kyllä ymmärrä sitä allekkaan minun vashoitekkiä kallon puolesta. Kai niillä ei ole millainen tunta? Onko joku tutkinnan entiä? On kyllä minun sielittä ne kalat. Onko me sen verran, että no kyllä kalat jos kalastettaan, niin ne syypäin tai yleensä otetaan. Annetaan toisille jos ei tee.
+00:08:40,660 --> 00:08:50,540
+ - Niin, no maitotölkkeekin kyllä saa ilman sitä korkkiakin, mutta jotain mehutölkkeihin saa, mutta kunhan joskus tulee käsi, niin semmoinen missä on se korkki.
 
 27
-00:10:39,000 --> 00:11:08,000
- Kyllä kiitos, hei. Tänään Kansanradios oli erittäin hyvä ohjelma noista kalastajista, kun ne koukusti vahingoittaa kalaa ja mitkä pitäisi ottaa pois koukusti ja omaa käyttöö eikä laskea enää takaisin. Se oli tosiaan hyvä ohjelma tai Kansanradio, että olisi samaa mieltä, että sellainen laki pitäisi olla, että ne kalat otetaan yleensä, mitkä vahingoittuu suustaan sillä viisiin. Hei.
+00:08:50,540 --> 00:09:02,740
+ - No siis onhan se tälläkin ajan, että se on kustannuskysymys, tuommoisen tölkkien tehden muovitettajalliseen siivuun. Tuulisitte semmoinen kustannuksen kannalta mitään tekemistä järjen kanssa. Tämä tämä vähän ihmettelee.
 
 28
-00:11:09,000 --> 00:11:38,000
- Tää maitopurkki, niin Luojan Kiitus ei tarvitse ostaa enää niitä korkkilisia, että on vielä maitoa tölkissäkin semmoisessa. Miksi et sinä tykkää korkkeista? Siksi, koska vanhukset eivät saa niitä auki. Ja sitten toinen homma on se, että se korkki pyörii kuin väkkärä siinä, että kun rupeaa kaataa maitoon, niin se on hyvässä liikussa pöydällä. Kiitoksia tästä soitosta ja hyvää sunnunta jatkoa.
+00:09:02,740 --> 00:09:05,620
+ - Kiitoksia tästä ihmettelystä ja hyvää sununtaon jatkoa.
 
 29
-00:11:39,000 --> 00:12:08,000
- Kiitos. Hei. Kuulin tänään Kansanradiosta järkevän ehdotuksen, että ne, jotka menettävät mahdollisen sodan takia eniten, jos osallistuisivat puolustusmenojen kustannuksiin. On arvioitu, että 30-luvulla puolustusmenojen kustannukset nousevat yli seitsemäntoista miljardtien euroon. Eikö olisi kohtuullista, joilla on esimerkiksi omaisuutta?
+00:09:05,620 --> 00:09:07,620
+ - Kiitos, samoin, sinne päin. Hei!
 
 30
-00:12:09,000 --> 00:12:23,000
- Yli miljoonan, niin sitten ylimenevästä osasta maksaisivat esimerkiksi pari prosenttia veroa, joka sitten korvamerkittäisiin suoraan puolustusmenojen tattamiseen.
+00:09:07,620 --> 00:09:20,500
+ (Telefon täällä on Kylähullu Pohjois-Pirkanmaalta päivää. Päivää, päivää. Minä ihmettelen, minä kummastelen. Jostain maitopurkkien horkin irtoamisesta.
 
 31
-00:12:26,000 --> 00:12:35,000
- On pakko painaa pitkää päivää, laulaa Randelinin kake Mäntyharjulta. Työn maailmaan vievät meidät nyt seuraavat soittajat.
+00:09:20,540 --> 00:09:48,500
+ Pidetään pähinää, mutta unohdetaan paljon tärkeämmät asiat. - Mikä on tärkeämpi asia kuin maitopurkin korkki? - Meidän vanhukset, meidän vammaiset ja muut vähäosaiset, ne jää aina varjo. Niillä ei ole minkään näköstä kansanliikettä, joka niistä pitäisi pärinää ja pitäisi pikkusen huolta.
 
 32
-00:12:39,000 --> 00:13:08,000
- Suomessa taas ottaa kantaa näihin Suomessa tapahtuneisiin ja tapahtuviin tulevassa asioihin. Mä en ymmärrä sitä, minkä takia täällä saadaan rekrytoida näinä päivinä ulkomaisia rakennusalan työntekijöitä. Meillä on tuansia työttömiä rakennusalan työntekijöitä Suomessa ja niille maksetaan näitä yleensä ansiosidonnaisia päivärahoja. Siis tämä on järkyttävää. Ei muuta kuin töihin vaan.
+00:09:48,500 --> 00:10:18,460
+ - Kei kerro sitten, että mitä on mieleenpäällä? - Se on mieleenpäällä, että vanhuksia ei kannata jättää yksin asuntoonsa omaan onnensa nojaan. Sinne on niin moni kuukahtanut ja kuukausien perästä vasta kun lemu on tarpeeks voimakas, niin löydetään. Kukaan ei huolehdi. - Mikä olisi ratkaisu tähän? - No herra, Jumala sentää, käytä joskus kattokas. - No niin, yksinkertainen ratkaisu. - Todella yksin.
 
 33
-00:13:09,000 --> 00:13:38,000
- Ja jos ei työ maistu, niin sidonnaiset ansiot pois. Kiitos, hei. - No veronmaksajavaa tässä soittelen. Nyt on kovasti media ryömytellyt tätä kolmannen sektorin, kuinka se olisi ansio tai palkkakartelia, jota tuolla pyöritellään pahalta. Se ei tuntuu näin kuin se yhtäkkiä taas esille nostettiin, mutta kyllähän meidän näytyy varmaan niitten ainakin jotka ovat olleet.
+00:10:18,500 --> 00:10:48,460
+ - Mutta jos ei ole omaisia, niin kuka sinne menee? - Niin, kuka menee? - Puhutaan paljon siitä niin, että kuinka vanhuksista pidetään huolta. Öh, öh, pidetään juu, pelkissä puheissa. Miten pidetään sairaista huolta pelkissä puheissa? Nykyisin yhä enemmän vanhustenhuollosta sairaanhoidosta vähennetään, vähennetään. Porukkaa vähennetään, työntekijöitä vähennetään, rahoitusta vähennetään.
 
 34
-00:13:39,000 --> 00:14:09,000
-julkishallinnossa töissä niin tietää se että julkishallinnossahan poliittisella asenteella ja suuntauksella on tavattomaan suuri merkitys miten niissä julkishallinnon viroissa edetään tai miten niitä saadaan. Elikkä meillä on tää demokratia on sikäli huono homma että siellä joka tapauksessa pidetään huoli niistä jotka ovat sisäbiiriläisiä niissä tietyissä puolueissa joilla
+00:10:48,500 --> 00:11:18,460
+ No tehdään kaikki pois. Nää sairaat ei pysty itse valvomaan omia etujaan. - Kiitoksia paljon tästä puhelusta ja oikea hyvää snuta jatkoa. - Voimme. - Aivan pian kuulemme monipuolisen kattauksen kommentteja viime ohjelmien aiheisiin. Niitä puheluita ennen luen vielä yhden WhatsApp-viestin tuohon äskeiseen maitopurkkiasiaan. Hei, ei missään nimessä maitopurkesta muovikorkkia pois. Se on valmis.
 
 35
-00:14:09,000 --> 00:14:24,000
-Ja totta kai ne palkitaan sitten siitä työstä siten, että niille annetaan virkoja kunnalla, valtiolla ja yleensä semmoissa missä poliittisesti päätetään työntekijöitten rekrytoinnit.
+00:11:18,500 --> 00:11:48,460
+Eväspurkki töissä, retkillä ynnä muuta. Ei tarvitse kaadella pulloihin maitoja enää. Tosi näppärä nyt. Tämän WhatsApp-viesti meillä on lähettänyt Pasi sotkamosta. Meille Kansanradioon voi lähettää WhatsApp-viestejä sekä tällaisia tekstikommentteja että myös äänimuotoisia, jollaisia on mukana muuten tässä ohjelmassa useampikin. Kansanradion WhatsApp-numero on 044 044.
 
 36
-00:14:24,000 --> 00:14:45,000
- Ja sitähän varten näihin suuriin valtionyhtiöihin esimerkiksi nimitetään poliittisesti pääjohtajat, jotka pitävät sitten huolta siitä, että se tietty yritys, jossa he johtajuuttaan käyttävät, lanseeraavat asenteensa alas henkilökuntaan saakka. Siis kyllähän tää on melkoinen juttu.
+00:11:48,500 --> 00:12:16,460
+ 5 5 1 5 4 6 4. Nimimerkki Kuopio vähän isompi piisa mirottaa. Nytten tässä kun kuunneltiin tätä kansanradiota, niin tuli mietitty, että tosiaan minkä takia siellä keselomalla pitää niitä kaikkien kaverien maalle lähteä. Minä mietin, että minkä takia ennen kuin keseloma alkaa, niin ei voi tehdä kouluhommia, kun pitää olla lähössä kaikkialle ja koulut lopetetaan viikkoa ennen. Minkä takia lapset voi vaan jäädä kouluun? Kiitos.
 
 37
-00:14:45,000 --> 00:15:05,000
-Mulla on tapana esimerkiks nää nuoret, jotka kirjoittaa ylioppilaaksi ja ovat tietysti tyytyväisiä iloisia siitä, että on yksi etappi saavutettu niin ehkä on väärinkin, mutta kyllä mulla on ollut tapana sanoa, että sitten vaan katot hyvän jäsenkirjan niin auttaa työpaikat valitaan.
+00:12:17,660 --> 00:12:47,620
+Nyt sunnuntaina oli kyllä todella hyvä tämä rouva, joka puhuu näistä älypuhelimista ja neteistä ynnä muista. En minäkään laita koskaan enä älypuhelinta. Minä tulen kyllä toimeen ilman älypuhelintakin. Ja sitä paitsi siitähän on nykyään jo terveyshaittoja. Jatkuvasti uutiset siitä kertovat, mitä se aiheuttaa ihmiselle. Siinä oli kysymys, minkä takia oli sellainen. Yleensä.
 
 38
-00:15:05,000 --> 00:15:26,000
-Elikkä nyt kun tästä työttömyydestäkin puhutaan, niin olisi kiva ottaa selvää kuinka paljon siellä on aktiivisia poliittisia jäsenkirja ihmisiä työttömyyslistalle ja ketä ne ovat, jotka siellä nyt ovat työttöminä. Tää yhteiskunta on tämmönen. Tää on politiikka läpi joka paikkaan. Ei tää mitään ihmeellistä ole.
+00:12:47,660 --> 00:12:58,620
+Ilmanen kaavi, mihin ne menee. Tämä johtuu varsinaisesti siitä, että se rauhoittaa paikkaa. Kun siellä käy poliisi välillä, se on aika halpa vartiointi. Kiitos.
 
 39
-00:15:35,000 --> 00:15:56,000
-Kaikki työttömät ettei vähennisi ne työttömyyskuja. Tästä on marjan poimintaa sinne Lappiin. Ei tarvitsisi jätä Filippiiniltä raata niitä noukkiota. Kyllä Suomessakin on työttömyyttä että kaikki työttömät vaan sinne noukki maan marjoja. Tämä tiedoksi työviranomaisille, että siinä on teillä työllistettävää ihan riittävästi. Hei!
+00:12:58,620 --> 00:13:17,620
+ No Raikka Lappeenrannasta. Morjes! Morjes, morjes! Kuuntelin äsken teidän ohjelmaajat. Ennen soittaa, mutta nyt soitan. Nyt pitää kouvilia, jotka soittivat sinne ja toisella oli asiaa siitä pankkiasiasta. Pitää kaikenlaista juttua tehdä, jos se on tietokonetta. Ja niin poispäin.
 
 40
-00:16:05,000 --> 00:16:20,680
-meikäläiseltä ja kollegoilta vei. Eli tekstin käsittelijä on ihminen, joka purkaa lääkäreitten saneluja. Ja kun nyt tämä inhimillinen ihminen sitä välistä jää pois, niin teidän oma kannassa saattaa lukea ihan mitä vaan.
+00:13:17,660 --> 00:13:47,620
+ Olen täysin samaa mieltä, jos heille saan jotenkin terveys. Varmaan kuuntelevat sitten ensi viikolla. Heille semmoinen terveys on täysin samaa mieltä. Ja sitten sille rouvalle terveiset, joka puhuu täistä mainoksista, että on englanninkielistä. Ja niin poispäin. Samaa mieltä just hänenkin kanssaan. Just tuolle rouvallekin joskus sanon, että tää on niin pattii, kun on englanninkielistä tekstiä ja englanninkielellä puhutaan niin, että näin on tää tilanne kyllä. Se on Lauri, ihan totta näin. Ihan samaa mieltä on, että tällaiset terveyset Lappeenrannasta lähettää.
 
 41
-00:16:20,680 --> 00:16:49,840
- Jos ei lääkäri jaksa viitsi osaa korjata sanelemaansa, elikkä sanelut ja tekstit on täysin nykyään lääkärivastuulla. Ja ajattelen tätä, että kun näitä, en ole rasisti, mutta on näitä ulkomaalaistaustaisia lääkäreitä, niin ennen tämmöinen tekstin käsittelijä pääpunasena saattoi joutua miettimään tosissaan, että mitähän tää lääkäri tässä sanelussaan tarkoittaa. Nyt on ihminen jäänyt välistä pois.
+00:13:48,220 --> 00:13:53,660
+ Kiitokset näistä terveistä ja hyvää sunnunta jatkoa. Jivat sinullekaan, skliffat. Okei, moi.
 
 42
-00:16:49,840 --> 00:17:05,900
- Ja kun siellä on tekoäly, joka naputtaa sitä mukaa kuin lääkäri sanelee, niin ihan oikeasti siinä oma kannassa saattaa lukea ihan mitä vaan. Elikkä esimerkiksi helikopakteeri on helikopteri tai muuta vastaa vaan. Ei mulla muuta. Moi.
+00:13:56,420 --> 00:14:05,020
+ Olemme nyt siinä vaiheessa ohjelmaa, että keskiöön pääsevät kotimaista päätöksentekoa ruotivat puhelut.
 
 43
-00:17:19,840 --> 00:17:49,760
- Kymmeneen henkilöä pois. Ne eivät kaikki ole eräs paikalla. Jotkut eivät koskaan sano siellä mielipidettään asiasta kuin asiasta ja rahaa säästyisi paljon. Tuosta etelän vetelien ratahankkeesta sen saa heti unohtaa, mutta suupohjan rata pitää ehdottomasti korjata pian. Niin tukkirekkoja saadaan vähennettyä, kun tukit siirtyisivät junaradalle. Hyvää kesänjatkoa Kansanradion kuuntelijoille.
+00:14:05,020 --> 00:14:17,220
+ Minon kun olen miettinyt tässä tätä Suomen nykytilaa. Kun priorisoidaan sitä sun tätä, mutta nythän minonkin sen tajunnu, että ne priorisoi sitä.
 
 44
-00:17:49,840 --> 00:18:19,440
- Tällä tavoin lukea kirjeessä, jonka meillä on lähettänyt esimerkki Vuoriston Venla. Kansanradion voi laittaa kortteja ja muuta perinteistä postia osoitteeseen. Kansanradio pl seitsemänkymmentäyhdeksän, nolla, nolla, nolla, kaksikymmentäneljä. Yleisradio kodossa lähestää terve terve terve terve. Arkadia meri menen porukasta. Mä sanoisin sen verran, että sellanenhan se porukka on kuin itse olenne.
+00:14:17,220 --> 00:14:39,220
+ Eipä se hoitoa. Se priorisointi on paljon tärkeämpää kuin mekään palvelu, mutta itäminen on kans miettinyt, että onko ne ihan juoppoja nuo kansanedustajat, kun niillä pitää viinaa kuskata kyvään kotiin. Siksähän ne tuota aiheaa, ettei tarvitse itse viinakauppaa mennä ettei kukaan näe. Heippa.
 
 45
-00:18:20,320 --> 00:18:49,680
- Mutta se, että siellä on kaiken karvelta ja hamparita ynnä muita, että puolueella voisi olla joku tasokoe vaikka ainakin yleistyödoissa. Mutta mun mielestä jotain tasoa pitäisi olla. Mutta jos sen äänestyisi... - Mitä tässä kokeessa pitäisi kysyä? - Jokainen teosta. En mä sanoisi tietysti joku nauraa, jos hän on sivistävää. Mutta kyllä mun mielestä se olisi alhantyylin kieltä. Puhutaan ruma kieltä jopa melkein ja tapella ja.
+00:14:39,220 --> 00:15:06,460
+Ja taas täältä Jyväskylän liepäiltä iltapäivää. Tässä on taas kuultu näitä hallituksen välisiä kauniita keskusteluita, jotka ei johda mihinkään. Eiks nyt on vihdoin viimea aika pistää se yks puolue ulos? Ainakin ne pääpukarit sieltä, jotka säilyttelee kaikki systeemit. Ei kannattaisi enää odotella. Ei hyödytä mitään. Toisaalta ei tässä tuu mitään muutakaan tapahtumaan kuin riitoja vaan. Hyvää kesää. Moi.
 
 46
-00:18:50,240 --> 00:19:20,200
- Viltataan toisia ja se on kivaa. Minun mielestä kansanedustajani ei saisi olla kunnisti käyttäytyvä ikinä. - Eli ehdotat kansanedustajille tasokoetta? - Tietynlaista tasokoetta ja. - Mielenkiintoinen ehdotus. - Joo kyllä näin kuulen. Päätöksentekijät, jotka ovat professoriit ja muut, tietävät miten ne tarkoitetaan. Me olemme tyytyväisiä siihen, mitä hyvä meillä täällä Suomessa vielä on. Sinulla on hieno radio, hieno radio vaikka mun miehellä ei ole helppo kuunnella.
+00:15:09,220 --> 00:15:38,460
+Ja sanoa että ei niillä tuolla hallituksen porukalla ole varmaan kielivellistä palanut. Aina sieltä tulee jotakin. Ja minä ihmettelen tuota paperin määrää kun tekee kaikkia lakeja ja mittään niistä ei toteu ja työpaikkoja luota ja niitäkään ei tule. Että mennäänkö ne kaikki paperit hyllypaperiksi? Ja sitähän ennen vanhan käytettiin. Pantiin naskala kiinni. Mistähän tulee hyviä hyllypapereita?
 
 47
-00:19:20,560 --> 00:19:50,200
- Ahaa kiitos kun kuuntelet ja kiitos paljon tästä ehdotuksesta ja oikein hyvää pyhäpäivän jatkoa. - Kiitos ja samoin sulle. - Kiitos, hei hei. - Kyllä tuo Harri Harri Kimmo sais oikein kymmenen pistettyä papukaa ja menikin kun sanotte kyllä. Noita hallia jo on aivan tarpeeksi, jotta nekin tähän pitää halliihin panna kun ei niitä tarvita kun niitä on kyllä.
+00:15:38,460 --> 00:16:08,380
+ Noista hallituksen papereista. Tuuselta päivää. Nythän olisi tuhannen talan paikka ministerille kun saisi uuden veron mikä olisi tuommoinen maanpuolustusveron. Kello suurimmat tulot ja omaisuudet. Niille isoimmat verot ja pieni tuloisimmille pien vain pieni vero. Tällä sais paikka tuo valtion taloutta. Ja jos vielä tulisi liikekannanpanoja sota.
 
 48
-00:19:50,900 --> 00:20:04,300
- Mutta katso kun hyväveli pyytää niin kyllä hyväveli antaa tämä orpo on aivan hyvä niin että kun se antaa hyväveli kun pyytää. Täältä pojanmaalta moi.
+00:16:08,460 --> 00:16:38,380
+ Niin siis isoimmat tuloisimmat suuromistajat etulinjan puolustamaan kun eihän pienituloisilla ole mitään puolustettavaa. Näin olisi tasapuolisesti. Hyvää päivänjatkoa. Hei seuraavissakin puheluissa ollaan vielä vahvasti vallan salien vaiheilla. Ennen näitä Audiomuotoisia ajatuksia yksi Kansanradion verkkosivujen lomakkeella lähetty viesti. Siinä lukee näin. Pääministeri Petteri Orpo on rahoittanut oma toimistoa.
 
 49
-00:20:05,980 --> 00:20:20,220
- - No niin nytkä se alkaa tuo korruptio mellominen eikä sitä hiivatti ole mittaan muuta tuolla hallituksessa. Omiileinen jakkaa ei siitä ei pääse mihinkään. Oma suu on lähempänä kuin kontti suu.
+00:16:38,460 --> 00:17:08,260
+ Toivottavasti kardin Helsinki Areenan rakentamista kolme kolmenkymmenäviidellä miljoonalla eurolla ja valtiovarainministeri Jön ja valtiovarainministeri Rin on oltava ollut tästä asiasta tietoinen. Asiasta ei tullut löytyä mitään jälkiä ja tätä soisi jonkun tahon tutkivan. Liekei jopa poliisi asia. Ja nyt kun yksi tällainen suhumurointi paljastui. Mitä muuta paljastuu jos lähdetään kunnolla kaivelemaan edellisen pääministerin.
 
 50
-00:20:20,360 --> 00:20:33,800
- Se on semmoista hommaa ja niin retuu perällä kaikki kerta kaikkiaan. Eihän tuosta tuntuu loppua kyllä kerta kaikkiaan ollenkaan. Ja niin epärehellistä touhua että ei kestä kyllä kohta päivänvaloa.
+00:17:08,460 --> 00:17:28,260
+Joska koritkin kaiveltiin ampalajukurttien takia, jospa nyt jokin media kiinnostuisi kaivelemaan tällaista asiaa, johon kuluu miljoonia ja taas miljoonia meidän veronmaksajien rahoja. Maria Turusta oli lähettänyt tämän tekstin Kansanradion verkkosivujen lomakkeella.
 
 51
-00:20:35,600 --> 00:21:05,080
- - Ajattelipa tässä talvalla todellakin kipeitä päätöksiä laittaa 45 miljoonaa semmoiseen hankkeeseen mistä on mitään takeita eikä tietoa. Ja sitten Vapaavuori väittää kuinka sitten tulee ikkunoista ja ovista tulee sitä aakerityöllisiä lisää ja kauheasti tulee kaikki hotelleihin ja raviintonoihin ja muihin. Tämmösiä aikaa rahaa ei ole mihinkään muualle sitten tuommoiseen turhan päivästen. Parein on rupeaa olemaan Suomi täyttei käyttäkää niitä loi.
+00:17:28,260 --> 00:17:49,260
+Näistä kansanedustajista eihän ne eivät istu siellä istuntosavuudessa sadantuhannen markan euron vuosi yksi tienisteille plus avustajapalka päälleni. Nämä Orpo mainitsemat kansakunnan kaapin päällä olevat ovat taas menneet alaspäin aika paljon. Nyt pitäisi kyllä ihmisten kattoo ketä ne sinne oikein äänestävät. Ei tässä muuta. Moi!
 
 52
-00:21:06,600 --> 00:21:26,080
- - Joo JKH Tampereelta moro. Eli näin jos kumarrat oikeaan niin pyllistät vasemmalle ja jos kumarrat vasemmalle pyllistät oikealle. Totemus, viisaus ja noin päin pois.
+00:17:58,260 --> 00:18:27,260
+ ja Rytman ajatteli panostaa golfiin puoli miljoonaa, jotta kokoomuslaiset ja persut pääsivät golffaamaan ja siinä sivussa nämä muutamat muutkin hallituspuolueet. Ihan ajattelin, että ajatteliko Rytmankin sille, että sinne vaan sitten vammaiset, turvakotiporukka ja kaikki muutkin nii golffaamaan, kun kaikesta otetaan rahaa pois. Toki sinnehän ei mahdu enää, kun nehän on päätettävät.
 
 53
-00:21:26,080 --> 00:21:28,080
- - Mistäs tämmöinen tuli meille?
+00:18:28,260 --> 00:18:55,260
+ Jos on tarkoitettu perussuomalaisille ja kokoomuslaisillenne golfpaikat, kovin pienet tilit, niin täytyy ponsata golffia. Sinne vaan veteraalit golffaamaan. Häpeällistä ja Rytman pois ja äkkiä häpeäpilkkuja. Tällaista ei Suomi suvaitse emmekä halua tänne fasismia, napsismia. Suomi ei ole sitä. Kiitos, hei!
 
 54
-00:21:28,080 --> 00:21:41,080
- - Joo kuuluteli tuossa vähän politiikkaa ohjelmaa ja tätä kansanradio siinäkin oli pikkusen politiikkaa ja eilen ei ole kuulin paljon politiikkaa niin siitä tää kaikki lähti tuli vain yhtäkkiä mieleen tämmönen.
+00:18:58,260 --> 00:19:28,260
+vaan siellä soitteilla. Ihmettelen vaan, että joko ollaan niin pitkällä tässä yhteiskunnassa, että sellaiset selvät väärinkäytökset, kun nyt oli juuri eduskunnan äänestä, tämmöiset niin sanottuja poliittisten järjestöjen tukirahoista, niin nekin painetaan jo villasella. Tässä joku vuosi tai vuosikymmeninkin taisi mennä jo siltä joku nuorisojärjestö kohni jotain rahoja, johon oli joku puolue kovasti sidottu siihenkin systeemiin. Ja nyt tuntuu taas siltä, että siellä on nyt kähmitty väärinkäytökset.
 
 55
-00:21:41,080 --> 00:21:45,560
- - Kiitokset tästä toteamuksesta ja hyvää sunnuntajatkoa sinne Pirkanmaalle.
+00:19:28,260 --> 00:19:58,260
+joka puolueesta kun ei kukaan uskalla vastustaa sitä korjauspäätöstä. Tää on niin kuin veronmaksajien ja kansalaisten kannalta vähän ihmeellinen asia, että kun pitäisi säästää ja sitten säästetään jostakin köyhilta ja muualta ja sitten noilta poliittisilta järjestöiltä ei sais ottaa mitään pois. Onhan tää niin kuin käsittämätön juttu, että me veronmaksajat joudutaan epäilemään tätä koko meidän järjestelmää, että tää on mätä. Niin kukahan tuonne sitten nää mielellään veroja
 
 56
-00:21:45,560 --> 00:21:49,560
- - Kiitos ja samoin sinulle hyvää sunnuntajatkoa. Hei hei.
+00:19:58,260 --> 00:20:28,260
+- No vihaiden kansalainen täällä. Elokuun joku puhui ja ehdotti, että kuinka kilometrikorvauksia pitäisi lisätä näille, jotka nyt vielä sattumoisten ovat töissä käyviä. Siis niitä töitä on eikä, ei millään eikä. Kansan talous on niin perselle. Ei voi. Mutansa olla, kun ministeri tarvii kulukorvauksia, niin noste tipahetti silleen 500 euroa kuukauden. Että tässä se niitten tasa- arvo. Ja sitten mummoja makuutetaan sägsyttä.
 
 57
-00:21:49,560 --> 00:22:09,560
- - Hellou jos haluat rikastua ryhdy politiikoksi. Siellä on ne miljonäärit kaikki tuolla politiikassa. Sinne ne menee kaikki meidän verorahat mitä me yritämme maksaa. Ei ne ainakaan vanhustenhoitoomme eikä lasten terveytään. Sella lailla.
+00:20:28,260 --> 00:20:42,260
+kun ei jakseta eikä laiteta resursseja, että tietäisiin edes ulos vähän. Eikö, annetaan maakas siellä vai omettua? Kyllä kaikki hoidetaan, sanoi Juuso. Mm, kyllä. Oimoi.
 
 58
-00:22:09,560 --> 00:22:33,560
- - Sella lailla. Seuraavaksi siirrymme tiiviimmin sosiaali- ja terveysaiheiden hellään huomaan. Ennen puheluitaan paikallaan muistuttaa että Kansanradion jakso ilmestyy Yle Areenaan joka perjantai kello 21. Jos merkkaat sydämenkuvasta ja tilaat ohjelmasta ilmoitukset kellonkuvasta niin saat aina ensimmäisenä tiedon kun uusi jakso ilmestyy Yle Areenaan.
+00:20:58,260 --> 00:21:25,260
+Voitteko te ihmiset käsitä, miten kuvottavia olette lävistysrojut naamassanne? Vanhuksen silmiin koskee teitä nähtyäni. Ne ovat sitä paitsi epähygieenisiä. Vanhus sanoo yök. Näin lukee sähköpostissa, johon lähettäjä ei ole laittanut mitään nimeä tai nimerkkiä. Kazardion sähköpostiosoite on kansan.radio.yle.fi.
 
 59
-00:22:39,560 --> 00:23:08,560
- Tuna jota vankolle korville kuulla järkikommentteja Kansanradiossa näistä pillerikaappiasta jota lääkäreiksikin kutsutaan. Tähän liittyen muistuu mieleen professorilla se lehtose ilmaisema huoli mediassa. Pari vuotta sitten hän pääsi osua härän silmään eli naolan kantaa kun sanoi että Suomeen on luotu tehoton helvetin kone ja sen seurauksena suomalaisten eliäodote on huonontunut. Tätä unkeko ne haitalliset pillerit.
+00:21:28,260 --> 00:21:57,260
+On tärkeätä olla verenpainemittari. Paineet pitäisi mitata aina aamulla heräämisen jälkeen, koska paine on alimillaan herätessä. Jos paine on alle satakaksikymmentä, siis yläpaine, niin olisi syytä nauttia jotain suolapitoista, esimerkiksi silliä leivän päällä tai suolakurkkua, sillä muuten on riski pyörtyä. On väärin, että paineiden suositusarvoja alennetaan lähes vuosittain ja kaiken takana on lääketeollisuus, joka tahallaan tekee verenpainelääkkeiden orjia.
 
 60
-00:23:09,560 --> 00:23:39,200
- Sinne sinne ei aurinko paistaa läski voi ja punainen maito käyttöön ja sokeriötöt kaljat namut ja pikaruoka sinne helvetin koneeseen. Minne ei ala lääkefirmoja rikastuttajaksi. Tää laitetaanpa suitset suuhun tälle terveyspolitiikalle ja järkikäteen. Terveisin entinen meierimies. Lättäkää julkiseen tietoon semmoinen että lääkäreille ja sairaanhaitteille on vaikeeluvelvollisuus.
+00:21:57,260 --> 00:22:27,220
+Raima Rönkkö tältä Salosta. Hyvät kansanradion kuuntelijat. Minä olen sairastunut vakavaan lihastautiin nimeltään nekrotisoiva autohimmooni myöpatia, jonka aiheutti kolesterolilääke. Se aiheutti lihaksistoon toksisin myrkytystilaan. Lääke on myrkkyä. Mä oon taistellut nyt viisi vuotta lääkevahinkova kulutusyhtiön kanssa korvauksista. Mä olen parikymmentä tuhatta saanut sieltä korvauksia.
 
 61
-00:23:39,560 --> 00:23:57,560
-potilastiedosta. Me tulemme meetinkiä tuon pitkin kylänraikkeen, levittelemme kaikki ja jopa luetetaan ja kopioidaan ihmiset, potilastietää jaetaan niitä tuonne. Ja kun tässä on kyseessä mielisairat sairaat, jotka tehdään myöskin, niin ei tajua, että mikä on vaikeolo ja saassa pidettävä asia.
+00:22:27,260 --> 00:22:57,220
+ Joten sinne kannattaa tehdä korvausvaatimukset, mikäli teistä tuntuu että on jompikumpi jaloista mennyt ja ette kunnolla pääse liikkumaan. Eipä tässä muuta. Kiitos. Hyvää jatkoa. Rituli. Olen yhdessä suomalaisessa hoivakorjassa ja kaikki on täällä ihan muuten ok, mutta suomalaisiin voisi olla enemmän ulkomaalaisten asti. Tulee aina vähän ongelmia.
 
 62
-00:24:09,560 --> 00:24:39,060
-Tämmöinen nykyinen oppositio. Puheista päätellen kaikki ongelmat poistuvat. Raa on, elikkä ei kannata olla vammaiset vanhukset ja muut vähäosa kannata olla huolissaan. Elikkä sieltä on niin paljon ryhyä turvallisuuskuun kunnalle, että te madette Lindt vanhia ja me tää vihervasori puoluetta, elikkä vasemmassa liittyvää vihreitä ja näitäni. Elikkä kissanpäivät on kansalaisille edessä. Kaikki tulee kuntoon. Puhkatsa sitä luokkaa. Uskokoon ken haluaa. Minä en usko näihin pelle puolueisiin ollenkaan. Ei muuta. Kiitos. Hei.
+00:22:57,420 --> 00:23:03,420
+ Ymmärryksen kanssa. Miksei suomalaiset hae lähihoitajat hae töihin?
 
 63
-00:24:39,560 --> 00:24:51,060
- Viime jaksossa ei huudettu esiintyvältä yhtyeltä paranoidia, vaan kysyttiin tuon laulun suomenkielistä esittäjää.
+00:23:04,420 --> 00:23:15,420
+ Ilo täällä voi. Olen iloinen koska saan apua sairauteeti. Olen Päivystyksessä ja täällä Päivystyksessä hoidaan minua kiitettävästi. Hei!
 
 64
-00:25:09,560 --> 00:25:35,060
- Olin lisäksi moni muukin toi viestissään esiin tämän froikkareiden laulun. Toinen suosittu vastaus oli eläkeläistyhtyeen Hullun Jenkka -kappale. Itselleni uusi tuttavuus tuli Peksiltä. Hän kirjoittaa WhatsApp-viestissään näin:
+00:23:27,420 --> 00:23:52,420
+ Mutta siinä ovat penkin lisäksi mukana Pyyhe ja Paranoid. Ennen tätä kolmikkoa on paikallaan muistuttaa että Kansardion jakso ilmestyy Yle Areenaan joka perjan tai kello kaksikymmentäyksi. Jos merkkaa Chydamen kuvasta ja tilaat ohjelmasta ilmoitukset kellon kuvasta, niin saat aina ensimmäisinä tiedon kun uusi jakso ilmestyy Yle Areenaan.
 
 65
-00:25:40,560 --> 00:26:09,060
- Erkki ja tähti. Näin meille kertoi WhatsApp-viestissä Peksi lisäyksenä hänen viestiinsä, että tuon suomennoksen nimi on Polaroid. Meille kansanradioon voi lähettää WhatsApp-viestejä sekä tällaisia tekstikommentteja että myös äänimuotoisia, jollaisia on mukana tässä ohjelmassa parikin kappaletta. Kansanradion WhatsApp-numero on 044 551.
+00:23:57,420 --> 00:24:26,420
+ Toivottavuusehdotusta kaikkiin päivittäisiin kauppoihin penkkejä joilla voin levähtää niin heikko kuntoisemmat ja äidit pikkulastensa kanssa ostoksensa ohella. Ei riitä vaikka isommissa on kahvilakulmaus. Penkit olisivat tärkeitä jopa nuoremmille joilla on jokin toipumisvamma ja liikkuminen heikkoa sopii myös ehdotuksena pienempiin kauppoihinkin.
 
 66
-00:26:10,060 --> 00:26:16,060
- Viisi neljä kuusi neljä. Nyt siirrymme siivouksen maailmaan.
+00:24:27,260 --> 00:24:38,500
+ Sen, että kauppiaat ottaisivat asiakkaittensa toiveet huomioon, joka helpottaisi useiden kauppareissua. Iloista kesää toivotan. Kiitos.
 
 67
-00:26:40,060 --> 00:27:09,560
- Niistä mennään suoraan pitkään linja huoneissa ja kaikki muut pienet tilat. Pitkään linja tarvittaa eteenpäin. Eteenpäin isoissa avarissa tiloissa ja huoneessa sitten tulla itseään kohtaan. Eli peruutetaan. Ja huoneeseen selvoiko se on potilaat tai mikä tahansa niin kyllä sitä aina kuulee näkeä ihmiset kun liikkuu takaa ja ne väistelee ja kuulee.
+00:24:57,260 --> 00:25:26,900
+ Kotona tuollaiset vanhanaikaiset, vaikka ne ovat uudet, mutta vanhanaikaiset pyyhennaulakot. Tiedät sellaiset koukut? -Muoviset. -Muoviset, juuri näin. Niihin laitetaan sitten käsipyhettä, kasvopyhettä ja sitten on vielä astia pyyhkeille ja paikkaa ja muuta. Mutta minne ovat hävinneet nämä ripustin koukut? Siis niitä, mitkä ovat siinä pyyhkeessä?
 
 68
-00:27:10,060 --> 00:27:39,560
- Melkein kolmekymmentä vuoden nää siivouskokemukset on niin. Kuinka tuorta tietoa sulla on? Tämähän on ihan tuoretta normaalitietoa. Tuo sairaaloissa niin nehan ne... Eli olette edelleen tehokassa? Nyt me olemme eläkkeellä. No niin, joo. Että sinä kun itse olet ollut työelämässä niin näin on. Kyllä, joo. Se on ihan kuule koulussaikka jo 90-luvulla niin isoissa tiloissa tällä listalla.
+00:25:27,260 --> 00:25:56,900
+ Sellaiset lenkit, mistä ne laitetaan siihen koukkuun. Että siellä saattaa olla joku tämmöinen muovinauha, joka on ommeltu siihen pyyhkeeseen. Siitähän voi tietysti ripustaa, mutta ei enää olisi niin hyvännäköisiä pyyhkeitä ja menisi paljon kaupungin ostamatta jää, kun eihän meillä ole mitään sellaisia kuivatustankoja niin kuin jossain hotelleissa tai jossain tällaisessa, missä niitä kuivatetaan noita pyyhkeitä.
 
 69
-00:27:40,060 --> 00:27:58,060
- Ootko monta vuotta ollut eläkkeellä? Nyt minä olen ollut parikymmentä vuotta kohtaan. No niin, selvä. Mutta ei nuo siivousvinkis. Ne eivät muutu mihinkään. Aivan. Kiitos tästä tiedosta ja oikein hyvää sunnunta jatkoa. Samoin sulle joo. Hyvää kesäjatkoa. Siitä samaa. No ei hei.
+00:25:57,900 --> 00:26:27,100
+ Eli viestisi pyyheen valmistajille on, että lenkit takaisin. Lenkit takaisin ehdottomasti. Käytti, kuka käyttää ja kuka ei käyttä, niin repiköt pois. Kiitoksia tästä viestistä ja oikein hyvää kesäpäivän jatkoa. Kiitos, sitä samaa sinulle ja kiitos ohjelmausta. Hei hei! No Ile etä-asias, hei tämmönen. Onko Black Sabatin Paranoiden? Ja siitä on tehty suomenkielinen versio.
 
 70
-00:28:10,060 --> 00:28:33,060
-ekonomia ja turvallisuus lisääntyy myös siinä työssä. Täällä alan ammattilainen huuteloo, että myös moppia täyttäessä siistimistyössä me emme enää käytä märkää menetelmää juuri laisinkaan, ainoastaan nihkeää ja kosteaa sekä joskus myös pelkkää kuivaa.
+00:26:27,260 --> 00:26:51,100
+ Mutta minä en muista kuka ja mikä bändi sen esitti. Haluaisin kuulla ja tietää mikä sen esitti. Oli se kiitollinen, jos kuulisin sen. Tämmönen vanha, 75-vuotias pappa haluaa kuunnella vanhaa paranoidea suomenkielisenä versiona. Maa!
 
 71
-00:28:33,060 --> 00:28:44,060
- Näin ollen emme mene siis selkä edelläpäin vaan käytämme silmiä ja kuljetaan etuperin. Jess! Hepsustaa!
+00:26:57,260 --> 00:27:20,220
+ Ed. Kun vuoron saa yksi tuttu kansalainen Keski-Suomesta, Ilelle vastaan omalta kohdaltani, että itse olen ainakin kuullut maalaispoika Alatalon tyylikkään suomiversion paranoidista. Mutta sitähän ei kysytty, joten palaan ruotuun ja luen nyt yhden postikortin ennen sitä seuraavaa puhelua.
 
 72
-00:29:03,060 --> 00:29:31,060
-Esimerkiksi sairaaloissa on vaara törmätä jo ennestään sairaisiin potilaisiin ja toiseksi kyse on myös omasta turvallisuudesta. Se on tavattoman kallista kun putoat rappusista ja loukkaat itsesi. Mitä tulee ikkunanpesuun niin nykyisistä sanomalehdistä irtoaa mustetta ja ikkuna jää likaiseksi. Ikkunat kannattaa kuivata puuvilla pyyhkeillä eikä edes nukkaa ikkunoihin.
+00:27:27,260 --> 00:27:57,220
+ Yläpäässä olisi vaaka-asennossa akseli ja alapäässä tuhannen kilon paino, joka on pienessä liikkeessä. Mikä energiaa tarvitaan, kun tanko väännetään akselista ylös suoraan pystyyn kolmessa sekunnissa? Tankon painoa ei huomioida. Näin meiltä kysyy nimimerkki Raimo postikortissa. Kortin kuvassa on muuten iloisennäköinen laama. Kansanradion voi lähettää kortteja ja muuta perintä.
 
 73
-00:29:33,060 --> 00:30:00,060
- Tämän WhatsApp-viestin meillä on lähettänyt Henna ennen runoja kerron Kansanradion puhelinnumeron. Se on 08 0 0 1 5 4 6 4 ja puhelu on soittajalle maksuton ja muistutuksena että sunnuntaisin kello kaksitoista kolmekymmentä alkaen tuossa numerossa vastaa ihmisvastaa ja kolmen tunnin ajan.
+00:27:57,260 --> 00:28:27,220
+Kortteista postiaosoitteeseen Kansanradio pl seitsemänkymmentäyhdeksän nolla nolla kaksikymmentäneljä Yleisradio. No niin mauno Voutilainen Joutilaina, Kelan eläkeläisenä tässä Jyväskylästä soittelen. Riitän saada tältä koneesta ääniä kuulumaa. No niinhän se lähtee sitä väi ja tuota. No niin minulla tässä nyt olisi semmoista.
 
 74
-00:30:03,060 --> 00:30:20,060
-Ikkaari täältä ikäärisistä. Minä kuulin että nyt on se runoje suven päivä niin ajattelin että pitää lausua pieni runo kaikille Suomen naisille. Se on tämä runon nimi on harkipäivän romantiikka.
+00:28:27,260 --> 00:28:57,220
+ Täällä on idea että kun tuolla jaahallissa katossa siellä katto huoneesta siellä jaahallin katossa niin siellä on niin kosketin soittajia jotka tuota niin pelin aikana niin tuota niin eläytyvät näihin pelin tilanteisiin ja he soittavat sieltä sitten erilaista musiikkia niin tuota niillä koskettimilla ja efekteillä. Niin minä tässä harjoittelen semmoiseen virkaan nyt että että näin ikkältä miltäs tämä mitenkäs tämä nyt lähtee niin kun.
 
 75
-00:30:33,060 --> 00:31:02,060
-Ensimmäiset pakokaasut sekoittuu. Kollikissa laulu jostain kaupungille kantautuu. Herätystä kellot soittaa töihin riennät joutuisaan. Asunnosta vuokratusta muuten lähtet kokonaan. Lapset kesken uniansa tarhaa viedä täytynee naimamiehen alushousut sängyn alta löytyneet.
+00:28:57,260 --> 00:29:14,220
+ Nyt on tuota musiikkia nautittu sen verran että on paikallaan kuunnella välillä runoutta. Sehän sopii siinäkin mielessä hyvin kun runon ja suven päivä on hyvin ajankohtainen näin heinäkuussa.
 
 76
-00:31:03,060 --> 00:31:32,060
-Alavi soittelee. Hyvää täivää. Luen runoni liian usein. Liian usein kätkemme kaiken sen kaiken josta voisi olla onnellinen. Liian usein kiireesti eteenpäin. Me juoksemme kiirehdimme. Mitä teetkin? Tee huolella harkiten niin kuin teet turvat päiväsi huomisen. Alavi kuulemme kohta asiaa vielä ainakin kuorikatteesta. Ennen viimeisiä puheilua.
+00:29:27,260 --> 00:29:40,220
+Ja puhelu on soittajalle maksuton ja muistuksena että sunnuntaisin kello kaksitoista kolmekymmentä alkaen tuossa numerossa vastaa ihmis vastaa ja kolmen tunnin ajan.
 
 77
-00:31:33,060 --> 00:32:02,060
- Hyvää valvonta. Minä toivotan teille kaikkea hyvää. Koiviston Lauri Kiittää kumartaa Kansan Radio jälleen viikon päästä. Seuraa kysymys minkä takia julkisiin esimerkiksi kaupungin puistoihin levitetään kuorikatetta suuripino ja sitä ei levitetä viikkokausiin. Tällaisen ilmiön olen huomannut tässä toistui joka kevät ja alkukesä Tampereen Tuomiokirkon kirkkopuistosta.
+00:29:57,260 --> 00:30:24,220
+Juho eli avantakelu jo tässä Imatralta päivää. Miten sinä tulee tänne tänne tänne tänne. Se on hyvä se sanat ja sanominen on kovasti vaikeaa. Voi olla jos ruvetaan treenata menekin opita koetetaan treenata sinne. Hyvä sanomissa ja tekemissä ja kiitos kansanradiosta.
 
 78
-00:32:03,060 --> 00:32:32,060
-Tuossa kulmen kuusi puun väliin saapuu valtava läjäkuorikatetta ja se seisoo ja seisoo ja seisoo ja vasta yleensä sitten kesäkuun jälkeen jo heinäkuun puolella niin sitä katetta aletaan levitellä ja ei kerralla vaan uusissa että se kasa siinä sitten edelleen jatkaa sitä ulemassa uloaan. En tiedä en ole tähän vastausta löytänyt. Tietääkö joku? Erkolaimainen Turusta. Täältä Petsilien juusoilla tämmöinen muistutus että.
+00:30:27,620 --> 00:30:57,180
+Lostas tämmönen pikku runo ympettiin. Pieni punainen tipparello oli helluntaina hellu minulla autona tipparello. Hellu ottaa aamun kajos. Sitten minun rellu hajos. Morsio istuu verran alla. Minä makaan rellun alla. Onneksi oli mukana rautalankaa. Nyt ei pakari enää tietä hankaa. Vihdoin rellun mut perille vie. Tämä oli onnen tie ennen kuin syksy koittaa. Meille hääkellot soittaa. Loppui rellun pärinä. Tää on.
 
 79
-00:32:34,060 --> 00:32:52,060
- Miksi te naurat nyt aivan tyhjälle? Vanha sanota sanoo että mies se tulee räkään nokastakin muttei tyhjän naurajasta. Ja jos se tämä tyhjän nauraminen ei lopu niin minä lopetan koko ajan kuuntelu siihen ja sillä selvä.
+00:30:57,260 --> 00:31:18,260
+Vielä on ainakin aikaa tehdä loppusiivous. Ennen viimeisiä puheluita minä toivotan teille kaikkea hyvää. Koiviston Lauri kiittäjä kumartaa, kansa radio jälleen viikon päästä.
 
 80
-00:33:04,060 --> 00:33:13,060
- Ihminen herää tokkurassa pyhä aamuna. Uutisten lukija sanoo alko on auki. Nyt äkkiä viinakauppa.
+00:31:18,260 --> 00:31:47,260
+No huomentapäivää tässä Kaarina Helsingistä soittelee. Siivoustyön asiantuntijoille nyt tästä pari kysymystä. Kysymys numero yksi: Onko nykyaikaiset siivousmetodit niin, että laitoksessa siistiä mopatessaan lattiaa märällä tai kostealla mopilla kulkee niin, että moppi menee edellä ja sitten tämä siistiä kävelee sen mopatun kostean kautta märän puhdistetun lattiaan.
+
+81
+00:31:48,260 --> 00:32:17,260
+Ennen vanhaa kun minä olin sairaala apulaisena kesätyössä niin meille opetettiin, että aina pitää peruttaa, että ei astu sen märän päälle, jolloin siihen ei jää jälkiä. Ja kun tätä asiaa kysyin laitoksessa, niin minulle sanottiin, että ei kun meille on opetettu näin, että näin pitää tehdä. Mut okei selvä kaikki muuttuu. Eskosenin toinen kysymys koskee ikkunanpesua. Kuulin tällaista väitettä, että nykyaikaiset tandardit on niin, että enää ei saisi ikkunan pesemiä.
+
+82
+00:32:18,260 --> 00:32:37,260
+ Käyttää sanomalehteä viimeisteltäessä sitä ikkunaa. Eli onko tämäkin nyt joku uusi metodi ja onko siitä nyt jotain vaaraa? Näinkin minulle väitettiin. Elikkä siistiä työn asiantuntijoita nyt tähän haluaisin kovasti vastauksia. Mastavaa kesää kaikille ja ollaan siistiä. Moikka!
+
+83
+00:32:48,260 --> 00:33:13,260
+ Hei ohjelma on ohjelma eikä mikään potkukassi.
+
+84
+00:33:18,260 --> 00:33:45,260
+ Kiitos, että te olette tehneet tämän esityksen. Tämä on tärkeää, että me olemme tehneet tämän keskustelun, että se on erittäin tärkeää, että me olemme tehneet sen, että se on erittäin tärkeää, että me olemme tehneet sen, että se on erittäin tärkeää, että me olemme tehneet sen.
 
