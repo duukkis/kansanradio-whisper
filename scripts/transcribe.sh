@@ -9,13 +9,12 @@ if [[ ! -f "$AUDIO_FILE" ]]; then
     exit 1
 fi
 
-if [[ ! -s "$LAST_EPISODE_FILE" || ! -s "$CURRENT_DATE_FILE" ]]; then
-    echo "Episode ID or publication date is missing." >&2
+if [[ ! -s "$METADATA_FILE" ]]; then
+    echo "Episode metadata is missing: $METADATA_FILE" >&2
     exit 1
 fi
 
-PROGRAM_ID="$(<"$LAST_EPISODE_FILE")"
-PUBLISHED="$(<"$CURRENT_DATE_FILE")"
+eval "$(python3 "$SCRIPT_DIR/extract_episode_items.py" "$METADATA_FILE")"
 
 if [[ ! "$PROGRAM_ID" =~ '^[A-Za-z0-9._-]+$' || ! "$PUBLISHED" =~ '^[0-9]{4}-[0-9]{2}-[0-9]{2}$' ]]; then
     echo "Invalid episode ID or publication date." >&2
@@ -27,6 +26,8 @@ OUTPUT_BASE="$TRANSCRIPT_DIR/$OUTPUT_BASENAME"
 TRANSCRIPT_FILE="${OUTPUT_BASE}.srt"
 TRANSCRIPT_METADATA_FILE="$TRANSCRIPT_METADATA_DIR/${OUTPUT_BASENAME}.json"
 LOCK_DIR="$DATA_DIR/transcribe.lock"
+
+mkdir -p "$TRANSCRIPT_DIR" "$TRANSCRIPT_METADATA_DIR"
 
 release_lock() {
     rm -f -- "$LOCK_DIR/pid"

@@ -20,8 +20,8 @@ fi
 eval "$(python3 "$SCRIPT_DIR/extract_episode_items.py" "$METADATA_FILE")"
 
 LAST_ID=""
-if [ -f "$DATA_DIR/last_episode_id.txt" ]; then
-    LAST_ID=$(cat "$DATA_DIR/last_episode_id.txt")
+if [ -f "$LAST_EPISODE_FILE" ]; then
+    LAST_ID=$(cat "$LAST_EPISODE_FILE")
 fi
 
 if [ "$PROGRAM_ID" = "$LAST_ID" ]; then
@@ -41,8 +41,7 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-echo "$PROGRAM_ID" > "$DATA_DIR/last_episode_id.txt"
-echo "$PUBLISHED" > "$DATA_DIR/current_episode_date.txt"
+echo "$PROGRAM_ID" > "$LAST_EPISODE_FILE"
 
 echo "Downloaded new episode: $TITLE ($PUBLISHED)"
 

@@ -8,7 +8,7 @@ eval "$(python3 "$SCRIPT_DIR/extract_episode_items.py" "$METADATA_FILE")"
 
 cd "$ROOT_DIR"
 
-git add data/transcripts data/last_episode_id.txt
+git add data/transcripts data/metadata data/last_episode_id.txt
 
 if git diff --cached --quiet; then
     echo "Nothing to publish."
