@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-77266362",
+    "webpage": "https://areena.yle.fi/audio/1-77266362",
+    "title": "Kansanradio: Voi turskanperkeet!: 2026-03-13T21:00",
+    "episode_title": "Kansanradio: Voi turskanperkeet!",
+    "description": "Tällä kertaa Kansanradiossa mietoja ja vähemmän mietoja kirosanoja aiheuttavat muun muassa ex-urheilijat eduskunnassa ja särkyneenä saapuneet paketit.\nPresidentin virkaan toivotaan psykologisia testejä, jotta tollot saadaan karsittua pois.\nJa onko Suomen tulevaisuus karjalanpaistiton?\n\nToimittajana Lasse Olkinuora\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.Kansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30. Kuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Voi turskanperkeet!: 2026-03-13T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-14aee545da874aef960602908383f826/audio-1773320912358.mp3?hdnts=exp=1784072798~acl=/aod/world/78-14aee545da874aef960602908383f826/*~hmac=af670c8a8d78a9584612209917e1a26d4deca9eb2ba0c5ef2dd2dc29d78ff4c7"
+      }
+    ],
+    "duration_seconds": 1940,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-03-13T21:00:00+02:00"
+  }
+]
