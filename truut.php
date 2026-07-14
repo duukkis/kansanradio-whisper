@@ -7,8 +7,8 @@ error_reporting(E_ALL);
 include("../mastodon/bot.php");
 
 function tweetThis($tweet) {
-    $masto = mastodon("kansanradio");
-    $masto->statuses()->post(["status" => $tweet]);
+//    $masto = mastodon("kansanradio");
+//    $masto->statuses()->post(["status" => $tweet]);
     $bsky = bsky("kansan-radio");
     $bsky->repo()->createRecord($tweet, ["fi"]);
 }
