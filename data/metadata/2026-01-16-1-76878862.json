@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-76878862",
+    "webpage": "https://areena.yle.fi/audio/1-76878862",
+    "title": "Kansanradio: Pusu ilman viiksiä on kuin muna ilman suolaa: 2026-01-16T21:00",
+    "episode_title": "Kansanradio: Pusu ilman viiksiä on kuin muna ilman suolaa",
+    "description": "Tämän viikon Kansanradiossa suositellaan suutelemista vain parrakkaiden ja viiksekkäiden miesten kanssa. Sen lisäksi suositellaan pysymään poissa Kreikan lomakohteista. Siellä kun ei saa heittää vessapaperia pönttöön. Meillä kotimaassa puolestaan puupäät ovat päässeet valtaan ja tehneet paljon puupäämäisiä päätöksiä. \n\nToimittajana Lasse Olkinuora\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.Kansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30. Kuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Pusu ilman viiksiä on kuin muna ilman suolaa: 2026-01-16T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-be2dc9a8ee7a4e38a87d511984c0713a/audio-1768483083145.mp3?hdnts=exp=1784096801~acl=/aod/world/78-be2dc9a8ee7a4e38a87d511984c0713a/*~hmac=aad67df814fa2d942f332a5331b6fbc24f81f5d29268c1a6e4c8dba052cfa468"
+      }
+    ],
+    "duration_seconds": 1991,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-01-16T21:00:00+02:00"
+  }
+]
