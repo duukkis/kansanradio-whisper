@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-77758639",
+    "webpage": "https://areena.yle.fi/audio/1-77758639",
+    "title": "Kansanradio: Saako sokea tehdä pontikkaa?: 2026-05-01T21:00",
+    "episode_title": "Kansanradio: Saako sokea tehdä pontikkaa?",
+    "description": "Kansanradiossa ollaan vielä vapputunnelmissa, kun alkoholi nousee keskusteluun. Murreteema jatkuu edelleen, erään soittajan ilta meni pilalle, kun kuuli Oulun murretta. Ja miksi sinfoniaorkesteri pilasi Liekinheittimen?\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Saako sokea tehdä pontikkaa?: 2026-05-01T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-066ca394d60346eb97977aaa3f0c27f5/audio-1777397751289.mp3?hdnts=exp=1784063300~acl=/aod/world/78-066ca394d60346eb97977aaa3f0c27f5/*~hmac=eb2efb48f048424745671612bdbb4c38395fbf55f55b12a19c2cfb9dfce4383e"
+      }
+    ],
+    "duration_seconds": 1999,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-05-01T21:00:00+03:00"
+  }
+]
