@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-77034458",
+    "webpage": "https://areena.yle.fi/audio/1-77034458",
+    "title": "Kansanradio: Armeijaan pakkasraja!: 2026-02-06T21:00",
+    "episode_title": "Kansanradio: Armeijaan pakkasraja!",
+    "description": "Kuinka tätä maata puolustetaan, jos kaikki ovat flunssassa? Tämän viikon Kansanradiossa toivotaan myös etelän hörhöjä pois pohjoisesta ja Kankkos-tyyliä takaisin mäkihyppyyn.\nJa hyvä tasavallan presidentti, voisitteko opetella solmimaan solmionne kunnolla.\n\nToimittajana Lasse Olkinuora.\n\nKuuntelijoiden oma juttupaikka tosikoille ja veitikoille. Soita oma puheenvuorosi Kansanradioon 0800 154 64. Toimittaja päivystää numerossa sunnuntaisin klo.12.30-15.30.Muina aikoina voit jättää viestisi vastaajaan. WhatsApp-viesti: 044 551 54 64 Sähköposti: kansan.radio@yle.fi Kirjeposti:Kansanradio PL 7900024 Yleisradio Toimittajat: Lauri Koivisto ja Lasse Olkinuora Tuottaja: Hanna Juuti, Yle Radio Suomi",
+    "filename": "Kansanradio: Armeijaan pakkasraja!: 2026-02-06T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-4dc20fe0d5144803ba60b28ca856cab8/audio-1770300949784.mp3?hdnts=exp=1784083956~acl=/aod/world/78-4dc20fe0d5144803ba60b28ca856cab8/*~hmac=8cfc8710d216b2a14f1e6d0d768bd105723c4d495cdb1ab0268b0b348a1153ef"
+      }
+    ],
+    "duration_seconds": 1874,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-02-06T21:00:00+02:00"
+  }
+]
