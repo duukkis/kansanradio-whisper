@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-77647913",
+    "webpage": "https://areena.yle.fi/audio/1-77647913",
+    "title": "Kansanradio: Hyvää seksikevättä seitsemänkymppisille!: 2026-04-24T21:00",
+    "episode_title": "Kansanradio: Hyvää seksikevättä seitsemänkymppisille!",
+    "description": "Ikä on vain numero ja ihmisen pitää nauttia elämästä. Näin toteaa yksi kokemusasiantuntija.\nTämänkertaisessa Kansanradiossa myös kysytään, voiko kansanedustajat korvata tekoälyllä ja miksi rollaattorien renkaat ovat niin pieniä.\n\nToimittajana Lasse Olkinuora\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.Kansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30. Kuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Hyvää seksikevättä seitsemänkymppisille!: 2026-04-24T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-a6be68c38ccb462981a7a34244e80a20/audio-1776946110250.mp3?hdnts=exp=1784063909~acl=/aod/world/78-a6be68c38ccb462981a7a34244e80a20/*~hmac=4fd701ce9e0daef8ddb8964942fec8603e93dd247216cd6984f41c1621e9d879"
+      }
+    ],
+    "duration_seconds": 1988,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-04-24T21:00:00+03:00"
+  }
+]
