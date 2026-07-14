@@ -4,3 +4,7 @@ models/*.bin
 # Transient downloaded episode files
 data/episode.mp3
 data/latest.json
+
+# Local tweeting state and prepared transcript queue
+data/latest_episode_id.txt
+data/final.txt

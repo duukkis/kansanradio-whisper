@@ -54,7 +54,8 @@ print -r -- "$$" > "$LOCK_DIR/pid"
 trap release_lock EXIT
 
 echo "Transcribing $PROGRAM_ID ($PUBLISHED)..."
-"$WHISPER" \
+nice -n 10 "$WHISPER" \
+    -t 2 \
     -m "$WHISPER_MODEL" \
     -l fi \
     -f "$AUDIO_FILE" \
