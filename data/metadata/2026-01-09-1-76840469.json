@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-76840469",
+    "webpage": "https://areena.yle.fi/audio/1-76840469",
+    "title": "Kansanradio: Onko Trumpin pelko viisauden alku?: 2026-01-09T21:00",
+    "episode_title": "Kansanradio: Onko Trumpin pelko viisauden alku?",
+    "description": "Maailmanpolitiikan käänteet puhuttavat tämän viikon Kansanradiossa. Yksi kansalainen ehdottaa, että pannaan Moskova matalaksi. Toinen muistuttaa Paavo Väyrysen olevan vielä vaikutusvaltainen. Niin ja hiihtoakaan ei voi seurata, kun kilpailijan räkä roikkuu polvissa asti.\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Onko Trumpin pelko viisauden alku?: 2026-01-09T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-c6892653f956410387c7ec3f25fcfbab/audio-1767943791015.mp3?hdnts=exp=1784097114~acl=/aod/world/78-c6892653f956410387c7ec3f25fcfbab/*~hmac=db00f34fa709df618b2b8de0295905159cf2a5c0aef90d5f082938b353b1134c"
+      }
+    ],
+    "duration_seconds": 1999,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-01-09T21:00:00+02:00"
+  }
+]
