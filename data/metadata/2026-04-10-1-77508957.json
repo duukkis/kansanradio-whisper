@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-77508957",
+    "webpage": "https://areena.yle.fi/audio/1-77508957",
+    "title": "Kansanradio: Itsesäälimusiikki pois kaupoista: 2026-04-10T21:00",
+    "episode_title": "Kansanradio: Itsesäälimusiikki pois kaupoista",
+    "description": "Tekee mieli lähteä ilman ostoksia, kun kauppaan astuessa kuulee surkuttelevaa musiikkia.\nTampereella puolestaan ärsyttää turvavälit liikennevaloissa.\nJa Raumalla yksi ihminen kaipaa faktapohjaista keskustelua.\n\nToimittajana Lasse Olkinuora",
+    "filename": "Kansanradio: Itsesäälimusiikki pois kaupoista: 2026-04-10T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-3376d8a768fe47e08015964385e72e1f/audio-1775807965982.mp3?hdnts=exp=1784067261~acl=/aod/world/78-3376d8a768fe47e08015964385e72e1f/*~hmac=c7a9be96d7bbd921676e53fb49422f553b3325b1bdd98fb2a247cb9095cb6913"
+      }
+    ],
+    "duration_seconds": 1975,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-04-10T21:00:00+03:00"
+  }
+]
