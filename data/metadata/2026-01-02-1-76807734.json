@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-76807734",
+    "webpage": "https://areena.yle.fi/audio/1-76807734",
+    "title": "Kansanradio: Ei pidä mettässä morjestella!: 2026-01-02T21:00",
+    "episode_title": "Kansanradio: Ei pidä mettässä morjestella!",
+    "description": "Luontoon mennään rauhoittumaan, ei moikkailemaan. Kansanradiossa todetaan, että flunssa leviää hirvipeijaisissa. Kekkosta kaivataan, mutta soittajan mukaan hänkään ei pärjäisi Trumpille ja Putinille. Ja mummo ehdottaa ratkaisuna vaikeaan taloustilanteeseen piikkiä vanhusten perseeseen. \n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Ei pidä mettässä morjestella!: 2026-01-02T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-1a5c1e41fe8945babc010f46766b1260/audio-1767115940951.mp3?hdnts=exp=1784101978~acl=/aod/world/78-1a5c1e41fe8945babc010f46766b1260/*~hmac=ce7537c4f870fc9f79061c5ed9ffac5d7a4d407c9b9586cab0e4c9fe73c90fff"
+      }
+    ],
+    "duration_seconds": 1999,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-01-02T21:00:00+02:00"
+  }
+]
