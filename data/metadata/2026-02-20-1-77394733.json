@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-77394733",
+    "webpage": "https://areena.yle.fi/audio/1-77394733",
+    "title": "Kansanradio: Älkää mainostako alapäävoiteita televisiossa: 2026-02-20T21:00",
+    "episode_title": "Kansanradio: Älkää mainostako alapäävoiteita televisiossa",
+    "description": "Ei varsinkaan heti ruokamainosten perään, kiitos vaan. Muunkinlaisia muutoksia toivotaan tämän viikon Kansanradiossa. Nuorison voisi laittaa risusavottaan ja kauppaan saisi tulla helpommin ymmärrettäviä kananmunia.\nKysytään myös, että onko ihmisellä oikeus vaatia palvelua yhteiskunnalta, jos ei ole itse sen ylläpitoon osallistunut? Ja mikseivät ihmiset vaan osaa relaa!\n\nToimittajana Lasse Olkinuora\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Älkää mainostako alapäävoiteita televisiossa: 2026-02-20T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-9576e3746a5642eeb28755c501e26154/audio-1771838428556.mp3?hdnts=exp=1784083093~acl=/aod/world/78-9576e3746a5642eeb28755c501e26154/*~hmac=cb8523a370d47c287de1b2ead92f92d00701973446e1fcaa22bdd9c19237c3aa"
+      }
+    ],
+    "duration_seconds": 1970,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-02-20T21:00:00+02:00"
+  }
+]
