@@ -1,0 +1,1352 @@
+1
+00:00:00,000 --> 00:00:02,000
+ Yle Areena.
+
+2
+00:00:30,000 --> 00:00:35,000
+Mikä on talloontunu, ni sehän on pelkkää loistetta.
+
+3
+00:00:35,000 --> 00:00:39,000
+ Ihana talvinen aamu, pientä tuulevärettä.
+
+4
+00:00:39,000 --> 00:00:42,000
+ On mukava nauttia tässä,
+
+5
+00:00:42,000 --> 00:00:45,000
+ paksellen keittiön ikkunasta, luonnon kauneutta.
+
+6
+00:00:45,000 --> 00:00:48,000
+ Ja kaikille kansanradion kuuntilijoille
+
+7
+00:00:48,000 --> 00:00:50,000
+ myös kauneutta ja iloa elämää.
+
+8
+00:00:50,000 --> 00:00:54,000
+Oi, että, tällaisessa kauniissa tunnelmissa aloitettiin
+
+9
+00:00:54,000 --> 00:00:58,000
+ tämä kansanradio. Kiitos ensimmäiselle soittajalle.
+
+10
+00:00:58,000 --> 00:01:03,000
+Nyt totean perintäisesti, eli tervetuloa mukaan ja matkaan.
+
+11
+00:01:03,000 --> 00:01:08,000
+Tämän jakson aiheita ovat esimerkiksi sähkö, sote ja urheilu,
+
+12
+00:01:08,000 --> 00:01:10,000
+ toki muutakin on luvassa.
+
+13
+00:01:10,000 --> 00:01:15,000
+Tällä kertaa ohjelman palikaton, pulkalla laskenut paikalleen,
+
+14
+00:01:15,000 --> 00:01:17,000
+ Koiviston Lauri.
+
+15
+00:01:17,000 --> 00:01:21,000
+Eras soittaja toteaa puoluekannatusmittauksen olevan naurettava juttu,
+
+16
+00:01:21,000 --> 00:01:26,000
+ toinen kansalainen taas ehdottaa päätalon lukemista televisiossa.
+
+17
+00:01:26,000 --> 00:01:29,000
+Ja kyllä, taas Kekkonenkin on mukana jaksossa.
+
+18
+00:01:29,000 --> 00:01:32,000
+Seuraavaksi kuulemme harmituksen.
+
+19
+00:01:32,000 --> 00:01:37,000
+No hei, kansanradio, minua harmittaa, niin kovin kuin.
+
+20
+00:01:37,000 --> 00:01:40,000
+Ei enää taho saada kirjepaperiaan mistään.
+
+21
+00:01:40,000 --> 00:01:42,000
+Semmosta, missä on viivat.
+
+22
+00:01:42,000 --> 00:01:46,000
+Kirjakaupasta sanovat, että eihän sitä enää kukaan kirjoita.
+
+23
+00:01:46,000 --> 00:01:50,000
+Netissä vaan, mä sanoit, ei mulla semmosii oo.
+
+24
+00:01:50,000 --> 00:01:55,000
+No, yyden viimisen, aa, vitosen, missä on viivat, ni kirjepaperia sain.
+
+25
+00:01:55,000 --> 00:01:59,000
+Ja tota, sitten, ei noista kaupoistakaan, ei ole.
+
+26
+00:01:59,000 --> 00:02:01,000
+Sanovat, vaet ruutu paperille.
+
+27
+00:02:01,000 --> 00:02:04,000
+No, sehän on paksua, ja mä ku ulkomaille lähetän kirjeitäni.
+
+28
+00:02:04,000 --> 00:02:10,000
+Oon tää kummaks muutenkin mennyt toi postin toiminta, ja postimerkkien hinnatkii vaan hirveesti nousee.
+
+29
+00:02:10,000 --> 00:02:14,000
+Kuka sen postikin nykyisi omistaa, pihalle pistetää ihmisiä, ja.
+
+30
+00:02:14,000 --> 00:02:22,000
+Kylä, minä vielä paljon lähetän, ihan muitakin ku joulukortteja, ja lähetän pääsiäiskortteja, ja ku suku on pitkin.
+
+31
+00:02:22,000 --> 00:02:29,000
+Suomee, ja on se jotenkin nii harmii, ja postitkii vähenee, ja helku postilaatikoita kohta.
+
+32
+00:02:29,000 --> 00:02:36,000
+Kylä, niitä ulkomaan pakettia, niit, jotka tilaa sieltä, ja feroraat menee sinne, kaiken maailman ulkomaifirmon, niitä kyllä palvellaan.
+
+33
+00:02:36,000 --> 00:02:40,000
+Mutta tää on jotenkin nii törkeetä, yks harmistunut kirjoittaja.
+
+34
+00:02:40,000 --> 00:02:48,000
+Mutta toivottavasti, kaikille toivotaan kuitenki hyvää talveja, vakkanen pureja, mutta aurinko paistaa. Kiitos, hei.
+
+35
+00:02:48,000 --> 00:02:51,000
+Juu, onneksi aurinko paistaa.
+
+36
+00:02:51,000 --> 00:02:55,000
+Näistä tällaista pienistä ilmiöistä ihmisen on hyvä nauttia.
+
+37
+00:02:59,000 --> 00:03:05,000
+Sähköisiin ajatuksiin, ja kyllä, kohtaan luvassa, sitä tuulivoimaakin.
+
+38
+00:03:05,000 --> 00:03:11,000
+Veikko Kukkonen, päivää, kuuntelen tässä juuri tätä erittää hyvää kansavalioa, ja tässä tosiaan sähköhinnastani.
+
+39
+00:03:11,000 --> 00:03:18,000
+Tämä Suomi on kaiken maailman ketkujen optioherrojen käsissä, muun muassa sähkön suhteen,
+
+40
+00:03:18,000 --> 00:03:22,000
+ ja se on tosi, että miksi se illalla maksaa, kun ihmiset tullee kotia.
+
+41
+00:03:22,000 --> 00:03:26,000
+Näille sähköintiöten herrolle, niillähän ei ole todellista kilipailua,
+
+42
+00:03:26,000 --> 00:03:31,000
+ elikkä olikopolistilisessa monopolissa, elikkä kilipailu, jota erittäin vähä tuota nuini.
+
+43
+00:03:31,000 --> 00:03:36,000
+Ei heidän tarvi kilipaida tuota, keskenää kansaa ryöstetään tuota, tällä jäsi.
+
+44
+00:03:36,000 --> 00:03:39,000
+Sit tosiaan, tuota, tämä on semmoisten keinottelijoiden käsissä, tämä Suomi,
+
+45
+00:03:39,000 --> 00:03:42,000
+ tämä sähkön suhteen ja monen mun asian suhteen.
+
+46
+00:03:42,000 --> 00:03:47,000
+Meidän ylivoimalamme, atolivoimalamme, Olkiruoro, ni, miksi ne on jatkuuisti?
+
+47
+00:03:47,000 --> 00:03:49,000
+Huoltoiseisokissa, ne on rikki.
+
+48
+00:03:49,000 --> 00:03:52,000
+Siellä on jopa parhaista selitykset, turbiinissa on ollut halakkeen,
+
+49
+00:03:52,000 --> 00:03:56,000
+ ja olokiloto kolomusessa, säipiä paikkaassa, nihä jo siellä, misä ne tehdään.
+
+50
+00:03:56,000 --> 00:04:00,000
+Et röntken kuvaltaa monen kertailelä tällais huomasakin, ni,
+
+51
+00:04:00,000 --> 00:04:04,000
+ tällä tavalla saadaan sähköhintaa hinattua ylöspään, keksitään näitä huoltoiseisokkejä,
+
+52
+00:04:04,000 --> 00:04:06,000
+ ja muita, että ne on rikkiä.
+
+53
+00:04:06,000 --> 00:04:07,000
+Höpö, häpö.
+
+54
+00:04:07,000 --> 00:04:09,000
+Ja miossa noi huonoja ovat nuo ranskalaiset?
+
+55
+00:04:09,000 --> 00:04:13,000
+Ni, ku, nyt yli viissään vuotta, viissään vuotta kestittiä rakennittautta olokiloto kolomasta,
+
+56
+00:04:13,000 --> 00:04:18,000
+ ni, eihän Tuomisia kannata kenäikään päin maailmalla missään tapauksira ostaa.
+
+57
+00:04:18,000 --> 00:04:20,000
+Ei muuta, kiitos.
+
+58
+00:04:20,000 --> 00:04:21,000
+Hei.
+
+59
+00:04:21,000 --> 00:04:22,000
+Hei, hei.
+
+60
+00:04:22,000 --> 00:04:28,000
+Täällä tämmönen, 75 plus, vanhus soittelee tuosta sähköhommasta,
+
+61
+00:04:28,000 --> 00:04:31,000
+ ku, tuulimillyt ei piörikko pakkasta.
+
+62
+00:04:31,000 --> 00:04:36,000
+Minulle tuli juuri sähkölaskia, onneks on kiintiä sopimus,
+
+63
+00:04:36,000 --> 00:04:43,000
+ niin, siinä lukii nämä, mitä menee mistäkin, tai tulee mistäkin, tää sähköä.
+
+64
+00:04:43,000 --> 00:04:43,000
+Ja.
+
+65
+00:04:43,000 --> 00:04:47,000
+Tulimillyt tuottaa ainoastaan viis prosenttia sähköä.
+
+66
+00:04:47,000 --> 00:04:52,000
+Eihän se voi pörsisähköä, itä muutakaan nostaa niin paljon, mitä nyt on maksa.
+
+67
+00:04:52,000 --> 00:04:54,000
+Onko vaan sellainen huijattu olotessa?
+
+68
+00:04:54,000 --> 00:04:58,000
+Jo, ei oo mulla, mutta monella muulla, ku mulla on kiintiä, niinko sanoin, että.
+
+69
+00:04:58,000 --> 00:05:00,000
+Nii, mut siis tarkoittaa, että ylipäätään, että ku asiasta...
+
+70
+00:05:00,000 --> 00:05:05,000
+Kyllä, kyllä, ja muutenkin, tää sähkö oma on ihan päin teetä.
+
+71
+00:05:05,000 --> 00:05:07,000
+Mikä siinä erityisesti on näin?
+
+72
+00:05:07,000 --> 00:05:14,000
+No, yleensä tämä hinta, ja sitten on siirtomaksu lisähty, eihän sitä ennen vanhaa ollut.
+
+73
+00:05:14,000 --> 00:05:21,000
+Kaikki maktaa eriksei, vaikka kuinka yliöt päästivät tai muuta, ni eihän se autios ei oo mitää lämmityksiä muuta.
+
+74
+00:05:21,000 --> 00:05:27,000
+Väh, ku vanha talo, mutta ei ole tuota ku saunassa puu, kiuas.
+
+75
+00:05:27,000 --> 00:05:28,000
+Nii, että lämmitys on sähköllä?
+
+76
+00:05:28,000 --> 00:05:30,000
+Ei ole ku öljyllä onnyt.
+
+77
+00:05:30,000 --> 00:05:31,000
+No, nii, joo.
+
+78
+00:05:31,000 --> 00:05:38,000
+Siitäkin tuli viesti, ku vasta tirasin, ku ni peli säiliöt, pitää ootella sitä, tota, aika pitkää, että.
+
+79
+00:05:38,000 --> 00:05:42,000
+Nyt kulma viivästyy, ku nii paljon tiraavat, pitää öljyä.
+
+80
+00:05:42,000 --> 00:05:50,000
+Ja ei voi tirata sitä ennenaikojaan, ku pitää mahtua se tuhaa titraa, tai siitäkin pitää maksaa ylimäärästä paljon.
+
+81
+00:05:50,000 --> 00:05:56,000
+Suomen nämä, nämä kaikki hommat teen jo aivan päin perussuoraan samatta.
+
+82
+00:05:56,000 --> 00:05:58,000
+Kiitoksia paljon naista, joo, hei hei.
+
+83
+00:05:58,000 --> 00:05:59,000
+Heipa.
+
+84
+00:05:59,000 --> 00:06:08,000
+Pian jatkammekin näissä samoissa teemoissa, ennen sitä sähköpostiaiheesta, johon palaamme vielä hieman myöhemmin.
+
+85
+00:06:08,000 --> 00:06:10,000
+Sähköpostissa lukee näin:
+
+86
+00:06:10,000 --> 00:06:20,000
+"Elä sie mummu hikkeenny, vaikka suklaasydän on uudelleen versioitu, ei sitä vanhaa versiota oo poistettu, vaan senkin voi vielä kuulla radiosta.
+
+87
+00:06:20,000 --> 00:06:34,000
+Ei kai ne Amerikassakaan oo siitä tuohtuneet, vaikka suomalaiset on tehneet heidän levytyksestään uuden version, molempi parempi, ja jokaiselle jotain, vaihtelu virkistää."
+
+88
+00:06:34,000 --> 00:06:46,000
+Tällä tavoin kirjoitti sähköpostisnymerkki Eräs Eukkonen, kansanradion sähköpostiosoite on kansan.radio@yle.fi.
+
+89
+00:06:46,000 --> 00:06:53,000
+Sanotaan, että tuulinyllyt ei pääse pyörimään eikä tuottaa sähköä paktosella, minulla on siihen ratkaisua.
+
+90
+00:06:53,000 --> 00:07:00,000
+Eihan tuo sähköä, ja jos hiukan sitä sähköä käytettäis sen, tuulinyllyn lämmittämiseen.
+
+91
+00:07:00,000 --> 00:07:07,000
+Ei, siinä tarvitaanko sähkövastus ja sähkövirtoa, niin eipä hä enää tuulinyllyt patkasella jäädy.
+
+92
+00:07:07,000 --> 00:07:10,000
+Ei mulla mitää muuta ollut. No nii, hei hei.
+
+93
+00:07:12,000 --> 00:07:13,000
+No, Liisa, täs terve.
+
+94
+00:07:13,000 --> 00:07:14,000
+Terve, terve.
+
+95
+00:07:14,000 --> 00:07:19,000
+Pörssisähkö ja muutenki sähköhintaa, täs nyt vähän mietityttää.
+
+96
+00:07:19,000 --> 00:07:26,000
+Eli minähän en oo siihen pörssimeininki rystynyt, koska mulla on ihan tasainen kulutus ympäri vuorokaudet,
+
+97
+00:07:26,000 --> 00:07:30,000
+ en mä pysty mitenkään säästämään akastearkut ja jääkaapit ja muut,
+
+98
+00:07:30,000 --> 00:07:34,000
+ ni ne hän käy, käy silloin, kun ne käy ympäri vuorokauden.
+
+99
+00:07:34,000 --> 00:07:39,000
+Mutta, ihmettelin sitä, sit mulla on kiinteä sähköhintää, fortu, mä oon nyt se toimittaja,
+
+100
+00:07:39,000 --> 00:07:45,000
+ en mä oon viittyny senkään kans leikkii, et siel nyt kilpailuttais, ku se on kans vähän epäilyttää, semmonen leikkiminen.
+
+101
+00:07:45,000 --> 00:07:53,000
+Viime vuoden loppupuolella, oliks se sit marraskuulta, niin fortu nosti kymmenestä sentistä per kilowattitunti,
+
+102
+00:07:53,000 --> 00:08:00,000
+ ni lähes viiteentoista, eli se oli yhden, eli 14,9 se, ni se on jo melkei 15.
+
+103
+00:08:00,000 --> 00:08:06,000
+Minkä takia sitä nyt täytyi niin kovin nostaa, et ku sähköä oli, ja lämmintä oli, ja niin poistaa,
+
+104
+00:08:06,000 --> 00:08:08,000
+ mut, no nythän multa oit pakastaa piähä.
+
+105
+00:08:08,000 --> 00:08:16,000
+Eli tota, pörssisäkkön keskihinta tammikuussa 14,7 on kirjoitettu, nehä ennakoi sitä.
+
+106
+00:08:16,000 --> 00:08:21,000
+ Eli se vaikuttaa kaikki ni ku ihan suunnitellulta, tää et pörssisähkö ni, ni se nousee talvella,
+
+107
+00:08:21,000 --> 00:08:25,000
+ no kyhä kulutuski on talvella, ja yleensä on jonkun verran kylmäki.
+
+108
+00:08:25,000 --> 00:08:33,000
+Mutta se o ihan ni ku suunniteltu juttu, et me ei oo oo kiinteä sähköhintta, sit ainakin mulla sama hinta ku pörssisähkön keskihinta.
+
+109
+00:08:33,000 --> 00:08:36,000
+ Kilowattitunnelta, et aika, aika moista.
+
+110
+00:08:36,000 --> 00:08:42,000
+Soonksei nyt joku kristallipallo, sija sit jo, et mistä he pystyvät katsomaan sen, et miten asiat etenee?
+
+111
+00:08:42,000 --> 00:08:44,000
+Nää, tässä jätellä sitä suunnitelmallisuutta.
+
+112
+00:08:44,000 --> 00:08:47,000
+No, ihan, ihan, siltä vaikuttaa jo.
+
+113
+00:08:47,000 --> 00:08:52,000
+Jäädää seuraamaan, miten tilanne edistyy, kiitoksia paljon näistä ajatuksista, ja hyvää sunnuntajatkoa.
+
+114
+00:08:52,000 --> 00:08:54,000
+No, kiitos sitä samaa, moi moi.
+
+115
+00:08:55,000 --> 00:09:00,000
+Kalinin pakolainen, ei ole ihme, että sähkö on kallista.
+
+116
+00:09:00,000 --> 00:09:09,000
+Ensimyyntiin, jakeluyhtiöt, sitten rahat viettiin Venäjälle, hiilen ja turpeen poltto lopetettiin.
+
+117
+00:09:09,000 --> 00:09:14,000
+Vesivoima, joka on nopein säätövoima, pyritään vähentämään.
+
+118
+00:09:14,000 --> 00:09:27,000
+Kaiken, maailman tomppelit, auringon ja tuulen kannattajat valtaan, katujen valtajat, eduskuntaloon töhriät, saavat mellastaa niinkun ne tahtoo.
+
+119
+00:09:27,000 --> 00:09:36,000
+Ne pitäis viedä tonne, pakkasella, iso jään toiselle puolelle, että kävelikää lämpimikseen, ja pysykää siellä.
+
+120
+00:09:36,000 --> 00:09:49,000
+Sähköstä tuli mieleen vanha kasettimankka, ja se, kun aikoinaan nauhoitettiin, monipuolisti musiikkia C-kasetille, ja siihen kylkeen kirjoitettiin usein sekalaista.
+
+121
+00:09:49,000 --> 00:09:59,000
+Nyt tämä sama otsikko sopii seuraaviin ohelmamme aiheisiin, ennen puheluita yksi WhatsApp-viesti, johon kohta palataan myös puhelussa.
+
+122
+00:09:59,000 --> 00:10:01,000
+Viestissä lukee näin:
+
+123
+00:10:29,000 --> 00:10:47,000
+Kansanradioon voi lähettää WhatsApp-viestejä, sekä tällaisia tekstimuotoisia kommentteja, että myös ääniviestejä, joita niitäkin on muuten pari kappaletta mukana tässä ohjelmassa.
+
+124
+00:10:47,000 --> 00:10:56,000
+Kansanradion WhatsApp-numero on 044 551 54 64.
+
+125
+00:10:56,000 --> 00:10:59,000
+Hei vaan, Kansanradio.
+
+126
+00:10:59,000 --> 00:11:08,000
+Tossa alkuviikosta uutisoitin tästä halpamerkkien rajoittamisesta ruokkaupossa, ja se onkin pistänyt miettimään, että pitäisikö tässä pikku kiviä seuraavaksi alkaa syömään.
+
+127
+00:11:08,000 --> 00:11:15,000
+Varsinkin, ku oon muutenki jo leikattu, eikä töitäkään saa mistään, niin kyllä sitä pieni ihminen miettii, että ei tämmösen enää oo varaa.
+
+128
+00:11:15,000 --> 00:11:19,000
+Yhtäkään hyvää perusteluakaan en oo tälle ehdotukselle kuulluja.
+
+129
+00:11:19,000 --> 00:11:26,000
+Mietinkin, että onko ne päättäjät nii lumoistaan omista lompakoistaan, että unohtaa, ettei kaikilla semmoista samanmoista ohkaa.
+
+130
+00:11:26,000 --> 00:11:30,000
+Mutta eipä tässä muuta kuin nälkäkuolemaa odotellessa, kiitos.
+
+131
+00:11:30,000 --> 00:11:34,000
+Kahala suuki viirenta koskelta, ei.
+
+132
+00:11:34,000 --> 00:11:43,000
+Ei, tuossa yksi roua puhui tästä musiikin muuttamisesta, oli tämä Laila Kinnusen kappale, muistan senkin oikein hyvin.
+
+133
+00:11:43,000 --> 00:11:48,000
+Mutta tuota nii, mä oon ajatellut, että kyllähän nyt musiikin pitää kehittyä.
+
+134
+00:11:48,000 --> 00:11:59,000
+Kyllä, siis on paljon ihmisiä suomassa, minkä musiikillen tietämys ja sivistys rajoittuu tasolle, tei jo joutsela ja humppa reihata.
+
+135
+00:11:59,000 --> 00:12:02,000
+Eipä muuta kuin oikein hyvää jatkoa.
+
+136
+00:12:02,000 --> 00:12:05,000
+Eks ihmettelee vaan täältä uudeltimata.
+
+137
+00:12:05,000 --> 00:12:07,000
+Ihmettelee semmoista asiasta, ku tota.
+
+138
+00:12:07,000 --> 00:12:14,000
+Italiasta tuu vaan kaikkea paskaa, ja täällä ollaan nii pirutarkkoja, kaikki jättelitä, mitä näitä kasvi pitää pelata.
+
+139
+00:12:14,000 --> 00:12:18,000
+Et ooku valtio, näin pirun velekanää, tää vartenä täytyy tänne hallin.
+
+140
+00:12:18,000 --> 00:12:21,000
+Tä yksityisiä kytää, tää ku tosi tarkastijat.
+
+141
+00:12:21,000 --> 00:12:24,000
+Et edesä hoittaa, ja kaikki muutetaan.
+
+142
+00:12:24,000 --> 00:12:29,000
+Hiilin hirustaa puhuttaa, mutta taittaa ole ihan, tää politiikkoja touhu, ihan toista.
+
+143
+00:12:29,000 --> 00:12:32,000
+Saanko ne sitä rahatista, paskasta, vai mitä tänne tuo?
+
+144
+00:12:32,000 --> 00:12:37,000
+Ihmettelee kovasti, tätä Suome, näinen ky tähä on persa aukina valtione.
+
+145
+00:12:37,000 --> 00:12:40,000
+Tätähän ruppee kohta joka puolta maanipa.
+
+146
+00:12:40,000 --> 00:12:43,000
+Tietää, että Suomi on pakko ottaa, ku saan ei, persa auki.
+
+147
+00:12:43,000 --> 00:12:45,000
+Lisäks vielä piru onnellinen maa.
+
+148
+00:12:45,000 --> 00:12:47,000
+Se siitä ei kumme.
+
+149
+00:12:47,000 --> 00:12:48,000
+Kiitos.
+
+150
+00:12:49,000 --> 00:12:56,000
+Sellaista asiaa, kun viime aikoina on kovasti arvosteltuu Stubin pukeutumista niini,
+
+151
+00:12:56,000 --> 00:13:00,000
+Presidentti Urho Kekkosen aikana Suomessa oli semmoinen sääntö,
+
+152
+00:13:00,000 --> 00:13:04,000
+ että Kekkosta ei saanut arvostella eikä Neuvostoliittoa.
+
+153
+00:13:04,000 --> 00:13:11,000
+Tänä päivänä niini, monet ihmiset valittavat ihan turhista ja pienistä asioista,
+
+154
+00:13:11,000 --> 00:13:17,000
+ niin kuin sanonta sanoo, että kuiva rikka maahan karisee, ei muuta, hei hei.
+
+155
+00:13:17,000 --> 00:13:28,000
+Kekkosen jälkeen on hyvä siirtyä kuuntelemaan nykyistä kotimaan politiikkaa käsitteleviä ajatuksia.
+
+156
+00:13:28,000 --> 00:13:31,000
+"Morskis", sanoo Eemeli.
+
+157
+00:13:31,000 --> 00:13:35,000
+Se on yks pitkä aikainen mukaman kansaradion kuuntelija tässä päivää.
+
+158
+00:13:35,000 --> 00:13:42,000
+Ku ens vuonna on taas nämä, niin sanotut, valehtelijoiden klubivaalit,
+
+159
+00:13:42,000 --> 00:13:46,000
+ nii aloittakaapa Tukkimiehen kirjanpitovalheista.
+
+160
+00:13:46,000 --> 00:13:52,000
+Mulla on jo tältä kaudelta nii paljoa rukseja paperilla, mahtuneeko enää lisää?
+
+161
+00:13:52,000 --> 00:13:57,000
+Vanhaa hyvää koletaan muuttamaani, siitä tulee aina huono.
+
+162
+00:13:57,000 --> 00:14:04,000
+Aivan liian suuret palakat, johonni joutavasta höpöttämisestä, eikä vastuutamista.
+
+163
+00:14:04,000 --> 00:14:08,000
+Moni ihminen on aliravittama, ku leikataan tulot ja tue.
+
+164
+00:14:08,000 --> 00:14:14,000
+On tämä kyllä kertakaikkiani, semmoinen valtio, että ei tätä enää voi niinku tajuuta,
+
+165
+00:14:14,000 --> 00:14:23,000
+ että tuommoiset, jotka pitäis olla, lukeneita ihmisiä, jotka sinne menneeni, järjestää ihmiselle tämmöstä höpö höpö hommaa.
+
+166
+00:14:23,000 --> 00:14:29,000
+Jarkko täällä te terve, soitan kaikkien sorrettujen maan hiljaisten puolesta.
+
+167
+00:14:29,000 --> 00:14:33,000
+Näin ei voi jatkua, miten hallitus on toiminut.
+
+168
+00:14:33,000 --> 00:14:42,000
+Pitää tehdä kaikille oikeudenmukaisia päätöksiä, ja tavoitella kaikille tulotasoista riippumatta hyvää elämää.
+
+169
+00:14:42,000 --> 00:14:44,000
+No, hyvää päivää.
+
+170
+00:14:44,000 --> 00:14:48,000
+Ihmettelen tässä, että kuinka Suomesta on tullut poliistivaltio.
+
+171
+00:14:48,000 --> 00:14:51,000
+Täällä ei ole muita, kun kieltolakeja.
+
+172
+00:14:51,000 --> 00:14:53,000
+Ei mitään muuta.
+
+173
+00:14:53,000 --> 00:14:55,000
+Määräys, määräys, määräys.
+
+174
+00:14:55,000 --> 00:14:58,000
+Tääl mennää ihan kommunismin tyyliin.
+
+175
+00:14:58,000 --> 00:15:00,000
+Sehän oli tällaista.
+
+176
+00:15:00,000 --> 00:15:06,000
+Sistämähän on uskomatonta, että penkkari aielutki jo määrätään.
+
+177
+00:15:06,000 --> 00:15:11,000
+Mitä saa tehdä, miten täytyy olla, ketä täytyy olla.
+
+178
+00:15:12,000 --> 00:15:14,000
+Uskomatonta.
+
+179
+00:15:14,000 --> 00:15:16,000
+Eikö lapsia kasvateta kotona?
+
+180
+00:15:16,000 --> 00:15:26,000
+Että he osaavat käyttäytyä, toimia, tehdä, opiskella, ilman tämmöisiä kalliita opettajaohjausta, avustusta.
+
+181
+00:15:26,000 --> 00:15:33,000
+Taksilla haetaan kouluun, ADHD, siis aivan uskomatonta.
+
+182
+00:15:33,000 --> 00:15:36,000
+Teidän täytyis tehdä uusi laki, että.
+
+183
+00:15:36,000 --> 00:15:42,000
+Kuritus kotona, ehdottomasti, irti sanoa valtion kunnan kaupungin työntekijät.
+
+184
+00:15:42,000 --> 00:15:52,000
+Niil on parhaimmat eläkkeet, parhaimmat edut, tekevät vähiten töitä, pisimmät tesälomat, siis uskomatonta. Hyvää päivänjatkoa.
+
+185
+00:15:52,000 --> 00:16:05,000
+Kyllä se on kuulee nii, ettei, yhdenkään, alaisen tai, työntekijän, saati avustajan tarvikuulla, työnantajaltaa tai pomoltaa, tommosta ikävämielistä, käskevää puhetta.
+
+186
+00:16:05,000 --> 00:16:16,000
+Vaikka tossa muutamat totat tyttituppureista puolustikinni, ei kuulu, työpaikoille, tommonen, puhe. Ehkä armeijaa, en tie, enää nykyä sinnekkää ehkä.
+
+187
+00:16:16,000 --> 00:16:25,000
+Mutta nii, se muuten se tyttituppureinen taidettii päästä liian helpolla, siitä uniperfartum sotkusta, miljardiluokan vahingot taiheutti.
+
+188
+00:16:25,000 --> 00:16:31,000
+Niil olis varmaa hävittäjät ostaneet Suomelle, mutta ei, se nii on vaan seki unohtanu, se asia.
+
+189
+00:16:31,000 --> 00:16:41,000
+Samalla aiheella, mennään vielä eteenkin päin, ennen seuraavaa puhelupakettia, yksi viesti, joka on lähdetty Kansanradion verkkosivujen lomakkeella.
+
+190
+00:16:41,000 --> 00:16:49,000
+Terveisiä edellisen jakson Viherpiipertajiä haukkuneelle, jonka mielestä ilmastonmuutos on silkkaa huijausta.
+
+191
+00:16:49,000 --> 00:17:03,000
+Sää ja ilmasto ovat kaksi eri asiaa. Ilmastonmuutos on todellinen, ja siitä löytyy dataa vuosikymmenten ajalta, eivätkä yksittäiset kylmät talvet tätä tosia asiaa muuksi muuta.
+
+192
+00:17:03,000 --> 00:17:12,000
+Tämä teksti oli lähdetty Kansanradion verkkosivujen lomakkeella, ja sen oli kirjoittanut nimimerkki Ilmasto Piipertajä.
+
+193
+00:17:12,000 --> 00:17:22,000
+No niin, täällä taas yks äijä Helsingistä katseli näitä A-studioita ja muita, ja ku siellä nyt puhutaan kaikista yritystuista ja kaikista pitäis.
+
+194
+00:17:22,000 --> 00:17:31,000
+Eikö kukaan uskalla näistä politiikoista sanoa, että tää hyvätulosta ja rikkaiden veroale pitäis perua.
+
+195
+00:17:31,000 --> 00:17:45,000
+Eikö ne uskalla sanoa, oli mikä puolue tahansa, tämmöistä pelleilyä, vasemmistoriittoja, mutku, demarit ja kaikki, ne eivät uskalla sanoa, että hyvätulosta verot, takaisi se, veroale pitäis perua.
+
+196
+00:17:45,000 --> 00:17:50,000
+Ei onnistu, kai ne pelkää ite rikastuvansa, ei muuta, kiitos.
+
+197
+00:17:50,000 --> 00:18:11,000
+Hyvää aamupäivää, mä oon entinen pienyrittäjä, ja mä ihmettelen suuresti tätä Suomen radion, kuuntelen tätä kyselyä, että puoluekannatuksista, ja multa ei oo ikinä kysytty, mitä minä edustan, mitä puoluetta.
+
+198
+00:18:11,000 --> 00:18:22,000
+Tää on ihan naurettava juttu. Siis nauran, jos ois parta, niin nauraisin partaani, mutku ei oo partaa, et ei tästän enempää, ha, ha, ha, kiitosei.
+
+199
+00:18:22,000 --> 00:18:40,000
+No, täältä kainuu perukasto soistele, ja ihmettele, että ku Suomen valtio on nii velekanen valtio, ja tässä joku aika takaperi nostettiin noita kansaedustajienki palakkoja, ni tuossa ynnäili yhteyttä, se tekee jopa 100 000 kuukaudessa lisää.
+
+200
+00:18:40,000 --> 00:18:45,000
+Eiköhän nuo ois silläki palakalla pystyneet tuolla keskustelemaan, mikä aikaisempi oli.
+
+201
+00:18:45,000 --> 00:18:56,000
+Otetaan kaikilta lapsiperheiltä, ja vanhussilta, ja kaikenlaista muuta, mutta ois ne varmaan pärjänneet silläki, mikään niille se palakka oli, ja enne sitä korotusta.
+
+202
+00:18:56,000 --> 00:19:01,000
+Eipä tässä muuta, terveisiä vanhaehkille. Kiitoksia, hei.
+
+203
+00:19:10,000 --> 00:19:23,000
+Teettekö päätöksenne kaikkien korkeimmaksi parhaaksi, alle viivaan kaikkien? Voitteko hyväksyä yhden miehen ratahankkeen, ja samanaikaisesti kuristatte sote-aluet?
+
+204
+00:19:23,000 --> 00:19:31,000
+Kummassa enemmän käyttäjiä, junassa vai soteessa? Soteessa kaikki vauvasta vaariin, syntymästä kuolemaan.
+
+205
+00:19:31,000 --> 00:19:41,000
+Kuka jää näppäjänsä nuolemaan? Siis kysymys, kumpi hanke oikeudenmukaisempi? Arvon anto jokaiselle kansalaiselle. Kiitos.
+
+206
+00:19:41,000 --> 00:19:50,000
+Kiitos, ja varmasti moni nokkela arvaakin, että nyt siirrymme sote-teemojen pariin. Puheluita edeltää tämä kirje.
+
+207
+00:19:50,000 --> 00:20:03,000
+Kymenlaaksossa huolehditaan niin hyvin vanhuksista, että kysellään yhdeksänkympiseltä, haluaako hän arkkuun omat vaatteet?Nythän pelkää, että mitä tapahtuu?
+
+208
+00:20:03,000 --> 00:20:11,000
+Ei tule uni, ruoka ei maistu, miettii kuulemaansa. Täysipäinen, liikuntarajoitteinen vanhus.
+
+209
+00:20:11,000 --> 00:20:21,000
+Näin kirjoitti kirjassa nyymerkki Inhimillisyyttä peliin. Meille Kansanradioon voi lähettää kortteja ja muuta perinteistä postia osoitteeseen.
+
+210
+00:20:21,000 --> 00:20:31,000
+Kansanradio, PL 79, 000, 24, yleisradio.
+
+211
+00:20:31,000 --> 00:20:42,000
+Orimmattirastat. Niin tuolta ihmetytää nää sote-alueen palkat näille johtajille, kun maksetaan 15 tonnia kahta puolta.
+
+212
+00:20:42,000 --> 00:20:50,000
+Sitten mä sanoo, että se on vaativa tehtävä, minusta se tehtävä on mahdoton. Vaikka sit maksettais sata tonnia, ni se ei hoidu se homma.
+
+213
+00:20:50,000 --> 00:20:52,000
+Kiitos.
+
+214
+00:20:52,000 --> 00:21:05,000
+Päivää.Täällä on nainen, joka sai aivoinfraktin kesällä. Viime kesällä, ja tota, olin menossa töihin, ja sitten tuli näitä aivoinfraktin oireita.
+
+215
+00:21:05,000 --> 00:21:12,000
+Soitinpa siitä sitten ambulanssiin, ja ambulanssinainen sanoi minulle, että menä yleisillä vaan, että ei ambulanssia.
+
+216
+00:21:12,000 --> 00:21:18,000
+No, minä menin odottamaan siinä sitten pussia, ja saavuin sitten tänne Malmin päivistykseen.
+
+217
+00:21:18,000 --> 00:21:23,000
+Ja siellähän meni pari tuntia, kun piti odottaa, että pääsi eteenpäin.
+
+218
+00:21:23,000 --> 00:21:28,000
+Ja sitten joku lääkäri tulis, ja sanoi, että mun pitää heti lähteä Meilahden sairaalaan.
+
+219
+00:21:28,000 --> 00:21:31,000
+No, siinä sit otettii ambulanssi.
+
+220
+00:21:31,000 --> 00:21:41,000
+Ambulanssi samentiin sitten Meilahden, ja nämä ambulanssin miehet sanoi, kun ne vei mut siihen aulaa, että, oho, täällä on sata ihmistä, että onpa täällä nyt porukkaa.
+
+221
+00:21:41,000 --> 00:21:47,000
+Ja siinä minä sitten istuin, ja odotin, ja odotin, ja odotin, että pääsen lääkäriin.
+
+222
+00:21:47,000 --> 00:21:54,000
+Ja se oli ihan hirveennäköistä se odotusaulan porukka, että sinne tuli yks pappa, jolla tuli verta, päästä.
+
+223
+00:21:54,000 --> 00:22:05,000
+Sitten siellä oli semmoinen pieni poika, joka oli aamulla kaatunut tota jalkapallo ottelussa, ja käsi oli varmaan murtunut, ja se oli kuusi tuntia odottanut se poika siinä, ja se itti.
+
+224
+00:22:05,000 --> 00:22:12,000
+Äki sitten nappas siitä jonku sairaahoitaja, ja sanoi, että, hei, hänen poika saa jo kuusi tuntia olla odotettu täällä.
+
+225
+00:22:12,000 --> 00:22:23,000
+Vuoroa? Ja arvatkaapas mitä? Minä pääsin puoli seitsemältä, lääkäri otti minut vastaan, ja sitten heti letkuihin ja kaikkeen tämmösiin, mulla oli aivoinfrakti.
+
+226
+00:22:23,000 --> 00:22:47,000
+Nyt, eli, sanota, että Suomi on niinku, tota, onnellisen kansa, mutta ei köyhillä ole varaa mennä yksityiselle lääkärille, että onneksi mulla oli pieni se aivoinfrakti, että jos se ois iso ollut, ni mähän oisin kuollu sinne aulaa, että, kohon työttömiä ihmisiä, ni miksei niitä palkata, vaikka sairaalaa auttamaan, ja hoitamaan, ja lohduttamaan, ja sairaahoitajia kunnolla.
+
+227
+00:22:47,000 --> 00:22:55,000
+Se oli ihan järtyttävä se odotushuone, mä toivoisin, että päättäjät tulisivat kattoo, minkälaista se on, ku siellä odotetaan.
+
+228
+00:22:55,000 --> 00:23:02,000
+Eli, mä aamulla lähin lääkärini, puoli seitsemältä mä olin sitten letkuissa, ku mulla oli aivoinfrakti.
+
+229
+00:23:02,000 --> 00:23:13,000
+Mutta, täytyy sanoa sitten, että siitä lähtien, niinku, kaikki sairaahoitajat, lääkärit, terapeutit, ravitsemutter, terapeutit ja muistitestaajat, mitä ne nyt onkaa, ovat hyviä.
+
+230
+00:23:13,000 --> 00:23:21,000
+Mutta, miten tämä jonotusaika on näin pitkä? Ihan oikeasti, haloo päättäjät, hyvä Suomi, jää jää.
+
+231
+00:23:21,000 --> 00:23:26,000
+Hei, onko sairaan terve, sairas vai terve, oi.
+
+232
+00:23:26,000 --> 00:23:45,000
+Nyt elämme Andien talvikisojen aikaa. Se ei ole kuitenkaan ainoa tämän viikon juhla, sillä nyt on myös ystävänpäivä ajankohtainen juttu. Molempia vielä luvassa tässä jaksossa. Ensin urheilua.
+
+233
+00:23:45,000 --> 00:23:56,000
+Nyt hiihtoa voisi tehdä tällaisen jutun, että ois kolmen kilometrin aika ajo, ja siitä pääsis kolmekymmentää parasta hiihtäjää, pääsis jatkoa.
+
+234
+00:23:56,000 --> 00:24:06,000
+Sit sen jälkeen ois väliaikalähtö, viien kilometrin matka, ja sit ois yhteislähtönä, ni kymmenen kilometrin hiihto.
+
+235
+00:24:06,000 --> 00:24:15,000
+Siiisen otettaisitte finaaliini, aina kymmenen kiihstämää sitä kymmentä kilometriä, se ois yhteislähtätä. Kaikki hiihettäis samana päivätä.
+
+236
+00:24:15,000 --> 00:24:25,000
+Tällainen juttuni ois aika hyvä, tarvisi paljon kestävyyttä ja nopeutta. Sen nimi vois olla vaikka Skippo, mut ei muu muuta. Heippa.
+
+237
+00:24:27,000 --> 00:24:36,000
+Täällä. Hei, olen rukoillut. Näytän olimpialaisten puolesta. Värjän tahalla on maailmassa. Nämä yhdistää.
+
+238
+00:24:36,000 --> 00:24:46,000
+Kanso. Värempi kiltailla. Tällä lailla. Kui keräämällä. Tappuvälineitä. Naapuria kohtaa.
+
+239
+00:24:46,000 --> 00:25:03,000
+Iisakki, täällä vain iltaa. Minä vähä ihiretkerin sitä kustelta Italiasta haastatellahan päätöimittajaa englanninkielelle. Eikä kerrota, että mitähän pitkä jutteru siinä, eikä mitä kerrota sitten, että mitä sillä oli sillä päävalmiantajalla asiaa.
+
+240
+00:25:03,000 --> 00:25:10,000
+Aika erikoisia, aika usein on tällalla näi, että haastatellahan englanninkielelle. Ei, kaikki suomalaiset englantia osaa.
+
+241
+00:25:10,000 --> 00:25:12,000
+Pitäis vähän niinku älytää jotain.
+
+242
+00:25:16,000 --> 00:25:18,000
+Hyvää iltapäivää.
+
+243
+00:25:18,000 --> 00:25:25,000
+Kuuleppo, sellainen asia tässä mieltäni on monta kertaa kaivertanut tykkään urheilusta tykkään katsoa sitä.
+
+244
+00:25:25,000 --> 00:25:30,000
+Mutta nyt taas tämä miesten kahdenkymmenen kilometrin hiihto on yhteislähtönä.
+
+245
+00:25:30,000 --> 00:25:38,000
+Ja, kyllä ne perimmäiset joutuu hiihtämään paljon pidemmän matkan kuin nämä, jotka laitetaan siihen maaliviivalle, heti.
+
+246
+00:25:38,000 --> 00:25:40,000
+Ni, lähtöviivalle.
+
+247
+00:25:40,000 --> 00:25:41,000
+Lähtöviivalle, nii.
+
+248
+00:25:41,000 --> 00:25:42,000
+Ni, joo.
+
+249
+00:25:42,000 --> 00:25:44,000
+Ja siellähän on tää norjalaista ryhmä.
+
+250
+00:25:44,000 --> 00:26:00,000
+Hehän ovat hyviä hiihtäjiä, mutta, tykkäisin enemmän, että nii monta hiihtäjää kun onni, heille arvotaan lähtönumero, eikä näitä norjalaisia aseteta aina sille lähtöviivalle ensimmäiseksi.
+
+251
+00:26:00,000 --> 00:26:05,000
+Koska heki saisivat taistella siitä paikastaan siellä massan keskellä.
+
+252
+00:26:05,000 --> 00:26:07,000
+Ei siellä nii monta latua ole.
+
+253
+00:26:07,000 --> 00:26:09,000
+Eli arvonta, nii.
+
+254
+00:26:09,000 --> 00:26:11,000
+Nii, eli arvonta.
+
+255
+00:26:11,000 --> 00:26:12,000
+Ja.
+
+256
+00:26:12,000 --> 00:26:12,000
+Ja.
+
+257
+00:26:12,000 --> 00:26:23,000
+Ni, sitten arvotaan ne lähtöpaikat, eikä laiteta ihan automaattisesti joitakin määrättyjä ihmisiä aina siihen eteen, nii saadaan tasapuolisempi siitä kilpailusta.
+
+258
+00:26:23,000 --> 00:26:27,000
+Nii, että, sitten välttämättä kaikki neljä norjalaista ei olisi siinä kärjessä.
+
+259
+00:26:27,000 --> 00:26:31,000
+Eivät oo eturivissä, vaan ovat siellä, minkä numeron, ovat saaneet.
+
+260
+00:26:31,000 --> 00:26:35,000
+Kiitoksia paljon tästä ehdotuksesta ja hyvää sanota jatkoa.
+
+261
+00:26:35,000 --> 00:26:40,000
+No, sitä samaa, ja toivotaan näitä hyviä omistumisia.
+
+262
+00:26:40,000 --> 00:26:41,000
+Näin toivotaan. Hei, hei.
+
+263
+00:26:41,000 --> 00:26:43,000
+Joo, kiitos. Moi, moi.
+
+264
+00:26:43,000 --> 00:27:00,000
+Pauli, täältä Savosta, Kuopiosta. Terve, kansanradion kuuntelija. Kiitän hyvästä ohjelusta, kansanradioja. Sitten kiitän, kun olympiaradio tulee yleiradio Suomesta. Paljon kiitoksia. Kiitos ja hyvää talven jatkoa, kansanradion kuuntelija. Kiitos, hei hei.
+
+265
+00:27:00,000 --> 00:27:26,000
+Kiitos, Pauli. Tämän puhelun jälkeen on hyvä siirtyä enemmänkin yleisradiota koskeviin ajatuksiin. Niin, ja taisikin muuten nuo Andien talvikiset, jotka hetki sitten mainitsin, olla mainiossa Elmo kuunnelmassa, joka löytyy Yle Areenasta. Sinne samaan paikkaan ilmestyi myös, joka perjantai, kello 21, uusi kansanradion jakso.
+
+266
+00:27:26,000 --> 00:27:37,000
+ Jos merkkaat sydämen kuvasta, ja tilaat ohjelmasta ilmoitukset kellon kuvasta, niin saata aina ensimmäinen tiedon, kun uusi jakso ilmestyi Yle Areenaan.
+
+267
+00:27:37,000 --> 00:27:55,520
+Jussi, tässä kyllä luki tätä muumia tossa noin, otettais vähän parempi Yle Satahasta. Otetaan Kalle päätalon teokset, laitetaan ykköselle ja kakkoselle, nonstoppina kokonaan, et meneekös viikossa läpi. Siin ois uuttais Yle Satahoilma. Ei muuta, ei.
+
+268
+00:27:56,000 --> 00:28:07,000
+Kiitos. Itseasiassa kuultuna, Paavo Väyrynen. Kiitos tästä jaksosta, ja kiitos toimittajalle.
+
+269
+00:28:07,000 --> 00:28:15,000
+Nää on nämä itseasiassa kuultuna, niin, nää on kaikki niin aika hyviä jaksoja. Kiitos.
+
+270
+00:28:15,000 --> 00:28:31,000
+Eiden täytyy laittaa nyt tähän Kankaradioon, tätä räppiä sinne välii. Ei tätä jaksa kukaa kuunnella, jos ei sitä räppiä saa. Kone musiikkia sinne väliiähän, tätä, tämähän menee ihan asian järisemiseksi. Kiitos, hei.
+
+271
+00:28:31,000 --> 00:28:49,000
+Vai räppiä? No, eräänlaista sanataidetta on seuraavaksi luvassa, kun on tämän jakson runonurkan vuoro. Siellä on luvassa myös ystävänpäivään liittyvä teos, joten nyt on hyvä kiittää myös kaikista meille saapuneista ystävänpäiväkorteista.
+
+272
+00:28:49,000 --> 00:28:58,000
+Esimerkiksi Sofin kortti, tässä kädessäni, niin siinä on kaksi pupua, ja toivotetaan ihanaa ystävänpäivää.
+
+273
+00:28:58,000 --> 00:29:09,000
+Enen runoja kerron Kansaradion puhelinnumeron, se on 08 00 154 64, ja puhelu on soittajalle maksuton.
+
+274
+00:29:09,000 --> 00:29:18,000
+Ja muistuuksena, että sunnuntaisin, kello 12.30 alkaen, tuossa numerossa vastaa ihmis vastaa ja kolmen tunnin ajan.
+
+275
+00:29:19,000 --> 00:29:25,000
+Hei, täällä alollasta, ystävänpäivä tulee kohta, ja siitä haluaisin runoilla.
+
+276
+00:29:25,000 --> 00:29:32,000
+Ystävyyselämämme suolaa, myös apua ja iloa näin tuodaan.
+
+277
+00:29:32,000 --> 00:29:43,000
+Kun sydän ystävän tavoittaa, hän ikävät asiat usein rajoittaa, myös paljon ottaa ja aina antaa.
+
+278
+00:29:43,000 --> 00:29:52,000
+Uolistakin osan pois kantaa, sellaisen ystävän kuin saa, elämä alkaa kuin uudestaan.
+
+279
+00:29:52,000 --> 00:30:01,000
+On monin verron parempaa, tämä useille meistä suodaan, kun tulee ulos esille uorestaan.
+
+280
+00:30:01,000 --> 00:30:09,000
+Sydän ystävyys on hyvin tärkeää, sillä Stina on paljon järkeää.
+
+281
+00:30:09,000 --> 00:30:13,000
+Hyvää ystävänpäivää kaikille, heippa.
+
+282
+00:30:13,000 --> 00:30:16,000
+Olavi soittaa hyvää päivää.
+
+283
+00:30:16,000 --> 00:30:21,000
+Luen runoni kouluissa, 50-60 luvuilla.
+
+284
+00:30:21,000 --> 00:30:24,000
+Sien aikaan kouluun, kun saavuttiin.
+
+285
+00:30:24,000 --> 00:30:26,000
+Pipot naulakkoon laitettiin.
+
+286
+00:30:26,000 --> 00:30:29,000
+Pipot päässä ei tunneilla istuttu.
+
+287
+00:30:29,000 --> 00:30:32,000
+Silloin opettaja ei kiusattu.
+
+288
+00:30:32,000 --> 00:30:34,000
+Heitä kuunneltiin, kunnioitettiin.
+
+289
+00:30:34,000 --> 00:30:37,000
+Heitä katsottiin ylöspäin.
+
+290
+00:30:37,000 --> 00:30:40,000
+Tapakasvatus lähtee kotoa.
+
+291
+00:30:40,000 --> 00:30:43,000
+Silloin lapsia neuvottiin, opetettiin.
+
+292
+00:30:43,000 --> 00:30:46,000
+Kuinka ollaan ja käyttäydytään.
+
+293
+00:30:46,000 --> 00:30:48,000
+Tänä päivänä arvot lie muuttunee.
+
+294
+00:30:48,000 --> 00:30:54,000
+Koulun käynti silloin on mukavaan, kun samaan hiileen puhaltaa.
+
+295
+00:30:54,000 --> 00:30:57,000
+Toinen toistaan arvostaa, kunnioittaa.
+
+296
+00:30:57,000 --> 00:30:59,000
+Ottakaamme opiksi.
+
+297
+00:30:59,000 --> 00:31:01,000
+Hyvää kevättä, Olavi.
+
+298
+00:31:01,000 --> 00:31:05,000
+Nuorisoasiaa on ainakin vielä tarjolla.
+
+299
+00:31:05,000 --> 00:31:09,000
+Ennen viimeisiä puheluita, minä toivotan teille kaikkea hyvää,
+
+300
+00:31:09,000 --> 00:31:13,000
+ koivistan Lauri kiittää ja kumartaa, kansanradio,
+
+301
+00:31:13,000 --> 00:31:15,000
+ jälleen viikon päästä.
+
+302
+00:31:15,000 --> 00:31:19,000
+No hei, ajattelin tässä, toimisiko nuorten tämmösenä
+
+303
+00:31:19,000 --> 00:31:22,000
+ ennantaheikäsenä rikosten palulle astumiseen?
+
+304
+00:31:22,000 --> 00:31:26,000
+Sellainen juttu, että teakviesityksenä tehtäisiin
+
+305
+00:31:26,000 --> 00:31:29,000
+ todenmukainen rikosoikeuden käsittely,
+
+306
+00:31:29,000 --> 00:31:36,000
+ missä nuori ihminen tuomittaisiin jostain rikoksesta korvauksineen kaikkineen.
+
+307
+00:31:36,000 --> 00:31:39,000
+Sitten mielellään tämmöselle yläasteikäselle,
+
+308
+00:31:39,000 --> 00:31:41,000
+ samiksei nuoremilekki.
+
+309
+00:31:41,000 --> 00:31:45,000
+Teatteriesityksenä tänne saataisiin enemmän joukkuja,
+
+310
+00:31:45,000 --> 00:31:47,000
+ ja sitten teatteri tämän ohjelman,
+
+311
+00:31:47,000 --> 00:31:50,000
+ näet nuoria asian ohjelman nähneenä.
+
+312
+00:31:50,000 --> 00:31:54,000
+Ni haastatteltiin, ja heistä oli moni sitä miet, et joo,
+
+313
+00:31:54,000 --> 00:31:56,000
+ kannattaa miettii, mitä tekee,
+
+314
+00:31:56,000 --> 00:31:59,000
+ koska ne korvauksetkin sitten pysyy perässä loppujen,
+
+315
+00:31:59,000 --> 00:32:03,000
+ ja muutenkin he olivat hyvin avoimia ajattelemaan sitä,
+
+316
+00:32:03,000 --> 00:32:08,000
+ että mitä tämmönen rikoksen teko pienikin aiheuttaa tulevassa elä.
+
+317
+00:32:08,000 --> 00:32:10,000
+Kiitos.
+
+318
+00:32:10,000 --> 00:32:12,000
+Herkki nurmierevelta terve,
+
+319
+00:32:12,000 --> 00:32:14,000
+ pyrsii vähän tämmönen,
+
+320
+00:32:14,000 --> 00:32:18,000
+ että aalitus rupea rajoittaan nuorten nettikäyttöä.
+
+321
+00:32:18,000 --> 00:32:20,000
+ Se on vähän niinkun kieltolakiaikanaan,
+
+322
+00:32:20,000 --> 00:32:22,000
+ joka lisäs vaan sitä.
+
+323
+00:32:22,000 --> 00:32:24,000
+ Se on minun mielestäni. Kiitos.
+
+324
+00:32:24,000 --> 00:32:27,000
+No, iletä se taas.
+
+325
+00:32:27,000 --> 00:32:32,000
+ Mittasin tavallisen huonekärpäsen lentonopeuden.
+
+326
+00:32:32,000 --> 00:32:37,000
+Tavallinen huonekärpänen lentää noin 36 kilomekriä,
+
+327
+00:32:38,000 --> 00:32:40,000
+ tunnissa huippunopelassa,
+
+328
+00:32:40,000 --> 00:32:45,000
+ jos se lentää metrin sekunnista, niin.
+
+329
+00:32:45,000 --> 00:32:47,000
+Aina vaan ikävä.
+
+330
+00:32:47,000 --> 00:32:50,000
+Ajattelen sitä, ja ajattelen tätä.
+
+331
+00:32:50,000 --> 00:32:52,000
+Ukko vaan ei mieltä ni jätä.
+
+332
+00:32:52,000 --> 00:32:54,000
+Kipuu rinnassa aikamoinen,
+
+333
+00:32:54,000 --> 00:32:57,000
+ sitä ei ymmärrä kukaan toinen.
+
+334
+00:32:57,000 --> 00:33:02,000
+ Miksi, miksi, miksi, kun ei ymmärrä, niinkaisiksi.
+
+335
+00:33:02,000 --> 00:33:04,000
+Nyymi Anu.
+
+336
+00:33:04,000 --> 00:33:06,000
+Tätä Anna lantampereelta.
+
+337
+00:33:06,000 --> 00:33:09,000
+Haluamme vaan sanoa, kiitokset kansaradioista.
+
+338
+00:33:09,000 --> 00:33:13,000
+Onneksi, ottee, lehmä, saa, ei.
+
