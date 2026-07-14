@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-77391012",
+    "webpage": "https://areena.yle.fi/audio/1-77391012",
+    "title": "Kansanradio: Pohjoismaille yhteinen ydinase: 2026-03-20T21:00",
+    "episode_title": "Kansanradio: Pohjoismaille yhteinen ydinase",
+    "description": "Maailmanpoliittinen tilanne herättää Kansanradiossa monenlaisia ajatuksia. Kusisiin unisex-vessojen lattioihin ehdotetaan ratkaisuksi pisoaareja. Ja kaupunkilaisten pitäisi maksaa maalaisten bensat.\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Pohjoismaille yhteinen ydinase: 2026-03-20T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-1aad1e624e0f4dd283cb5f52ca361b04/audio-1773925729878.mp3?hdnts=exp=1784071882~acl=/aod/world/78-1aad1e624e0f4dd283cb5f52ca361b04/*~hmac=71f40f404dd771b1b480737b13807c9fba90f574ed17d572894f87bcada19326"
+      }
+    ],
+    "duration_seconds": 1995,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-03-20T21:00:00+02:00"
+  }
+]
