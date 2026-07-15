@@ -8,3 +8,6 @@ data/latest.json
 # Local tweeting state and prepared transcript queue
 data/latest_episode_id.txt
 data/final.txt
+
+# Local runtime configuration
+config.php

@@ -1,0 +1,4 @@
+<?php
+
+define('TRUUT_TITLE_MAX_LENGTH', 280);
+define('TRUUT_TWEET_MAX_LENGTH', 200);

@@ -4,6 +4,18 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
+if (file_exists(__DIR__ . '/config.php')) {
+    require_once __DIR__ . '/config.php';
+}
+
+if (!defined('TRUUT_TITLE_MAX_LENGTH')) {
+    define('TRUUT_TITLE_MAX_LENGTH', 280);
+}
+
+if (!defined('TRUUT_TWEET_MAX_LENGTH')) {
+    define('TRUUT_TWEET_MAX_LENGTH', 200);
+}
+
 include("../mastodon/bot.php");
 
 function tweetThis($tweet) {
@@ -86,7 +98,7 @@ if ($episodeId !== $localEpisodeId) {
 
     file_put_contents($finalTranscriptFile, $preparedTranscript . PHP_EOL);
 
-    tweetThis(mb_substr($title, 0, 280));
+    tweetThis(mb_substr($title, 0, TRUUT_TITLE_MAX_LENGTH));
     file_put_contents($localEpisodeIdFile, $episodeId . PHP_EOL);
 
     print "New episode prepared for tweeting: $title" . PHP_EOL;
@@ -100,8 +112,8 @@ if (!is_readable($fname)) {
 }
 
 $c = file_get_contents($fname);
-$tweet = mb_substr($c, 0, 280);
-if (mb_strlen($tweet) == 280) {
+$tweet = mb_substr($c, 0, TRUUT_TWEET_MAX_LENGTH);
+if (mb_strlen($tweet) == TRUUT_TWEET_MAX_LENGTH) {
     $pos1 = 1; // mb_strrpos($tweet, ",");
     $pos2 = mb_strrpos($tweet, ".");
     $pos3 = mb_strrpos($tweet, "!");
