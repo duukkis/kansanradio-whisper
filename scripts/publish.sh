@@ -15,6 +15,6 @@ if git diff --cached --quiet; then
     exit 0
 fi
 
-git commit -m "Kansanradio: $TITLE ($PUBLISHED)"
+git commit -m "$TITLE ($PUBLISHED)"
 
-git push
+# git push

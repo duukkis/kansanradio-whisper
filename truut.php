@@ -8,14 +8,6 @@ if (file_exists(__DIR__ . '/config.php')) {
     require_once __DIR__ . '/config.php';
 }
 
-if (!defined('TRUUT_TITLE_MAX_LENGTH')) {
-    define('TRUUT_TITLE_MAX_LENGTH', 280);
-}
-
-if (!defined('TRUUT_TWEET_MAX_LENGTH')) {
-    define('TRUUT_TWEET_MAX_LENGTH', 200);
-}
-
 include("../mastodon/bot.php");
 
 function tweetThis($tweet) {

@@ -12,10 +12,9 @@ TRANSCRIPT_DIR="$DATA_DIR/transcripts"
 TRANSCRIPT_METADATA_DIR="$DATA_DIR/metadata"
 LOG_DIR="$DATA_DIR/logs"
 
-WHISPER_MODEL="$ROOT_DIR/models/ggml-model-fi-medium.bin"
+WHISPER_MODEL="$ROOT_DIR/models/ggml-large-v3-turbo-fi-q5_0.bin"
 
 YLE_DL="$HOME/Library/Python/3.9/bin/yle-dl"
 WHISPER="/opt/homebrew/bin/whisper-cli"
 
 LAST_EPISODE_FILE="$DATA_DIR/last_episode_id.txt"
-CURRENT_DATE_FILE="$DATA_DIR/current_episode_date.txt"
