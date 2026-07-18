@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78169483",
+    "webpage": "https://areena.yle.fi/1-78169483",
+    "title": "Kansanradio: Tuopit alas ja töihin, kansanedustajat!: 2026-07-17T21:00",
+    "episode_title": "Kansanradio: Tuopit alas ja töihin, kansanedustajat!",
+    "description": "Tämän viikon Kansanradiossa harmitellaan kun ylintä valtaa käyttävät vaan istuvat terasseilla, eivätkä työpaikallaan. Lisäksi ohjelmassa kysytään, että puuttuuko mehukeitosta kuitu ja puuttuuko naisilta oma varuskunta?\n\nToimittajana: Lasse Olkinuora",
+    "filename": "Kansanradio: Tuopit alas ja töihin, kansanedustajat!: 2026-07-17T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-9c0eeddd9ce6403cb64842f0b1785893/audio-1784210931883.mp3?hdnts=exp=1784412177~acl=/aod/world/78-9c0eeddd9ce6403cb64842f0b1785893/*~hmac=0db8727baa4a635d67dd686d96b545c6757ed6fd468b8740f0fac8964b80ac7f"
+      }
+    ],
+    "duration_seconds": 1992,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-07-17T21:00:00+03:00"
+  }
+]
