@@ -2,6 +2,18 @@
 
 source "$(dirname "$0")/config.sh"
 
+# Local weekly publication guard: if the latest known episode was published
+# less than a week ago, avoid calling YLE DL again before the next episode
+# is expected to appear.
+if [ -f "$METADATA_FILE" ]; then
+    NEXT_PUBLISH_AT=$(zsh "$SCRIPT_DIR/check_next_publish.sh" "$METADATA_FILE" 2>/dev/null || true)
+
+    if [ -n "$NEXT_PUBLISH_AT" ]; then
+        echo "No new episode yet. Next expected publish time: $NEXT_PUBLISH_AT"
+        exit 10
+    fi
+fi
+
 echo "Checking latest Kansanradio episode..."
 
 # Download metadata

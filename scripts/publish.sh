@@ -17,4 +17,4 @@ fi
 
 git commit -m "$TITLE ($PUBLISHED)"
 
-# git push
+git push
