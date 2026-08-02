@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78310411",
+    "webpage": "https://areena.yle.fi/1-78310411",
+    "title": "Kansanradio: Miksi meteorologit vaeltavat?: 2026-07-31T21:00",
+    "episode_title": "Kansanradio: Miksi meteorologit vaeltavat?",
+    "description": "Monenlaiset aiheet ovat jälleen mielen päällä, kun Kansanradion väki päästetään irti. Paljon on tarjolla ruokaisia aiheita. Eräs aamupalaseurue ihmettelee hunajamelonia. Ja ovatko ne Sysmän tiet kuitenkin yhtä pömppöpeltoa?\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Miksi meteorologit vaeltavat?: 2026-07-31T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-7cd0260267ec4d1a907164f60d6ffb4f/audio-1785329475494.mp3?hdnts=exp=1785733935~acl=/aod/world/78-7cd0260267ec4d1a907164f60d6ffb4f/*~hmac=5ee5d49b92d3e0e037f9290915e9501343a9fe66f62e631518af6352c16f17cd"
+      }
+    ],
+    "duration_seconds": 1999,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-07-31T21:00:00+03:00"
+  }
+]
