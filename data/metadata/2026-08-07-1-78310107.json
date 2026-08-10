@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78310107",
+    "webpage": "https://areena.yle.fi/1-78310107",
+    "title": "Kansanradio: Ovatko villisiat Venäjän vakoojia?: 2026-08-07T21:00",
+    "episode_title": "Kansanradio: Ovatko villisiat Venäjän vakoojia?",
+    "description": "Eläinaiheita on tarjolla tämän viikon Kansanradiossa useasta näkökulmasta. Yksi kansalainen ehdottaa, että eduskunnasta löytyy ratkaisu aasipulaan. Ja miten on mahdollista, ettei Turussa saa nukkua rauhassa omassa pihassa.\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Ovatko villisiat Venäjän vakoojia?: 2026-08-07T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-e924a5f97bec4c67afb191d1cb2c0f87/audio-1785938999170.mp3?hdnts=exp=1786430702~acl=/aod/world/78-e924a5f97bec4c67afb191d1cb2c0f87/*~hmac=9783520c7cf119c4d9b91c315650de2d8453fd4d0fa5f831b3faaf0eb547e31d"
+      }
+    ],
+    "duration_seconds": 1999,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-08-07T21:00:00+03:00"
+  }
+]
