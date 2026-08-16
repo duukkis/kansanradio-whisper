@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78393376",
+    "webpage": "https://areena.yle.fi/1-78393376",
+    "title": "Kansanradio: P-rallin on loputtava!: 2026-08-14T21:00",
+    "episode_title": "Kansanradio: P-rallin on loputtava!",
+    "description": "Huviajelut traktoreilla kiristävät hermoja. Kansanradiossa puhututtavat muutkin liikenneasiat. Kuten kummalta puolelta ruokarobottia pitää väistää. Ja jättäkää lapsiparkit lapsiperheille!\n\nToimittajana Lasse Olkinuora",
+    "filename": "Kansanradio: P-rallin on loputtava!: 2026-08-14T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-536efc3336be4f9cbca62e4d86756cc0/audio-1786624246403.mp3?hdnts=exp=1786924028~acl=/aod/world/78-536efc3336be4f9cbca62e4d86756cc0/*~hmac=77396e46fb245b2b18e8d650293abd0ae9f699c556d4822152dfa5a984f2c096"
+      }
+    ],
+    "duration_seconds": 1927,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-08-14T21:00:00+03:00"
+  }
+]

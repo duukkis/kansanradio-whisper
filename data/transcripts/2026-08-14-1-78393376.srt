@@ -1,0 +1,936 @@
+1
+00:00:15,000 --> 00:00:32,620
+Heta tässä huomenta, kuumakallet pois poliisiauton ratista, täytyy olla suhteellisuustaju, eikä se himo, että ton mä otan kiini, makso mitä makso.
+
+2
+00:00:33,440 --> 00:00:41,680
+ Ei muuta kuin kielto, että poliisiauton rattiin, ei kuumakallet, niillä ei oo mitään asiaa, moi.
+
+3
+00:00:45,000 --> 00:00:49,560
+ Sen jakso se on, kansanradio ja Lasse Olkinuora tässä tervehdys.
+
+4
+00:00:49,820 --> 00:00:59,280
+ Elokuussa kun ollaan, niin sinnikkäästi minä toivotan hyvää myöhäistä kesää, vaikka tänne soittavista ovat monet ruvenneet jo toivottamaan hyvää alkavaa syksyä.
+
+5
+00:00:59,620 --> 00:01:03,420
+ No, ehkä kumpikin noista toivotuksista mahtuu tähän aikaan.
+
+6
+00:01:03,760 --> 00:01:12,220
+ Seuraavaan puolituntiseen puolestaan mahtuu hyvin runsaasti ja hyvin erilaisista aiheista, mielipiteitä, ehdotuksia ja kysymyksiä.
+
+7
+00:01:15,000 --> 00:01:21,620
+Kalala liikaa lapsiparkit on tarkoitettu lasten kanssa liikkuville, ja mikä auttaisi kuorsaukseen.
+
+8
+00:01:22,060 --> 00:01:26,260
+ Myös tekoäly mietityttää, nykyään varmasti jossain määrin ihan kaikkia.
+
+9
+00:01:27,000 --> 00:01:30,120
+No niin, täällä yks äijä Helsingistä.
+
+10
+00:01:30,560 --> 00:01:49,000
+Nytten kun tuota, no se tekoälystä puhutaan kovasti, niin ku se on kuitenkin laite, eikä ihminen, niin tota noin, kaikki maanviljelijät, kuljettajat, ne maksaa ajoneuvoveroja, polttoaineista veroja, niin miten tän tekoälyn, kuinka paljon se maksaa veroja?
+
+11
+00:01:49,060 --> 00:02:05,580
+ Jos se tekee jotain ihmisen puolesta, et se, ooks se verotus kans selvillä, että, jos se saa etujaa niin paljon, että ku kaikki muutki, jolla on jotain koneita ja laitteita, niin joutuu maksaa veroja, niin kai se tekoälyki sit maksaa.
+
+12
+00:02:05,820 --> 00:02:07,300
+Ei, taa muuta, kiitos.
+
+13
+00:02:08,380 --> 00:02:28,260
+Nimimerkki A studiota seurannut, ensiksi vois tekoälyllä korvata nämä 200 kansan edustajaa, niin tulisipa säästöjä valtiontalouteen, kun kokoomus tuntuu tätä ajavan niin voimalla, niin se olisi ensisijainen.
+
+14
+00:02:28,460 --> 00:02:34,460
+Ja sen jälkeen ruvettaisiin miettimään, mihin tekoälyä vielä voisi käyttää.
+
+15
+00:02:34,780 --> 00:02:35,540
+Heippa.
+
+16
+00:02:35,820 --> 00:02:52,220
+Nimimerkki Paristoradio täältä soittelee, tuossa tuli työttömille uusi velvoite, työhakuprofiili, laittaminen tuonen työmarkkinatorille, mutta kuinkahan tuossa on mietitty tuo tietoturvapuoli?
+
+17
+00:02:52,220 --> 00:02:59,220
+Mitäis joku rikollinen hoksaakin arustaa yritykseen ja alkaa keräämään kaikkien tiedot sieltä.
+
+18
+00:02:59,220 --> 00:03:05,220
+Ja puhumattakaan sitten näistä tekoäly-netin selaussysteemeistä.
+
+19
+00:03:05,220 --> 00:03:09,220
+Siinäpä vähän mietintää ennen ku pistätte lain voimaa.
+
+20
+00:03:09,220 --> 00:03:10,220
+Kiitos, hei.
+
+21
+00:03:10,220 --> 00:03:15,220
+Täällä on maalaismuori, vähän yli 80-vuotias.
+
+22
+00:03:15,220 --> 00:03:28,220
+Mulla olis pieni kysymys, kun nyt on ilmestyneet ruokarobotit myös pyörä- ja jalankulkutielle, kummalta puolen rollattorilla kulkevan pitää väistää.
+
+23
+00:03:28,220 --> 00:03:37,220
+Ja kun, nyt on koulut alkaneet, jalankulkupyörätiellä, on vaara jäädä sähköpotkulaudan viajamaksi.
+
+24
+00:03:37,220 --> 00:03:48,220
+Kun nämä hurjastelevat kovaa vauhtia ja ilman kypärää, puolelta toiselle, varsinkin alaikäiset.
+
+25
+00:03:48,220 --> 00:03:53,220
+Kuka näitä oikeasti valvoi? Tiedän, että vanhemmilla on vastuu.
+
+26
+00:03:53,220 --> 00:04:01,220
+Pitäis enempi näistä asioista varmaan koulussa puhua. Tiedän, että opettajilla on muutakin tehtävää.
+
+27
+00:04:01,220 --> 00:04:05,220
+Mutta sinne vois kutsua vaikka poliisisedän.
+
+28
+00:04:05,220 --> 00:04:09,220
+Ja, tämä vielä ilman äänimerkkiä.
+
+29
+00:04:09,220 --> 00:04:15,220
+Onko se niin, että näissä vekottimissa ei ole edes sellaista?
+
+30
+00:04:15,220 --> 00:04:22,220
+Mutta kun pyörälläkin ajaessa nuoret eivät käytä kilikelloa eikä kypärää. Tää on ikävä.
+
+31
+00:04:23,220 --> 00:04:30,220
+"Missä menee maalaisjärjen käyttö?", näin kysyy meille sähköpostia lähettänyt Oululainen veromaksaja.
+
+32
+00:04:30,220 --> 00:04:38,220
+Minä katsoin TV-uutisia 11.8., siinä kerrottiin, kuinka Oulussa rakennetaan esiintymislavaa veden päälle,
+
+33
+00:04:38,220 --> 00:04:42,220
+ ja tarkoitus on esittää kolmen päivän ajan esiintymisiä.
+
+34
+00:04:42,220 --> 00:04:48,220
+Oulu on 2026 kulttuuripääkaupunki, ja tämä on yksi päätapahtumista.
+
+35
+00:04:48,220 --> 00:04:52,220
+Ilmaisen tapahtuman kulut meille veronmaksajille todella paljon.
+
+36
+00:04:52,220 --> 00:04:58,220
+Uskomatonta rahan polttoa, eikä suinkaan ole ainut kyseiseen teemaan liittyvä kuluerä.
+
+37
+00:04:58,220 --> 00:05:04,220
+Uskomatonta tuhlausta, kuin hysteeriassa nämä eliittiväki satsaa.
+
+38
+00:05:04,220 --> 00:05:07,220
+Ja mitä saakaan tavallinen kansa? Maksumiehen rooli.
+
+39
+00:05:07,220 --> 00:05:14,220
+Terveisiä Oulusta kyllä harmittaa, kuinka muun muassa vanhusten hoidossa on rahapula, mutta ei tällä saralla.
+
+40
+00:05:14,220 --> 00:05:17,220
+Päättäjiä vastuuseen, please.
+
+41
+00:05:17,220 --> 00:05:24,220
+Paikallisraporttikierros, se alkoi tuolta Oulusta, nyt siirrytään Päijät-Hämeeseen ja Kärkölään.
+
+42
+00:05:24,220 --> 00:05:31,220
+No nii, tässä ihmettelevä ihminen, voittelemme täältä Kärkölästä, Järvelän pitäjästä, että
+
+43
+00:05:31,220 --> 00:05:42,220
+Miten poliiseikintö huivata tämmöseä asiaa, ku nuorisotajanoilla vanhempien traktoreilla iltasi huvia ajoa tässä kylällä.
+
+44
+00:05:42,220 --> 00:05:47,220
+Eihän ei ole siihen tarkoitettu, ja polttoöljyllä ajelevat, sitten tietenki niiden.
+
+45
+00:05:47,220 --> 00:05:53,220
+Nullahan työkoneita niiden, tavalla, että niiden pitäis se siirtymaa jo olla, sitten sinne työmaalle.
+
+46
+00:05:53,220 --> 00:06:01,220
+Eikä vaan, että ni laittaa vaan niinsattua pillururinkiä niiden täällä näiden ympäri kylää.
+
+47
+00:06:01,220 --> 00:06:08,220
+Ja samaten nämä viritetyt mopot, eikä nämä poliisit saa niinku mitenkään niitä järjestykseen.
+
+48
+00:06:08,220 --> 00:06:14,220
+Kylä, näille asioille pitäis nyt saada jotain järjestystä. Kiitos, hei, hei, hei.
+
+49
+00:06:14,220 --> 00:06:28,220
+Niö, päivää, tota, täällä Helsingin Hakanimessäni toisina kulkevana joutuutura tällä hetkellä taas kiinnittämää huomiota siihen, että siellä nämä katutöyt taas käyneessä.
+
+50
+00:06:28,220 --> 00:06:34,220
+Ei siitä, ku muutama kuukausko on ollut tällaista normaariaikaa ja ilman katutöytä.
+
+51
+00:06:34,220 --> 00:06:46,220
+On se vähän kummalista, ettei ne pysty näitä järjestämää näitä eri syystä tapahtuvia kadun aukaisuja niinku yhdelle kertaa, ettei tarvitsi jatkuvasti olla väistöymässä noita.
+
+52
+00:06:46,220 --> 00:06:55,220
+Siitähän on ollut puhetta, ettei nää pitäis siellä tavalla järjestää nämä katutöyt yhteen, ette voisi saada jonkun aikaa niinku normaalikunnassa katutki, ettei.
+
+53
+00:06:55,220 --> 00:06:57,220
+No joo, kiitos vaan.
+
+54
+00:06:57,220 --> 00:07:04,140
+Tamperelainen soittaa. Kävin kaupin sairaalassa katsomassa.
+
+55
+00:07:04,220 --> 00:07:09,220
+Ja ihmettelin, kun sitä ei oo hoidettu ollenkaan.
+
+56
+00:07:09,220 --> 00:07:18,220
+Se on niin huonossa klunnossa nykyään, se on unohtunut päättäjiltä Tampereella vallan.
+
+57
+00:07:18,220 --> 00:07:24,220
+Tämä kaupi sairaala on aikaisemmin ollut hyvä sairaala vanhuksille.
+
+58
+00:07:24,220 --> 00:07:41,220
+En tiedä, mitä siellä nyt tapahtuu, mutta se pitää kunnostaa sillä tavalla, että sinne tehdää vanhuksille omat huoneet ja vessat, ja se olis niikun vanhain koti.
+
+59
+00:07:41,220 --> 00:07:45,220
+Se on kauhean hyvällä paikalla, kaupissa.
+
+60
+00:07:45,220 --> 00:07:55,220
+Kauppi on hyvä alue, siinä on tori lähellä, Tampelan toria ja monta hyvää ulkoilualuetta.
+
+61
+00:07:55,220 --> 00:08:01,220
+Älkää Tampereen päättäjät unohtako kaupin sairaalaa.
+
+62
+00:08:01,220 --> 00:08:08,220
+Joo, tääl on Pohjanmaalta, nimimerkellä, tului Pohjanmaa.
+
+63
+00:08:08,220 --> 00:08:11,220
+Kuuntelit tos radio uutisia tuossa päivälläni.
+
+64
+00:08:11,220 --> 00:08:22,220
+Nyt kun meinaa taas nostaa sähköhintaa tuossa syksyllä, ku mä ihmettelen, ku johtuu siitä, ku Ruotsissa ja Norjassa ei oo vettä, no se pösi voimaa.
+
+65
+00:08:22,220 --> 00:08:24,220
+Ni Suomessa nostaa sähköhintaa.
+
+66
+00:08:24,220 --> 00:08:26,220
+Mut on vähän tääl, niinku tääl Pohjanmaalakin.
+
+67
+00:08:26,220 --> 00:08:33,220
+Mä katon tästä tänne möksyyn päin, ni, tääl on kakskymmenten tuulivoimalakin, yhtäkkiä tälläkin alueella.
+
+68
+00:08:33,220 --> 00:08:38,220
+Mihin tää perustuu, tää niinku, tää suomalaisten uudostaa minuutta sähköhintissä?
+
+69
+00:08:38,220 --> 00:08:42,220
+Ihmitetty tosi kovasti.
+
+70
+00:08:42,220 --> 00:08:46,220
+Ei muuta, kiitoksia, päiväijät. Moikka, moi.
+
+71
+00:08:56,220 --> 00:09:02,220
+Mä haluaisin nostaa esii epäkohda, jonka on huomanu valitettava yleiseksi.
+
+72
+00:09:02,220 --> 00:09:04,220
+Ehdottomasti antaa tulla.
+
+73
+00:09:04,220 --> 00:09:13,220
+Tonne kauppojen pihaan, ku ajaa auton kanssa, siellä aiva aiheettomasti ihmiset käyttää lapsiperhepaikkoja.
+
+74
+00:09:13,220 --> 00:09:16,220
+Eli niit vähän suurempii ruultui.
+
+75
+00:09:16,220 --> 00:09:26,220
+Eniite sapettaa, ku hyväkuntoiset ihmiset tajaa laiskuttaa siihen, ja sit ite joutuu ottaa rattaat pois siellä tautosta, ja lapset turvakaukaloistia.
+
+76
+00:09:26,220 --> 00:09:35,220
+Huutava taapero toisee, kai naloi ostai ahtammast parkista kaukaa, kaupa ovista, ku hyväkuntoiset ihmiset pijää niit paikkoi.
+
+77
+00:09:35,220 --> 00:09:48,220
+Ja sit vielä sille, että vanhukset ja liikuntarasteisetkin niit näkyy oleva, ja ymmärrän paremmii, mut sit pitäis meni ostai lääkereet hakemaa, semmoinen invapysäköintilupa.
+
+78
+00:09:48,220 --> 00:09:54,220
+Eli semmoinen kohtelias huomautus, että ne on ihan syystä, sellaiset paikat.
+
+79
+00:09:54,220 --> 00:09:56,220
+No, kyllä, just näi.
+
+80
+00:09:56,220 --> 00:09:57,220
+No nii.
+
+81
+00:09:57,220 --> 00:10:03,220
+Ite oon, joskus vähän tuohtunu, ja menny kasvotustenki sanomaa muutamalle.
+
+82
+00:10:03,220 --> 00:10:15,220
+Ja, jotkut on häpeille poistunu siitä, ja joku alkanu inttämää, että kyllä heillä oo oikeus käyttää, vaikei lapsii oo, mut en mä tie, mitä järkevää vastaus ei ikinä tullu.
+
+83
+00:10:15,220 --> 00:10:17,220
+Okei, no nii.
+
+84
+00:10:17,220 --> 00:10:25,220
+Ihmiset reagoi vähän eri tavalla, kun huomautetaan, et nyt tuli tehtyy virhe, jotkut heittäytyy tosi puolustuskannan, ja näinhän se on.
+
+85
+00:10:25,220 --> 00:10:38,220
+Nii, ja varmaa turhomaista, no nii, on sitä maailmassa isompiikin asioita, mutta laperon huutaa siinä kainalossa, ja vauvaan pitäis kantaa toiselkeden sit kaukalossaan, nii, sitten.
+
+86
+00:10:38,220 --> 00:10:47,220
+Maailmassa on isoja, todella isoja murheita, mutta ei se silti tarkoita, etteikö vois tästä asiasta, tähän asiaan, ihmiset kiinnittää myös huomiota.
+
+87
+00:10:47,220 --> 00:10:49,220
+No, näinpä.
+
+88
+00:10:49,220 --> 00:10:50,220
+Mmm, kyllä.
+
+89
+00:10:50,220 --> 00:10:54,220
+Hei, hyvä ku soitit tästä, kansanradion kautta, kaikkien kuulolla.
+
+90
+00:10:54,220 --> 00:10:55,220
+No nii, kiitos.
+
+91
+00:10:55,220 --> 00:10:56,220
+Kiitos, ja päivä jatkot.
+
+92
+00:10:56,220 --> 00:10:57,220
+Moi.
+
+93
+00:10:57,220 --> 00:11:00,220
+Säästöjä on tehtävä, ei vaan ottaa lisää lainaa.
+
+94
+00:11:00,220 --> 00:11:09,220
+Tuntuu, että nykyisin on muodikasta valittaa hallituksesta, muummuassa nimimerkin ärsyyntynytty nuori laittamaan meille viestiä, toivottaa ärtymisestä huolimatta hyvää päivää viestinsä alkuun.
+
+95
+00:11:09,220 --> 00:11:22,220
+Teille kaikille, ketkä tykkäätte valittaa nykyisen hallituksen toimista, ne säästötoimenpiteet, joita nyt tehdään, joudutaan tekemään edellisen hallituksen tekemien päätösten johdosta, koska sen aikana otettiin vain lainaa.
+
+96
+00:11:22,220 --> 00:11:33,220
+Säästöjä on tehtävä, ei vaan ottaa lisää lainaa. Tuntuu, että nykyisin on muodikasta valittaa hallituksestamme. Tämä kansa sen on valtaan valinnutkin.
+
+97
+00:11:33,220 --> 00:11:40,220
+Herätkää ihmiset, ottakaa selvää ja lopettakaa turhaa Marina, nimimerkillä ärsyyntynyt nuori.
+
+98
+00:11:40,220 --> 00:11:45,220
+Nimimerkillä Banskun syöjä puolestaan on tullut meille kortti.
+
+99
+00:11:45,220 --> 00:11:53,220
+Hei vielä sille miehelle vastaus, jolla oli banaanikärpäsiä, niin laitappa banaanit jääkaappiin, ei ole kärpäsistä enää huolta.
+
+100
+00:11:53,220 --> 00:11:57,220
+Testattu on ja toimii terveisin, Banskun syöjä.
+
+101
+00:11:57,220 --> 00:12:08,220
+"Olen, ja on te?", ihmettelin äske, että kuinka pieniä murheita ihmisiltä voi olla, jos ei saa kaljapurkista viimeistä ryppyä kunnolla.
+
+102
+00:12:08,220 --> 00:12:12,220
+Kyllä minä saa, jos maa tarvitsi. Kiitos vaan.
+
+103
+00:12:12,220 --> 00:12:27,220
+Olisin vaan vastannut hänelle, joka sanoit, että tuolta hautausmaalta noita lystyjä varastetaan, niin tääl on ainakin täällä Pirkanmaalla, ilko hautausmaalla sillä, että henkilökunta kerää niitä pois, kun ne on tiellä, kun ne leikkaa ruohoa ja strimmailee.
+
+104
+00:12:27,220 --> 00:12:34,220
+ Että kannattais ehkä kysyä sieltä omalta seurakunnalta, että jos me laittaa niitä vaikka jemmaa, niin ei muuta. Moikka.
+
+105
+00:12:34,220 --> 00:12:51,220
+Hei, haluaisin ottaa kantaa tähän lääkekeskusteluun, mitä nyt Kansaradiossa on viime viikkoina ollut, kun aika monet on soittanut sinne ja valitelleet näistä erityisesti kolesterolilääkkeiden haittavaikutuksista.
+
+106
+00:12:51,220 --> 00:13:14,220
+Mä oon itse farmaseutti, ku kuuntelin näitä juttuja, niin mietin sitä, että kohonnu kolesteroli on aika yleinen Suomessa, yleinen vaiva, ja se on usein aika oireeton vaiva, ja ihmiset aika helposti lopettaa sen lääkityksen ihan niinkun omavaltaisestikin, heti jos huomaa jotain haittoja tai oletettuja haittoja.
+
+107
+00:13:14,220 --> 00:13:29,220
+Se on ihan totta, että kolesterolilääkkeillä on jonkin verran näitä lihaskipuhaittoja yleisehköinä haittavaikutuksina, mutta sitten nää tämmöset lihasvauriot on kyllä hyvin harvinaisia haittoja,
+
+108
+00:13:29,220 --> 00:13:34,220
+ ja siis, tai noin puolet näistä haitoista esiintyy myös lumelääkkeellä.
+
+109
+00:13:34,220 --> 00:13:48,220
+ Että, en halua vähätellä kenenkään niinkun lääkkeistä kokemia haittavaikutuksia, mutta näistä pitäis aina keskustella lääkärin kanssa, eikä omavaltaisesti mennä lopettamaan lääkityksiä.
+
+110
+00:13:48,220 --> 00:13:57,220
+Tämmösen vaan halusin sanoa, ettei nyt kukaan vaan pelkästään kansanradion perusteella ajattele, että apua, lääkkeit ovat myrkkyä, lopetan kaikki.
+
+111
+00:13:57,220 --> 00:14:00,220
+ Että, näin tällä kertaa. Moi.
+
+112
+00:14:00,220 --> 00:14:03,220
+Kansanradio.
+
+113
+00:14:03,220 --> 00:14:04,220
+Kansanradio.
+
+114
+00:14:04,220 --> 00:14:12,220
+No, tässä on Anne Hei, ja kuuntelin juuri siileisimmän kansanradiojakson.
+
+115
+00:14:12,220 --> 00:14:20,220
+ Mä yleensä kuuntelen, sunnuntaisin, kuunteen puutarha hommia tai muita hommia, niin kuuntelen ihan mielenkiinnosta näitä mielipiteitä.
+
+116
+00:14:20,220 --> 00:14:35,220
+Tää haluaisi vastata nyt tähän, yks herra metsätalouden asiantuntija, joka kertoi oman mielipiteensä Espanian, Italian, ja Portugalin ja Ranskan metsäpaloista, kuinka ne pitäisi hoitaa.
+
+117
+00:14:35,220 --> 00:14:57,220
+Ja haluaisin tähän nyt sano se verta, että kyllä se on aika paljon, tämä ilmastokriisi, joka on muuttanut tätä ilmastoa, niin, että esimerkiksi Sardiniassa meillä on kahden kuukauden kuivuusjakso, todella kovat helteet, lähemmäs neljäkymmentä ja yli neljäkymmentä, ja loppu ei vielä näy.
+
+118
+00:14:57,220 --> 00:15:21,220
+Laki on ihan Italiassa sellainen, että metsät ja puutarhat pitää siivota puolen väliin kesäkuuta mennessä, jotta vältytää näitä metsäpaloita, mutta jos ilmasto-olosuhteet on sellaiset, että on täys kuivuus, niin kasvithan kuivuu, ja niitä ei voi siivota pois.
+
+119
+00:15:21,220 --> 00:15:38,220
+Siis kaikkea, mitä on. Se oli jotenkin musta täysin absurdi kommentti, viinilipiteljöistä ja patongin mussuttajista, että kyllä täällä todellakin tehdään töitä sen eteen, että metsäpaloja ei syttyisi.
+
+120
+00:15:38,220 --> 00:15:50,220
+Mutta ilmasto-olosuhteet ja ilmastokriisi on kyllä näihin paloihin ollut se suurin syy, että miksi ne ovat lisääntyneet.
+
+121
+00:15:50,220 --> 00:15:57,220
+Eli siitä johtuen ihminen on osittain aseeton niiden edessä?
+
+122
+00:15:57,220 --> 00:16:13,220
+No, ei oo aseeton, että tämä on se, mihin me painotetaan, tehdään poliittisia päätöksiä, meidän ihmisten kulutuskäyttäytymiset ja mitä me itse toimitaan tämän ilmastokriisin suhteen.
+
+123
+00:16:13,220 --> 00:16:20,220
+Suomessa sitä ei ehkä ymmärretä, että kuinka paljon se on vaikuttanut maailman ilmastotilanteeseen.
+
+124
+00:16:20,220 --> 00:16:36,220
+Tätä menoa, niin 30 vuoden päästä, niin Eurooppa, joka on eniten kärsinyt näistä ilmastokriisin vaikutuksista, niin, että kuinka paljon autioituu peltotilat, et cetera.
+
+125
+00:16:36,220 --> 00:16:45,220
+ Et kuinka paljon kuivuus lisääntyy, ja kuinka paljon ihminen pystyy sit enää asumaan tämmöisissä, täysin, mitä se nyt sanotaan suomeksi.
+
+126
+00:16:45,220 --> 00:16:50,220
+Semmosis olosuhteissa, et on aivan todella kilian kuuma.
+
+127
+00:16:50,220 --> 00:17:01,220
+Se on ihan päättäjistä kiinni, ja meistä ihmisistä, jotka valitaan nää päättäjät, ja mitä me halutaan jättää lapsillemme perinnöksi tässä maapallossa.
+
+128
+00:17:01,220 --> 00:17:15,220
+ Et kyllä me ihminen on suoraan sanoen, niinkun maapallon tyhmin eläin, joka on, tyllä, olemme hyvin tuhoneet asuinympäristömme, ja jatkamme sitä tuhamista edelleen.
+
+129
+00:17:15,220 --> 00:17:19,220
+Minä kiitän, kun sardineesta käsin soittelit, kansanradio.
+
+130
+00:17:19,220 --> 00:17:20,220
+Kiitos. Kiitos.
+
+131
+00:17:20,220 --> 00:17:22,220
+Kiitos.
+
+132
+00:17:22,220 --> 00:17:23,220
+Kiitos.
+
+133
+00:17:52,220 --> 00:17:53,220
+Kiitos.
+
+134
+00:17:53,220 --> 00:17:54,220
+Kiitos.
+
+135
+00:17:54,220 --> 00:17:55,220
+Kiitos.
+
+136
+00:17:55,220 --> 00:17:56,220
+Kiitos.
+
+137
+00:18:24,220 --> 00:18:25,220
+Kiitos.
+
+138
+00:18:25,220 --> 00:18:26,220
+Kiitos.
+
+139
+00:18:26,220 --> 00:18:27,220
+Kiitos.
+
+140
+00:18:27,220 --> 00:18:28,220
+Kiitos.
+
+141
+00:18:28,220 --> 00:18:29,220
+Kiitos.
+
+142
+00:18:29,220 --> 00:18:30,220
+Kiitos.
+
+143
+00:18:30,220 --> 00:18:31,220
+Kiitos.
+
+144
+00:18:31,220 --> 00:18:32,220
+Kiitos.
+
+145
+00:18:32,220 --> 00:18:33,220
+Kiitos.
+
+146
+00:18:33,220 --> 00:18:37,220
+Tämmöistä vaihää hyvää onnea, Ellalle. No, heipä hei!
+
+147
+00:18:39,220 --> 00:18:43,220
+Voisko toi telkkari uusia, toi Metsola-sarja?
+
+148
+00:18:44,220 --> 00:18:50,220
+ Hyvää huomenta, kansanradio. Arvostelen tätä yleisradion touhua.
+
+149
+00:18:51,220 --> 00:18:58,220
+Kaikkiään voi käsittää sitä, mille portaalet tämä urheilu on Suomessa nostettu.
+
+150
+00:18:59,220 --> 00:19:07,220
+Eihän se meidän kansantaloutta paljon paranna, jos siitä joka päivä jauhetaan ja jauhetaan ja jauhetaan.
+
+151
+00:19:08,220 --> 00:19:20,220
+Kun meidän pitäis täällä Suomessa, kaikkien meidän ihmisten, jotka nyt osaamme jotain ajatella näitä asioita, missä kuopassa me olemme,
+
+152
+00:19:21,220 --> 00:19:33,220
+Miteen me saatais tätä kansantaloutta hieman kohotettua ja velkarahaa vähennettyä tähän yhteiskunnan kulutukseen, mitä tämä kuluttaa tänä päivänä.
+
+153
+00:19:34,220 --> 00:19:44,220
+Ja sitten vielä toinen juttu nyt tässä vaan, että minkä takia tämä viihde on niin suuressa osassa täällä Suomen maassa?
+
+154
+00:19:45,220 --> 00:19:53,220
+Ei silloin, kun minä olin nuori, silloin oli työ ja se, että saadaan rahaa, kun kaikki piti maksaa itse perheillä.
+
+155
+00:19:54,220 --> 00:20:05,220
+Ku siellä oli lapsia paljon, kaikki piti maksaa koulusta lähtien, opiskellut sieltä koulusta, kaikki. Kiitos, ei muuta, hei.
+
+156
+00:20:06,220 --> 00:20:12,220
+ hyvää päivää kansaradioon. Mutta semmoinen juttu, tää musiikki on nyt ihan kaikkialla.
+
+157
+00:20:13,220 --> 00:20:25,220
+Ei kaikki ihmiset saa siitä, mitä voimaa, että jokaisella juontajalla, jokaisessa ovirmassa, on tämä niittäin, tämä musiikki nyt sitten.
+
+158
+00:20:25,220 --> 00:20:39,220
+Kyllä minä tykkään musiikista, hei minä ollut ku viis koulussa tää musiikki. Mutta yleisralioon sanoisin vaan tämmösen, että ei kaikki ihmiset saa lohdutusta vasta musiikista.
+
+159
+00:20:40,220 --> 00:20:58,220
+Tä on nyt liikaa kaikkialla, siis joka ikisessä ohjelmassa, juontajalla kaikilla. Minä odotan nyt sitä, kun tämä on kiertänyt, tämä pussi nyt, yleisali on pussi nyt ympäri maailma, taikka Suomea, niin mitä sieltä tulee?
+
+160
+00:20:59,220 --> 00:21:08,860
+ Että enemmän puhetta. Mutta anteeks nyt tämä kommentti, jos tämä on huono, niin pyydän anteeksi. Kiitoksia paljon.
+
+161
+00:21:10,220 --> 00:21:17,220
+Tämä on Keski-Suomesta, tämmönen yli kahdeksankympinen naisihminen lyös kylänkupeesta.
+
+162
+00:21:17,220 --> 00:21:22,220
+ Ja olen kiinnittänyt erittäin paljon homiota toimittajien puhetyyliin.
+
+163
+00:21:22,220 --> 00:21:34,220
+Puhuvat useimmat aivan liian nopeasti, ei pysy kärryillä, ja sitten ne on kuin oikolukua tai puheellukua suoraa paperistakin, tuntuu siltä.
+
+164
+00:21:34,220 --> 00:21:38,220
+Ja sitten, kun siellä on mies ja nainen, niin se on semmoista kurskutusta.
+
+165
+00:21:38,220 --> 00:21:44,220
+Nimeet lausutaan, yleensä jopa toimittajat itsekin nimensä, hyvin epäselvästi.
+
+166
+00:21:44,220 --> 00:21:50,220
+Ja sitten käytetään tällaista sanaa, ihanaa, kun olet kuuntelemassa.
+
+167
+00:21:50,220 --> 00:21:56,220
+No, minun mielestä se ei oo ihanaa, se on aivan mukava juttu, mutta ihanaa käytetään aivan liian paljon.
+
+168
+00:21:56,220 --> 00:22:06,220
+Samoin sitten televisiouutisten, siellä vilahtaa joku lauseke aina uutisten päätteeksi, mitä virkaa semmosella on, kun ei ehdi lukea.
+
+169
+00:22:06,220 --> 00:22:18,220
+Et jos yhtää ajateltais iäkkämpiäki ihmisiä, ei tarvitse tietysti erikoisesti, mutta johan se luulisi kuuluvan normaalin toimittajan koulutukseen,
+
+170
+00:22:18,220 --> 00:22:24,220
+ miten puhutaan radiossa esimerkiksi, ettei se oo ku pikajunaa menis.
+
+171
+00:22:24,220 --> 00:22:28,220
+Mutta tota, muuten ihan hyvä on, kun radion ohjelma olemassa.
+
+172
+00:22:28,220 --> 00:22:38,220
+Ja samoin, televisiokin, katson hyvin paljon urheiluja, en kaikkea, mutta yleisurheilua ja lentopalloa tennistä, jossa ei tarvitse lähinnä tapella.
+
+173
+00:22:38,220 --> 00:22:44,220
+Mutta kiitos kaikille osalistujille, kivaa, hyvää kesänjatkoa, heippa.
+
+174
+00:22:48,220 --> 00:22:55,220
+Tervehtitään, että hei, kansan radio, minä katselen uutiset kolmelta kanavalta, ja lopussa tulee sitten sää.
+
+175
+00:22:55,220 --> 00:23:04,220
+Minkä takia sään lukian on pakko törröttää sen luettelon edessä, jossa muiden maiden lämpötilat ja sää on?
+
+176
+00:23:04,220 --> 00:23:09,220
+ Jos taulukko ei ole tarkoitettu nähtäväksi, niin miksi se siinä on?
+
+177
+00:23:09,220 --> 00:23:16,220
+Ärsyttää myös edestakaisin ravaaminen, näin sanoo mummo, joka haluaa tietää sään, Lonto ja Pariisi.
+
+178
+00:23:18,220 --> 00:23:26,220
+Puolestaan on lähettänyt ystävällisin, terveisin nimimerkki Laudatur suomen kielessä vuonna 1970.
+
+179
+00:23:26,220 --> 00:23:33,220
+Nykyiset urheilukilpailuiden selostajat ja kommentaattorit harrastavat kauniin suomen kielemme väärinkäyttöä.
+
+180
+00:23:33,220 --> 00:23:36,220
+Vai miten on ymmärrettävissä esimerkiksi seuraavat?
+
+181
+00:23:36,220 --> 00:23:43,220
+Jääkiekossa kolmas erä lähtee liikenteeseen, tai uima altaessa Matzon lähtee liikenteeseen.
+
+182
+00:23:43,220 --> 00:23:48,220
+Kertokaa minulle, mitä järkeä tällaisella kielenkäytöllä on.
+
+183
+00:23:48,220 --> 00:23:53,220
+Siinä kun kuultiin yksi kielenkäyttöön liittyvä kehitys, joka olisi saanut jäädä tapahtumatta,
+
+184
+00:23:53,220 --> 00:23:58,220
+ niin laajennetaan vähän, kuullaan seuraavaksi, erilaisia mielipiteitä siitä,
+
+185
+00:23:58,220 --> 00:24:07,220
+ että minkä jo kadonneen pitäisi palata takaisin, ja mitkä asiat puolestaan voisivat, ikään kuin vaidossa, jäädä tuonne historiaan.
+
+186
+00:24:28,220 --> 00:24:37,220
+Nelikyntäluuloa syntyneet, silloin lapset koulussa ei ollut väkivaltaisia ja opettajilön keinot saa järistyskoulua.
+
+187
+00:24:37,220 --> 00:24:41,220
+Nyt sehän ei saa koulussa järistysä voaettii kakkait.
+
+188
+00:24:41,220 --> 00:24:46,220
+Sehän on laissa kieletty josekki, jota antaa vain lapset riehu.
+
+189
+00:24:46,220 --> 00:24:50,220
+Mutta eikä se korjavu ennen kuin se vapaa kasvatus lopetette,
+
+190
+00:24:50,220 --> 00:24:54,220
+ ja kotona neuvottaa, mitä sitä voi tehdä, ja mitä ei.
+
+191
+00:24:54,220 --> 00:24:59,220
+Eihän se lapsi multen tiiä, niiden rajoja, trepparalla.
+
+192
+00:24:59,220 --> 00:25:05,220
+Nä pitäis nämä kaiken maamo, ämän kisaat, eihän kisaat, sun muut kisaat.
+
+193
+00:25:05,220 --> 00:25:11,220
+Opettaa ja pistää tuota ne läki nukkumaan, no ihan tätä roskaa nuo.
+
+194
+00:25:11,220 --> 00:25:17,220
+Urheilu kisaat, festaidit sun muut, eihän niistä mihinkää on, eihän ne mitään.
+
+195
+00:25:17,220 --> 00:25:24,220
+Kerro, urheilussakin käytetään doopingia, hyvin laaja alaisesti, ei siellä muuten pärjää.
+
+196
+00:25:24,220 --> 00:25:30,220
+Ja nii pois päi. Pestareillakin tuolla kuolla uhria ja kaavo os monta.
+
+197
+00:25:30,220 --> 00:25:36,220
+Niintää moita ku lappu luokulle vaan kaikille nähe joutojutuja.
+
+198
+00:25:36,220 --> 00:25:47,220
+Kyl se nii on, että alkoholi lisää levikki, viinakauppien auki olot, sununtan, ja muutenkin viikoltakin, ja minä päivänä vaan, ja kotiin rastaamiset,
+
+199
+00:25:47,220 --> 00:25:55,220
+ nii tämä tulee Suomen kansalle, kansantalouden, niin kohtuuttoman kalliiksi, että tästä hommasta ois päästävää kyllä ehdottomasti irti.
+
+200
+00:25:55,220 --> 00:26:03,220
+Suomen kansa on alkoholisoitunut kohtuuttoman paljon, ja vielä vaan sitä lisää tehdään, ja Suomen talous on, voi sano, ihan pyllyllään näissä asioissa,
+
+201
+00:26:03,220 --> 00:26:07,220
+ näissä velka-asioissa, ja rappeutumis-asioissa.
+
+202
+00:26:07,220 --> 00:26:18,220
+Tätäkö Suomen valtion johto haluaa? Onko tämä johron omaa kantatta, pitää olla alkoholiogemaisia paljon? Vaikuttaa, että nyt alkoholiogema riivaa myös kansanedustajia ja ministereita.
+
+203
+00:26:18,220 --> 00:26:27,220
+ Että järkyttävää porukkaa tuolla kansakunnan johdossa on, täytyy sanoa, että kyllä heidän aika on vaihtuva kokonaan, niin historiaa, niinku sanottiin ennen vanhaan,
+
+204
+00:26:27,220 --> 00:26:31,220
+ ja pysyvästi historian, he eivät osaa päätellä asioita oikein.
+
+205
+00:26:31,220 --> 00:26:41,220
+Joululaikaa voi tonttuilla, mutta keskellä voittaa, ei pitäis kenenkään tonttuilla. Eihän nyt vielä joulu ole, joululaikaa voi tonttulaakin päästäkki vielä vaikka kissa, jos haluaa.
+
+206
+00:26:41,220 --> 00:26:48,220
+Puumataakkaa sitten ihmiset, jotka ovat vielä tonttimpi, ja kissakin on viksupi monta kertaa, ku joulutontut. Tämä saat kansanedustijat.
+
+207
+00:26:48,220 --> 00:26:57,220
+Hyvää päivää kaikille kuuntelijoille ja toimittajalle. Täällä on puhelimessa eräs sahkera kuuntelija Pohjanmaalta.
+
+208
+00:26:57,220 --> 00:27:07,220
+Olin jo pitkään kaivannut, ja nyt erityisesti kaipaamme pitkaikaista, ja jo edes mennyttä päättäjä ja ulkopolitiikan johtaja, presidentti Kekkosta.
+
+209
+00:27:07,220 --> 00:27:23,220
+Hän ajatteli ja toimi ensisijaisesti oman maamme, Suomen ja kansalaisten edun mukaisesti politiikassaan, mutta uskasi ärähtää myös silloin, kun huomasi, että hallitus ja eduskunta olivat menossa harkoiteille.
+
+210
+00:27:23,220 --> 00:27:49,220
+Maamme nykyiset päättäjät, äärioikeltä aina laitava senpaan saakka, nykyinen presidentti mukaan lukien, katsovat ja haikailevat vain ulkomaille, eivät luota oman maan kansalaisiin, eivätkä päätöksiä tehdessään, todella ajattele oman maan tavallisia työtä tekeviä ihmisiä, eläkeläisiä, sairaita lapsia ja niin edelleen. Hyvää vointia ja hyvää tulevaa kansalaisiin.
+
+211
+00:27:49,220 --> 00:27:50,220
+Loppu.
+
+212
+00:27:50,220 --> 00:28:05,220
+Vielä on meillä tähän ihan loppuun luvassa kysymyksiä, joita ennen minä muistan mainita, että meidän WhatsApp-numero, se on 044 55 154 64.
+
+213
+00:28:19,220 --> 00:28:36,220
+Vastaajan, jos haluat jättää viestin, niin soita numeroon 08 00 154 64.
+
+214
+00:28:36,220 --> 00:28:48,220
+Ja, ihmisen kanssa, jos haluat siitä aiheesta rupatella, niin ei kun vaan soitat samaiseen numeroon, sunnuntaina kello 12:30 ja 15:30 välillä.
+
+215
+00:28:48,220 --> 00:29:00,220
+Nyt Lasse Olkinuora toivottaa oikein hyvää elokuun viettoa, kun vielä saa ihminen nauttia sään tarjoamasta mahdollisuudesta käyskennellä shortsit jalassa.
+
+216
+00:29:00,220 --> 00:29:04,220
+Tai kuten niitä Intiassa kutsutaan, puolihousut.
+
+217
+00:29:04,220 --> 00:29:13,220
+No nii, hei, tääl on kuule mummeli, joka on kauhean huolestunut, miten on mahdollista.
+
+218
+00:29:13,220 --> 00:29:24,220
+Tässä tämä talo on ollut 103 vuotta santasella törmällä jokimennetosta alta viienkymmenen meterin päästä.
+
+219
+00:29:24,220 --> 00:29:36,220
+Ja, yhtäkkiä alakanois kasvamaan sammalta tuommosta, joka jängelää, kun hillo saa käyny syllä nii tuhannen kertaa.
+
+220
+00:29:36,220 --> 00:29:44,220
+Niin, miten täällä on yhtäkkiä tänne santaselle pihaalle ruvennutko tulemaan sitä jänkää?
+
+221
+00:29:44,220 --> 00:29:50,220
+Miten voi olla mahdollista santaselle maale rupeää kasvamaan?
+
+222
+00:29:50,220 --> 00:29:55,220
+Aivan niinko sitä ois kylvetessy riputeltu sinne sun tänne nii.
+
+223
+00:29:55,220 --> 00:29:58,220
+Tämmöseen haluaisisin vastauksen.
+
+224
+00:29:58,220 --> 00:30:05,220
+Onko sieltä semmoisia akronoomia, ketää, joka tämmöstä asiaa tuntee, varmasti olis nii?
+
+225
+00:30:05,220 --> 00:30:10,220
+Olisin kauhean kiitollinen.Kiitos, hei.
+
+226
+00:30:10,220 --> 00:30:20,220
+Moroa, kyselee sellaista juttua, että minkälainen bisnestä Suomessa on esimerkiksi tämä hoitopaikkojen saannin jonotus.
+
+227
+00:30:20,220 --> 00:30:26,220
+ Että, nyt mulla sattuu lauantaiksi tällainen hammaslääkärivuoda.
+
+228
+00:30:26,220 --> 00:30:38,220
+Yheksältä soitin, heti viisyli yhdeksän pääsin, paikalle yhdeksäntoista, ja minuuttia vale kymmene, ja kymmeneltä loppu tämä päivistysni, sitten vastatti.
+
+229
+00:30:38,220 --> 00:30:43,220
+Eli tunnin jonotus, mitäs tekee rahas? köyhälle ihmiselle.
+
+230
+00:30:43,220 --> 00:30:47,220
+Onko kuka laskenu? Kiitos, jos joku on. Kiitti.
+
+231
+00:30:47,220 --> 00:31:11,220
+No nii, vanha heläkeläsukko, tästä Ouluseuvuutta soittelee, semmoista asiaa. Jouduin käyttämään noita sairaalapalveluja herrien paljon, ja nyt kävi sellainen mulle tällainen, että lääkäri soitti noin puolen minuutin puhelun minulle, joka maksoi minulle 65 euroa.
+
+232
+00:31:11,220 --> 00:31:40,220
+Pitään tätä, tämmöistä menettelyä, että pohdella heti minulle tämä lasku, ja tuota, onko nyt niin, että lääkärit vaativat tämmöistä rahan siirtua köyhiltä rikkaille? Minusta tämä on riistämistä jo, tämmöselta, vanhalta eläkeläs mieheltä, että tämmönen raha on jo minun kuukauden ruokarahaa.
+
+233
+00:31:40,220 --> 00:31:42,220
+Ja kiitos teille kuulemiin.
+
+234
+00:31:42,220 --> 00:32:01,220
+Jokisen arja, kuule, oisin kysyny vaan tällöstä asiaa, jos joku tietäs tämmösen hyvään jutun, mikä auttaa siihen, kun mies kuorsaa? Ni ei mitää semmosia pelleilytä, vaan hyvä tämmönen pink. Kiitos.
+
