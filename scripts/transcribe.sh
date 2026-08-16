@@ -59,6 +59,7 @@ nice -n 10 "$WHISPER" \
     -m "$WHISPER_MODEL" \
     -l fi \
     -f "$AUDIO_FILE" \
+    -ot 15000 \
     -osrt \
     -of "$OUTPUT_BASE"
 
