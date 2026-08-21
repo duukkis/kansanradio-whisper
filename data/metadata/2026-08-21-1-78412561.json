@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78412561",
+    "webpage": "https://areena.yle.fi/1-78412561",
+    "title": "Kansanradio: Muumimukit isommiksi: 2026-08-21T21:00",
+    "episode_title": "Kansanradio: Muumimukit isommiksi",
+    "description": "Muumimukeja olisi mukava keräillä, mutta niistä ei ole hyvä juoda.\nSuosittujen astioiden lisäksi kunniansa saavat kuulla poliisit, mopoilijat ja sukkien valmistajat.\nKultamitalin kunniaksi lauletaan Maamme-laulu.\n\nToimittajana Lasse Olkinuora\n\nKuuntelijoiden oma juttupaikka tosikoille ja veitikoille. Soita oma puheenvuorosi Kansanradioon 0800 154 64. Toimittaja päivystää numerossa sunnuntaisin klo.12.30-15.30.Muina aikoina voit jättää viestisi vastaajaan. WhatsApp-viesti: 044 551 54 64 Sähköposti: kansan.radio@yle.fi Kirjeposti:Kansanradio PL 7900024 Yleisradio Toimittaja Lasse Olkinuora Tuottaja: Hanna Juuti, Yle Radio Suomi",
+    "filename": "Kansanradio: Muumimukit isommiksi: 2026-08-21T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-b42a0b01214a4211b7dd57a8d2405728/audio-1787231260968.mp3?hdnts=exp=1787382004~acl=/aod/world/78-b42a0b01214a4211b7dd57a8d2405728/*~hmac=0c83b3be2b4d98bd374045270bbb9c9b77818b9b2a950fe071bd3bff5891b44b"
+      }
+    ],
+    "duration_seconds": 1940,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-08-21T21:00:00+03:00"
+  }
+]
