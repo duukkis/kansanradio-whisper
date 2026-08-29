@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78411946",
+    "webpage": "https://areena.yle.fi/1-78411946",
+    "title": "Kansanradio: Kirjastoihin pitää saada jossittelupiste: 2026-08-28T21:00",
+    "episode_title": "Kansanradio: Kirjastoihin pitää saada jossittelupiste",
+    "description": "Tällä kertaa Kansanradiossa kuullaan useampia ehdotuksia. Eduskuntatalo on vaattureita täynnä ja kyselytunnille ehdotetaan tekonaurua. Bondit ovat epärealistisia. Ja lisäksi pohditaan, että kuinka paljon on kala.\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Kirjastoihin pitää saada jossittelupiste: 2026-08-28T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-fcd417cada7245349b5370bbe0d3d892/audio-1787741600359.mp3?hdnts=exp=1787985604~acl=/aod/world/78-fcd417cada7245349b5370bbe0d3d892/*~hmac=3f95611d34bdf4a128f47f395ccb1fbb315555ebae11e2b23d9f34f1d9e5521b"
+      }
+    ],
+    "duration_seconds": 1999,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-08-28T21:00:00+03:00"
+  }
+]
