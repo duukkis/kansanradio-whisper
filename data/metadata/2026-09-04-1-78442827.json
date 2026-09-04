@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78442827",
+    "webpage": "https://areena.yle.fi/1-78442827",
+    "title": "Kansanradio: \"Jottain tarttis tehrä oikeinkin joskus\": 2026-09-04T21:00",
+    "episode_title": "Kansanradio: \"Jottain tarttis tehrä oikeinkin joskus\"",
+    "description": "Kun terveysasemalla ei ole enää vettä tarjolla. Liskot joutuvat elämään ilman seuraa. Ja kännykkäsukupolvi elää Mikä-mikä-maassa.\n\nToimittajana Lasse Olkinuora\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.Kansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30. Kuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: \"Jottain tarttis tehrä oikeinkin joskus\": 2026-09-04T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-82770067ec0546cd841bf3fecc11369c/audio-1788355289049.mp3?hdnts=exp=1788590404~acl=/aod/world/78-82770067ec0546cd841bf3fecc11369c/*~hmac=6ed176ed14db3b7003e83e9b00dabd0e8597eaac917312d268bec59b63c47022"
+      }
+    ],
+    "duration_seconds": 1928,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-09-04T21:00:00+03:00"
+  }
+]
