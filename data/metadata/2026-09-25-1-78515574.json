@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78515574",
+    "webpage": "https://areena.yle.fi/1-78515574",
+    "title": "Kansanradio: Kaappaako tekoäly Jumalan?: 2026-09-25T21:00",
+    "episode_title": "Kansanradio: Kaappaako tekoäly Jumalan?",
+    "description": "Onko tekoäly nostettu liian korkealle jalustalle, kysytään tämän viikon Kansanradiossa.\nLiito-oravien hyppytolpat harmittavat ja rekkakuskeilta toivotaan moottoriteiden tukkimista. Entä koska tulee työmiesten aika?\n\nToimittajana Lasse Olkinuora",
+    "filename": "Kansanradio: Kaappaako tekoäly Jumalan?: 2026-09-25T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-d535615419ff42d684d8f356d62f30f2/audio-1790342171789.mp3?hdnts=exp=1790412005~acl=/aod/world/78-d535615419ff42d684d8f356d62f30f2/*~hmac=97cf963b2c56d8845a1c54fea401db263ea5e8074dc565f2653ef3d8ba5f3291"
+      }
+    ],
+    "duration_seconds": 1932,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-09-25T21:00:00+03:00"
+  }
+]
