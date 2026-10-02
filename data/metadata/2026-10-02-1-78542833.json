@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78542833",
+    "webpage": "https://areena.yle.fi/1-78542833",
+    "title": "Kansanradio: Kiroilu sallittu vain pukuhuoneissa: 2026-10-02T21:00",
+    "episode_title": "Kansanradio: Kiroilu sallittu vain pukuhuoneissa",
+    "description": "Kiroilu sallittu vain pukuhuoneissa\n\nSaavutuksista huolimatta lentopalloilijoiden pitäisi osata käyttäytyä, tuumitaan Kansanradiossa.\nLisäksi tämän viikon jaksossa ehdotetaan nastarenkaiden verotusta, laskuihin pidempiä maksuaikoja ja enemmän kunnioitusta hevosille.\nVeikko puolestaan haluaisi Suomen diktaattoriksi.\n\nToimittajana Lasse Olkinuora\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.Kansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30. Kuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Kiroilu sallittu vain pukuhuoneissa: 2026-10-02T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-f47a9a624e2d4eb9a8fd16f72da9acee/audio-1790940326887.mp3?hdnts=exp=1791008405~acl=/aod/world/78-f47a9a624e2d4eb9a8fd16f72da9acee/*~hmac=8893a0c174a30e09b526cc979cce2f3b3547027b2bf428b1b5673d3e7e1f1b1d"
+      }
+    ],
+    "duration_seconds": 2006,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-10-02T21:00:00+03:00"
+  }
+]
