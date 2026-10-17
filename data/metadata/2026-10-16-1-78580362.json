@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78580362",
+    "webpage": "https://areena.yle.fi/1-78580362",
+    "title": "Kansanradio: Ei ole rinkelitkään ennallaan!: 2026-10-16T21:00",
+    "episode_title": "Kansanradio: Ei ole rinkelitkään ennallaan!",
+    "description": "Kansanradiossa harmittaa, kun kaikki asiat muuttuvat huonompaan suuntaan. Parvekkeella ei saa polttaa, jumalanpalveluksessa soitetaan taustamusiikkia ja eläkeikääkin ehkä nostetaan.\n\nToimittajana Lasse Olkinuora\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.Kansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30. Kuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Ei ole rinkelitkään ennallaan!: 2026-10-16T21:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-4a5cee0c42b94b8ebd8326effd071c46/audio-1792066827453.mp3?hdnts=exp=1792272005~acl=/aod/world/78-4a5cee0c42b94b8ebd8326effd071c46/*~hmac=a0329835e848e0844c1bd584715cefccacb75d050a1cdf3568524801c5ee44fd"
+      }
+    ],
+    "duration_seconds": 1866,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1769172813/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-10-16T21:00:00+03:00"
+  }
+]
