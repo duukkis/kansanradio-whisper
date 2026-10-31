@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78627398",
+    "webpage": "https://areena.yle.fi/1-78627398",
+    "title": "Kansanradio: Miksei tupakan vastustajia saada kuriin?: 2026-10-30T18:00",
+    "episode_title": "Kansanradio: Miksei tupakan vastustajia saada kuriin?",
+    "description": "Paljon on kysymyksiä tämänkertaisessa Kansanradiossa. Miksi ei pankista saa käteistä? Miksi sairaalavaatteet ovat kivikaudelta? Miksi ei kissoja veroteta? \nJa eduskuntalaisetkin voisivat tehdä jotain, eivätkä vaan pyöritellä napavillaa.\n\nToimittajana Lasse Olkinuora\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.Kansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30. Kuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Miksei tupakan vastustajia saada kuriin?: 2026-10-30T18:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-12582f25aa9b407bb84a86a4ffcfe214/audio-1793365682177.mp3?hdnts=exp=1793470814~acl=/aod/world/78-12582f25aa9b407bb84a86a4ffcfe214/*~hmac=d712f74dcaf2ebe157a7bee3c207a13c54ad37e107b5b255b9ad8df44fefe5c2"
+      }
+    ],
+    "duration_seconds": 1965,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1792573290/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-10-30T18:00:00+02:00"
+  }
+]
