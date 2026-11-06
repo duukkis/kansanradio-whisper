@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78654385",
+    "webpage": "https://areena.yle.fi/1-78654385",
+    "title": "Kansanradio: Kohta joutuu pieruveroa maksamaan: 2026-11-06T18:00",
+    "episode_title": "Kansanradio: Kohta joutuu pieruveroa maksamaan",
+    "description": "Jälleen Kansanradiossa kuullaan ratkaisuehdotuksia kansantalouteen. Yhden kansalaisen näkemys on, että Ruotsi voisi maksaa Suomen velat. Ja televisioon haluttaisiin uusintojen tilalle pornoa.\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Kohta joutuu pieruveroa maksamaan: 2026-11-06T18:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-52d9d14c778545e597842e6ed12f7c47/audio-1793877026685.mp3?hdnts=exp=1794039605~acl=/aod/world/78-52d9d14c778545e597842e6ed12f7c47/*~hmac=547a10bd1e35698a0374a647a088a25b21da2055ace63deec9c1fd7eb02b5250"
+      }
+    ],
+    "duration_seconds": 1997,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1792573290/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-11-06T18:00:00+02:00"
+  }
+]
