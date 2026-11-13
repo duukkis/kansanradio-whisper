@@ -1,0 +1,24 @@
+[
+  {
+    "program_id": "1-78664366",
+    "webpage": "https://areena.yle.fi/1-78664366",
+    "title": "Kansanradio: Tsempatkaa eläkeläiset!: 2026-11-13T18:00",
+    "episode_title": "Kansanradio: Tsempatkaa eläkeläiset!",
+    "description": "Yksi Kansanradion soittaja muistuttaa, että lapsiperheilläkin on taloudellisesti tiukkaa, eikä vain eläkeläisillä. Toinen kansalainen tuo esiin Putinin hyviä puolia, hänhän lopetti koronan. Ja poliisia toivottiin tarkkailemaan tanssijoiden pikkuhousuja.\n\nToimittajana Lauri Koivisto.\n\nOsallistu keskusteluun ja soita 0800 154 64 tai WhatsApp 044 55 154 64.\nKansanradion ihmisvastaaja numerossa 0800 154 64 sunnuntaisin klo 12.30 - 15.30.\n\nKuuntelijoiden juttupaikka - tosikoille ja veitikoille. yle.fi/kansanradio",
+    "filename": "Kansanradio: Tsempatkaa eläkeläiset!: 2026-11-13T18:00.mp3",
+    "flavors": [
+      {
+        "media_type": "audio",
+        "backends": [
+          "wget"
+        ],
+        "url": "https://yleawsaudioipv4.akamaized.net/aod/world/78-46e496f9f6074bca99623f77b80ea3e0/audio-1794492490184.mp3?hdnts=exp=1794631204~acl=/aod/world/78-46e496f9f6074bca99623f77b80ea3e0/*~hmac=e8b019eeafbe9890d21a1676db35c28c2633ce068ade53bcb59d232a2c17a69b"
+      }
+    ],
+    "duration_seconds": 1995,
+    "subtitles": [],
+    "thumbnail": "https://images.cdn.yle.fi/image/upload/f_auto,c_limit,w_1080,q_auto/v1792573290/13-1-2143312-1611653020795",
+    "region": "World",
+    "publish_timestamp": "2026-11-13T18:00:00+02:00"
+  }
+]
